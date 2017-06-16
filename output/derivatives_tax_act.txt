@@ -1,4 +1,3 @@
-FRA17032   S.L.C.
 
 
 
@@ -30,7 +29,6 @@ To amend the Internal Revenue Code of 1986 to modernize
  7 wise expressly provided, whenever in this Act an amend-
  8 ment or repeal is expressed in terms of an amendment
  9 to, or repeal of, a section or other provision, the reference
-FRA17032     S.L.C.
                              2
  1 shall be considered to be made to a section or other provi-
  2 sion of the Internal Revenue Code of 1986.
@@ -57,7 +55,6 @@ FRA17032     S.L.C.
 19           ‘‘(2) proper adjustment shall be made in the
 20      amount of any subsequent gain or loss for gain or
 21      loss taken into account by reason of paragraph (1).
-FRA17032    S.L.C.
                             3
  1      ‘‘(b) ULES  RELATING TO  G AIN OR LOSS .—Notwith-
  2 standing any other provision of this title—
@@ -83,7 +80,6 @@ FRA17032    S.L.C.
 22               ‘‘(A) IN GENERAL  .—The amount of gain
 23           or loss taken into account under subsection (a)
 24           with respect to a taxable event shall be—
-FRA17032     S.L.C.
                              4
  1                    ‘‘(i) in the case of a taxable event in-
  2                volving the termination or transfer of a de-
@@ -110,7 +106,6 @@ FRA17032     S.L.C.
 23                financial statement.
 24           ‘‘(3) SPECIAL RULES FOR TAXABLE EVENTS
 25      WITH RESPECT TO INVESTMENT HEDGING UNITS        .—
-FRA17032     S.L.C.
                              5
  1                ‘‘(A) N GENERAL   .—In the case of a tax-
  2           able event described in subsection (c)(2) with
@@ -137,7 +132,6 @@ FRA17032     S.L.C.
 23           this paragraph, the determination of which por-
 24           tions of an underlying investment have been
 25           deemed sold or exchanged in a taxable event
-FRA17032     S.L.C.
                              6
  1           shall be made in the same manner as if there
  2           had been an actual sale or exchange.
@@ -163,7 +157,6 @@ FRA17032     S.L.C.
 22           ment were sold or exchanged at its fair market
 23           value as of the later of the time that the invest-
 24           ment hedging unit was established or the time
-FRA17032     S.L.C.
                              7
  1           the underlying investment became part of the
  2           investment hedging unit.
@@ -190,7 +183,6 @@ FRA17032     S.L.C.
 23           of such underlying investment, after the estab-
 24           lishment of the investment hedging unit if such
 25           derivative or additional amount is treated as
-FRA17032    S.L.C.
                             8
  1           part of the investment hedging unit under sec-
  2           tion 492, and
@@ -217,7 +209,6 @@ FRA17032    S.L.C.
 23      lations prescribed by the Secretary, in the case of a
 24      payment pursuant to a derivative (other than an op-
 25      tion)—
-FRA17032    S.L.C.
                            9
  1               ‘‘(A) any item of income, deduction, gain,
  2          or loss with respect to the payment shall be
@@ -244,7 +235,6 @@ FRA17032    S.L.C.
 23 purposes of section 1222, in the case of any underlying
 24 investment which is part of an investment hedging unit,
 25 the holding period for such investment shall not include
-FRA17032     S.L.C.
                             10
  1 any period during which the underlying investment is part
  2 of such unit.
@@ -271,7 +261,6 @@ FRA17032     S.L.C.
 23                ‘‘(C) filed by the taxpayer with any other
 24           Federal agency for purposes other than Federal
 25           tax purposes, but only if there is no statement
-FRA17032    S.L.C.
                             11
  1           of the taxpayer described in subparagraph (A)
  2           or (B),
@@ -297,7 +286,6 @@ FRA17032    S.L.C.
 22               ‘‘(A) a taxpayer shall be treated as having
 23           an investment hedging unit with respect to an
 24           underlying investment during any applicable
-FRA17032     S.L.C.
                              12
  1           hedging period with respect to the underlying
  2           investment, and
@@ -324,7 +312,6 @@ FRA17032     S.L.C.
 23           period which is not an applicable hedging pe-
 24           riod) the taxpayer holds 1 or more of the de-
 25           rivatives with respect to the underlying invest-
-FRA17032    S.L.C.
                            13
  1           ment, and 1 or more portions of the underlying
  2           investment, which are described in paragraph
@@ -351,7 +338,6 @@ FRA17032    S.L.C.
 23      unit.
 24           ‘‘(2) LECTION .—Any election under this sub-
 25      section with respect to an underlying investment—
-FRA17032     S.L.C.
                             14
  1                ‘‘(A) shall apply to all derivatives with re-
  2           spect to the underlying investment, and all of
@@ -377,7 +363,6 @@ FRA17032     S.L.C.
 22           under this paragraph—
 23                    ‘‘(i) shall be treated as made as of the
 24                first time the taxpayer fails to meet the re-
-FRA17032    S.L.C.
                            15
  1               quirements of subsection (c) with respect
  2               to the underlying investment, and
@@ -404,7 +389,6 @@ FRA17032    S.L.C.
 23               (a)(1)(B)(ii).
 24               ‘‘(B) DERIVATIVES AND UNDERLYING IN    -
 25           VESTMENT NOT PART OF HEDGING UNIT      .—A
-FRA17032     S.L.C.
                             16
  1           taxpayer shall identify the derivatives with re-
  2           spect to an underlying investment, and the por-
@@ -431,7 +415,6 @@ FRA17032     S.L.C.
 23                         ‘‘(I) enters into another deriva-
 24                    tive with respect to the underlying in-
 25                    vestment or acquires an additional
-FRA17032     S.L.C.
                             17
  1                    amount of such underlying invest-
  2                    ment, or
@@ -457,7 +440,6 @@ FRA17032     S.L.C.
 22           taxpayer with respect to an underlying invest-
 23           ment at a time other than the times required
 24           under subparagraph (A).
-FRA17032     S.L.C.
                              18
  1           ‘‘(4) MANNER  .—A taxpayer shall be treated as
  2       timely making the identifications required under this
@@ -483,7 +465,6 @@ FRA17032     S.L.C.
 22       fair market value of the underlying investment.
 23           ‘‘(2) METHOD OF DETERMINATION     .—The delta
 24       with respect to any derivative with respect to an un-
-FRA17032    S.L.C.
                             19
  1      derlying investment (or any combination of such de-
  2      rivatives) shall be determined—
@@ -510,7 +491,6 @@ FRA17032    S.L.C.
 23           TIONS  OF  UNDERLYING   INVESTMENTS   .—The
 24           Secretary may by regulations provide methods
 25           for determining the delta of any derivative with
-FRA17032    S.L.C.
                             20
  1           respect to certain combinations of 2 or more
  2           underlying investments.
@@ -537,7 +517,6 @@ FRA17032    S.L.C.
 23           vestment if such item is treated as a security
 24           under section 475 (including a commodity
 25           treated as a security under section 475(e)).
-FRA17032     S.L.C.
                              21
  1           ‘‘(2) ESTABLISHMENT OF INVESTMENT HEDG        -
  2       ING UNIT .—A taxpayer shall be treated as having
@@ -564,7 +543,6 @@ FRA17032     S.L.C.
 23           trust, or other entity would properly be taken
 24           into account for purposes of this chapter by the
 25           taxpayer, then, except to the extent otherwise
-FRA17032     S.L.C.
                             22
  1           provided in regulations, such derivative or in-
  2           vestment shall be treated as held by the tax-
@@ -591,7 +569,6 @@ FRA17032     S.L.C.
 23           223(d)), of the taxpayer or of any individual de-
 24           scribed in subparagraph (A) or (B) with respect
 25           to the taxpayer,
-FRA17032     S.L.C.
                              23
  1                ‘‘(E) is an account under a qualified tui-
  2           tion program described in section 529, an
@@ -618,7 +595,6 @@ FRA17032     S.L.C.
 23           if the taxpayer or any individual described in
 24           subparagraph (A) or (B) with respect to the
 25           taxpayer has the right to make any decision
-FRA17032     S.L.C.
                              24
  1           with respect to the investment of any amount in
  2           such account, or
@@ -645,7 +621,6 @@ FRA17032     S.L.C.
 23 derivatives described in subsection (d)(4) for purposes of
 24 applying this part or which may be necessary to prevent
 25 the avoidance of the purposes of subsection (f) (including
-FRA17032     S.L.C.
                              25
  1 treating persons as related parties if such persons are
  2 formed or availed of to avoid the purposes of such sub-
@@ -671,7 +646,6 @@ FRA17032     S.L.C.
 22       algorithm.
 23           ‘‘(8) Any other item as the Secretary may pre-
 24       scribe.
-FRA17032     S.L.C.
                             26
  1 Except as provided in regulations prescribed by the Sec-
  2 retary to prevent the avoidance of the purposes of this
@@ -698,7 +672,6 @@ FRA17032     S.L.C.
 23                    ‘‘(ii) OPTION   OF   CASH   SETTLE  -
 24                MENT .—For purposes of clause (i), a con-
 25                tract provides an option of cash settlement
-FRA17032     S.L.C.
                              27
  1                if the contract settles in (or could be set-
  2                tled in) cash or property other than the
@@ -724,7 +697,6 @@ FRA17032     S.L.C.
 22       this part, the term ‘derivative’ shall not include any
 23       option described in section 83(e)(3) received in con-
 24       nection with the performance of services.
-FRA17032     S.L.C.
                              28
  1           ‘‘(5) NSURANCE CONTRACTS     ,ANNUITIES  ,AND
  2       ENDOWMENTS   .—For purposes of this part, the term
@@ -751,7 +723,6 @@ FRA17032     S.L.C.
 23           unusual and exceptional circumstances, and
 24                ‘‘(B) such commodity is used (and is used
 25           in quantities with respect to which such deriva-
-FRA17032    S.L.C.
                            29
  1          tive relates) in the normal course of the tax-
  2          payer’s trade or business (or, in the case of an
@@ -778,7 +749,6 @@ FRA17032    S.L.C.
 23          fined).
 24      ‘‘(d) REATMENT OF    AMERICAN  D EPOSITORY  RE -
 25  CEIPTS AND  SIMILAR INSTRUMENTS  .—Except as other-
-FRA17032     S.L.C.
                              30
  1 wise provided by the Secretary, for purposes of this part,
  2 American depository receipts (and similar instruments)
@@ -804,7 +774,6 @@ FRA17032     S.L.C.
 21       or obligation with respect to property other than—
 22                ‘‘(A) a derivative (as defined in section
 23           493), or
-FRA17032    S.L.C.
                            31
  1               ‘‘(B) any position in applicable property to
  2          which section 1092 applies.
@@ -830,7 +799,6 @@ FRA17032    S.L.C.
 22          (C), (D), or (E)’’ in subparagraph (D)(i), as so
 23          redesignated, and inserting ‘‘subparagraph (A),
 24          (B), or (C)’’, and
-FRA17032     S.L.C.
                             32
  1                (D) by amending the last sentence to read
  2           as follows: ‘‘Such term shall not include any de-
@@ -857,7 +825,6 @@ FRA17032     S.L.C.
 23                (C) Section 475(f)(1)(D) is amended by
 24           striking ‘‘subsections (b)(4) and (d)’’ and in-
 25           serting ‘‘subsection (d)’’.
-FRA17032    S.L.C.
                            33
  1      (b) COORDINATION  W ITHS TRADDLE  RULES .—
  2          (1) IN GENERAL .—Section 1092 is amended to
@@ -884,7 +851,6 @@ FRA17032    S.L.C.
 23      this subsection—
 24               ‘‘(A) N GENERAL  .—The term ‘unrecog-
 25          nized gain’ means—
-FRA17032     S.L.C.
                              34
  1                    ‘‘(i) in the case of any position held
  2                by the taxpayer as of the close of the tax-
@@ -911,7 +877,6 @@ FRA17032     S.L.C.
 23           port under this subparagraph with respect to
 24           any position if such reporting is not required to
 25           carry out the purposes of this section.
-FRA17032     S.L.C.
                             35
  1           ‘‘(3) SPECIAL RULES FOR PHYSICALLY SET       -
  2      TLED POSITIONS  .—For purposes of this subsection,
@@ -936,7 +901,6 @@ FRA17032     S.L.C.
 21 peal).
 22      ‘‘(c) DEFINITIONS AND  RULES  R ELATING TO  STRAD -
 23  DLES .—For purposes of this section—
-FRA17032    S.L.C.
                             36
  1           ‘‘(1) TRADDLE DEFINED   .—The term ‘straddle’
  2      means offsetting positions with respect to applicable
@@ -963,7 +927,6 @@ FRA17032    S.L.C.
 23           property with respect to another position in ap-
 24           plicable property (or any combination of such
 25           positions) shall be determined—
-FRA17032    S.L.C.
                             37
  1                    ‘‘(i) in a commercially reasonable
  2               manner, and
@@ -988,7 +951,6 @@ FRA17032    S.L.C.
 21                    ‘‘(ii) of a type which is actively trad-
 22               ed.
 23               ‘‘(B) POSITION .—
-FRA17032     S.L.C.
                             38
  1                    ‘‘(i) N GENERAL   .—The term ‘posi-
  2                tion’ means an interest in applicable prop-
@@ -1015,7 +977,6 @@ FRA17032     S.L.C.
 23      RENCY  .—
 24                ‘‘(A) POSITION TO INCLUDE INTEREST IN
 25           CERTAIN DEBT   .—For purposes of paragraph
-FRA17032    S.L.C.
                            39
  1           (4)(B)(i), an obligor’s interest in a nonfunc-
  2           tional currency denominated debt obligation is
@@ -1041,7 +1002,6 @@ FRA17032    S.L.C.
 22           peal)’’ after ‘‘section 1092(c)(4)’’, and
 23               (B) by inserting ‘‘(as so in effect)’’ after
 24           ‘‘section 1092(f)’’.
-FRA17032    S.L.C.
                             40
  1      (c) DEBT  INSTRUMENTS   H ELD BY INSURANCE   COM -
  2  PANIES .—
@@ -1068,7 +1028,6 @@ FRA17032    S.L.C.
 23                    ‘‘(ii) with respect to which sections
 24               831(b), 835, 842, and 847 do not apply,
 25               and
-FRA17032     S.L.C.
                             41
  1                    ‘‘(iii) which is not treated as a stock
  2                insurance company solely by reason of sec-
@@ -1094,7 +1053,6 @@ FRA17032     S.L.C.
 22           carry out the purposes of subsection (a)(9), in-
 23           cluding such regulations as may be necessary to
 24           prevent the avoidance of Federal income tax
-FRA17032    S.L.C.
                             42
  1           through the sale or exchange of assets described
  2           in such subsection.’’.
@@ -1119,7 +1077,6 @@ FRA17032    S.L.C.
 21               sets to which section 1221(a)(9) of such
 22               Code (as added by paragraph (1)) applies,
 23               or
-FRA17032    S.L.C.
                            43
  1                   (ii) the capital loss carryovers to such
  2               taxable year from taxable years beginning
@@ -1146,7 +1103,6 @@ FRA17032    S.L.C.
 23          clause (iii) and inserting ‘‘RIC or REIT’’.
 24          (3) O THER MODIFICATIONS .—Paragraph (6) of
 25      section 172(d) is amended to read follows:
-FRA17032    S.L.C.
                             44
  1           ‘‘(6) MODIFICATIONS RELATED TO RICS AND
  2      REITS .—In the case of any taxable year for which
@@ -1172,7 +1128,6 @@ FRA17032    S.L.C.
 22           to—
 23                    ‘‘(i) in the case of a regulated invest-
 24               ment company, regulated investment com-
-FRA17032    S.L.C.
                           45
  1              pany taxable income (as defined in section
  2              852(b)(2), and
@@ -1199,7 +1154,6 @@ FRA17032    S.L.C.
 23             SPECT TO ITS STOCK.
 24      ‘‘(a) ONRECOGNITION ON    EXCHANGE OF   S TOCK
 25  FOR PROPERTY .—No gain or loss shall be recognized to
-FRA17032    S.L.C.
                            46
  1 a corporation on the receipt of money or other property
  2 in exchange for stock of such corporation.
@@ -1226,7 +1180,6 @@ FRA17032    S.L.C.
 23           corporation entered into the forward contract
 24           were original issue discount on a debt instru-
 25           ment acquired on such date. The preceding sen-
-FRA17032     S.L.C.
                              47
  1           tence shall apply only to the extent that the
  2           amount of stock involved in the forward con-
@@ -1253,7 +1206,6 @@ FRA17032     S.L.C.
 23       extinguishment of any such right or obligation), or
 24           ‘‘(2) such item arises under any other contract
 25       or position but only to the extent that such item re-
-FRA17032    S.L.C.
                             48
  1      flects (or is determined by reference to) changes in
  2      the value of such stock or distributions thereon.
@@ -1280,7 +1232,6 @@ FRA17032    S.L.C.
 23      ‘‘(e) REGULATIONS  .—The Secretary shall prescribe
 24 such regulations or other guidance as may be appropriate
 25 to carry out the purposes of this section, including regula-
-FRA17032    S.L.C.
                            49
  1 tions or other guidance which treat the portion of an in-
  2 strument which is described in subsection (c)(1) separately
@@ -1306,7 +1257,6 @@ FRA17032    S.L.C.
 21      1234, 1234A, 1234B, 1236, 1256, 1258, 1259, and
 22      1260 (and by striking the items relating to such sec-
 23      tions in the table of sections for such part).
-FRA17032    S.L.C.
                             50
  1           (2) C ONFORMING AMENDMENTS RELATED TO
  2      REPEAL OF SECTION 1234    .—Section 6045(h)(2) is
@@ -1332,7 +1282,6 @@ FRA17032    S.L.C.
 22                    (ii) by redesignating subsection (c) as
 23               subsection (d) and by inserting after sub-
 24               section (b) the following new subsection:
-FRA17032     S.L.C.
                              51
  1       ‘‘(c) ECURITIES .—For purposes of this section, the
  2 term ‘security’ means any share of stock in any corpora-
@@ -1359,7 +1308,6 @@ FRA17032     S.L.C.
 23                         (II) by striking ‘‘subsection (j)’’
 24                    in subsection (i)(4) and inserting
 25                    ‘‘subsection (k)’’.
-FRA17032    S.L.C.
                            52
  1               (B) Section 475(d)(1) is amended by strik-
  2           ing ‘‘sections 263(g), 263A, and 1256(a)’’ and
@@ -1385,7 +1333,6 @@ FRA17032    S.L.C.
 22      amended by striking subparagraph (C) and by redes-
 23      ignating subparagraph (D) as subparagraph (C).
 24      (b) OTHER  CONFORMING   AMENDMENTS   .—
-FRA17032    S.L.C.
                            53
  1          (1) Section 355(g)(2)(B)(i)(V) is amended to
  2      read as follows:
@@ -1412,7 +1359,6 @@ FRA17032    S.L.C.
 23      or
 24          ‘‘(2) any underlying investment (as defined in
 25      section 492(e)(1)) which, at the time of the sale or
-FRA17032     S.L.C.
                              54
  1       other disposition, is part of an investment hedging
  2       unit (as defined in section 492).’’.
@@ -1439,7 +1385,6 @@ FRA17032     S.L.C.
 23                    ‘‘(ii) COMMODITY  .—The term ‘com-
 24                modity’ means any commodity described in
 25                section 475(e)(2) (without regard to sub-
-FRA17032     S.L.C.
                              55
  1                paragraph (B)(iii) thereof) and any deriva-
  2                tive with respect to such a commodity
@@ -1468,7 +1413,6 @@ FRA17032     S.L.C.
 21 investment—
 22           (1) the taxpayer shall make the identifications
 23       required under section 492(c)(2) of Internal Rev-
-FRA17032     S.L.C.
                              56
  1       enue Code of 1986 (as added by section 2 of this
  2       Act) before the close of such period, and
