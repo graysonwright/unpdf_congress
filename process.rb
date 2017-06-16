@@ -1,6 +1,8 @@
 require "pdf-reader"
 require "ruby-progressbar"
 
+require "./processors/remove_blank_lines"
+
 INPUT_DIRECTORY = "examples"
 OUTPUT_DIRECTORY = "output"
 
@@ -22,6 +24,8 @@ input_files.each do |input_file|
     progress.increment
     page.text
   end.join("\n")
+
+  output = Processors::RemoveBlankLines.process(output)
 
   output_filename = input_file.
     gsub(INPUT_DIRECTORY, OUTPUT_DIRECTORY).
