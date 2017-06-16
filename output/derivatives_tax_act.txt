@@ -29,7 +29,6 @@ To amend the Internal Revenue Code of 1986 to modernize
  7 wise expressly provided, whenever in this Act an amend-
  8 ment or repeal is expressed in terms of an amendment
  9 to, or repeal of, a section or other provision, the reference
-                             2
  1 shall be considered to be made to a section or other provi-
  2 sion of the Internal Revenue Code of 1986.
  3  SEC. 2. MODERNIZATION OF TAX TREATMENT OF CERTAIN
@@ -55,7 +54,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 19           ‘‘(2) proper adjustment shall be made in the
 20      amount of any subsequent gain or loss for gain or
 21      loss taken into account by reason of paragraph (1).
-                            3
  1      ‘‘(b) ULES  RELATING TO  G AIN OR LOSS .—Notwith-
  2 standing any other provision of this title—
  3           ‘‘(1) CHARACTER AND SOURCE OF GAIN OR
@@ -80,7 +78,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22               ‘‘(A) IN GENERAL  .—The amount of gain
 23           or loss taken into account under subsection (a)
 24           with respect to a taxable event shall be—
-                             4
  1                    ‘‘(i) in the case of a taxable event in-
  2                volving the termination or transfer of a de-
  3                rivative or the sale or exchange of an un-
@@ -106,7 +103,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                financial statement.
 24           ‘‘(3) SPECIAL RULES FOR TAXABLE EVENTS
 25      WITH RESPECT TO INVESTMENT HEDGING UNITS        .—
-                             5
  1                ‘‘(A) N GENERAL   .—In the case of a tax-
  2           able event described in subsection (c)(2) with
  3           respect to a derivative or underlying investment
@@ -132,7 +128,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           this paragraph, the determination of which por-
 24           tions of an underlying investment have been
 25           deemed sold or exchanged in a taxable event
-                             6
  1           shall be made in the same manner as if there
  2           had been an actual sale or exchange.
  3                ‘‘(C) B UILT-IN  LOSS .—For purposes of
@@ -157,7 +152,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22           ment were sold or exchanged at its fair market
 23           value as of the later of the time that the invest-
 24           ment hedging unit was established or the time
-                             7
  1           the underlying investment became part of the
  2           investment hedging unit.
  3      ‘‘(c) TAXABLE  E VENT .—For purposes of this part,
@@ -183,7 +177,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           of such underlying investment, after the estab-
 24           lishment of the investment hedging unit if such
 25           derivative or additional amount is treated as
-                            8
  1           part of the investment hedging unit under sec-
  2           tion 492, and
  3               ‘‘(E) in the case of—
@@ -209,7 +202,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23      lations prescribed by the Secretary, in the case of a
 24      payment pursuant to a derivative (other than an op-
 25      tion)—
-                           9
  1               ‘‘(A) any item of income, deduction, gain,
  2          or loss with respect to the payment shall be
  3          taken into account for purposes of this title at
@@ -235,7 +227,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23 purposes of section 1222, in the case of any underlying
 24 investment which is part of an investment hedging unit,
 25 the holding period for such investment shall not include
-                            10
  1 any period during which the underlying investment is part
  2 of such unit.
  3      ‘‘(f) A PPLICABLE   F INANCIAL   STATEMENT  .—For
@@ -261,7 +252,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                ‘‘(C) filed by the taxpayer with any other
 24           Federal agency for purposes other than Federal
 25           tax purposes, but only if there is no statement
-                            11
  1           of the taxpayer described in subparagraph (A)
  2           or (B),
  3           ‘‘(2) a financial statement which is made on the
@@ -286,7 +276,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22               ‘‘(A) a taxpayer shall be treated as having
 23           an investment hedging unit with respect to an
 24           underlying investment during any applicable
-                             12
  1           hedging period with respect to the underlying
  2           investment, and
  3                ‘‘(B) subject to paragraph (3), such invest-
@@ -312,7 +301,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           period which is not an applicable hedging pe-
 24           riod) the taxpayer holds 1 or more of the de-
 25           rivatives with respect to the underlying invest-
-                           13
  1           ment, and 1 or more portions of the underlying
  2           investment, which are described in paragraph
  3           (1)(B), and
@@ -338,7 +326,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23      unit.
 24           ‘‘(2) LECTION .—Any election under this sub-
 25      section with respect to an underlying investment—
-                            14
  1                ‘‘(A) shall apply to all derivatives with re-
  2           spect to the underlying investment, and all of
  3           the underlying investment, held at any time
@@ -363,7 +350,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22           under this paragraph—
 23                    ‘‘(i) shall be treated as made as of the
 24                first time the taxpayer fails to meet the re-
-                           15
  1               quirements of subsection (c) with respect
  2               to the underlying investment, and
  3                   ‘‘(ii) notwithstanding paragraph
@@ -389,7 +375,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23               (a)(1)(B)(ii).
 24               ‘‘(B) DERIVATIVES AND UNDERLYING IN    -
 25           VESTMENT NOT PART OF HEDGING UNIT      .—A
-                            16
  1           taxpayer shall identify the derivatives with re-
  2           spect to an underlying investment, and the por-
  3           tions of the underlying investment, which are
@@ -415,7 +400,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                         ‘‘(I) enters into another deriva-
 24                    tive with respect to the underlying in-
 25                    vestment or acquires an additional
-                            17
  1                    amount of such underlying invest-
  2                    ment, or
  3                         ‘‘(II) terminates or transfers 1 or
@@ -440,7 +424,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22           taxpayer with respect to an underlying invest-
 23           ment at a time other than the times required
 24           under subparagraph (A).
-                             18
  1           ‘‘(4) MANNER  .—A taxpayer shall be treated as
  2       timely making the identifications required under this
  3       subsection if derivatives with respect to, and por-
@@ -465,7 +448,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22       fair market value of the underlying investment.
 23           ‘‘(2) METHOD OF DETERMINATION     .—The delta
 24       with respect to any derivative with respect to an un-
-                            19
  1      derlying investment (or any combination of such de-
  2      rivatives) shall be determined—
  3               ‘‘(A) in a commercially reasonable manner,
@@ -491,7 +473,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           TIONS  OF  UNDERLYING   INVESTMENTS   .—The
 24           Secretary may by regulations provide methods
 25           for determining the delta of any derivative with
-                            20
  1           respect to certain combinations of 2 or more
  2           underlying investments.
  3      ‘‘(e) OTHER  D EFINITIONS AND   RULES .—For pur-
@@ -517,7 +498,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           vestment if such item is treated as a security
 24           under section 475 (including a commodity
 25           treated as a security under section 475(e)).
-                             21
  1           ‘‘(2) ESTABLISHMENT OF INVESTMENT HEDG        -
  2       ING UNIT .—A taxpayer shall be treated as having
  3       established an investment hedging unit with respect
@@ -543,7 +523,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           trust, or other entity would properly be taken
 24           into account for purposes of this chapter by the
 25           taxpayer, then, except to the extent otherwise
-                            22
  1           provided in regulations, such derivative or in-
  2           vestment shall be treated as held by the tax-
  3           payer.
@@ -569,7 +548,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           223(d)), of the taxpayer or of any individual de-
 24           scribed in subparagraph (A) or (B) with respect
 25           to the taxpayer,
-                             23
  1                ‘‘(E) is an account under a qualified tui-
  2           tion program described in section 529, an
  3           ABLE account (as defined in section
@@ -595,7 +573,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           if the taxpayer or any individual described in
 24           subparagraph (A) or (B) with respect to the
 25           taxpayer has the right to make any decision
-                             24
  1           with respect to the investment of any amount in
  2           such account, or
  3                ‘‘(G) files a consolidated return (within the
@@ -621,7 +598,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23 derivatives described in subsection (d)(4) for purposes of
 24 applying this part or which may be necessary to prevent
 25 the avoidance of the purposes of subsection (f) (including
-                             25
  1 treating persons as related parties if such persons are
  2 formed or availed of to avoid the purposes of such sub-
  3 section).
@@ -646,7 +622,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22       algorithm.
 23           ‘‘(8) Any other item as the Secretary may pre-
 24       scribe.
-                            26
  1 Except as provided in regulations prescribed by the Sec-
  2 retary to prevent the avoidance of the purposes of this
  3 part, such term shall not include any item described in
@@ -672,7 +647,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                    ‘‘(ii) OPTION   OF   CASH   SETTLE  -
 24                MENT .—For purposes of clause (i), a con-
 25                tract provides an option of cash settlement
-                             27
  1                if the contract settles in (or could be set-
  2                tled in) cash or property other than the
  3                underlying real property.
@@ -697,7 +671,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22       this part, the term ‘derivative’ shall not include any
 23       option described in section 83(e)(3) received in con-
 24       nection with the performance of services.
-                             28
  1           ‘‘(5) NSURANCE CONTRACTS     ,ANNUITIES  ,AND
  2       ENDOWMENTS   .—For purposes of this part, the term
  3       ‘derivative’ shall not include any insurance, annuity,
@@ -723,7 +696,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           unusual and exceptional circumstances, and
 24                ‘‘(B) such commodity is used (and is used
 25           in quantities with respect to which such deriva-
-                           29
  1          tive relates) in the normal course of the tax-
  2          payer’s trade or business (or, in the case of an
  3          individual, for personal consumption).
@@ -749,7 +721,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23          fined).
 24      ‘‘(d) REATMENT OF    AMERICAN  D EPOSITORY  RE -
 25  CEIPTS AND  SIMILAR INSTRUMENTS  .—Except as other-
-                             30
  1 wise provided by the Secretary, for purposes of this part,
  2 American depository receipts (and similar instruments)
  3 with respect to shares of stock in foreign corporations
@@ -774,7 +745,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 21       or obligation with respect to property other than—
 22                ‘‘(A) a derivative (as defined in section
 23           493), or
-                           31
  1               ‘‘(B) any position in applicable property to
  2          which section 1092 applies.
  3          ‘‘(2) TAXABLE TRANSACTION  .—The term ‘tax-
@@ -799,7 +769,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22          (C), (D), or (E)’’ in subparagraph (D)(i), as so
 23          redesignated, and inserting ‘‘subparagraph (A),
 24          (B), or (C)’’, and
-                            32
  1                (D) by amending the last sentence to read
  2           as follows: ‘‘Such term shall not include any de-
  3           rivative to which section 491(a) applies.’’
@@ -825,7 +794,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                (C) Section 475(f)(1)(D) is amended by
 24           striking ‘‘subsections (b)(4) and (d)’’ and in-
 25           serting ‘‘subsection (d)’’.
-                           33
  1      (b) COORDINATION  W ITHS TRADDLE  RULES .—
  2          (1) IN GENERAL .—Section 1092 is amended to
  3      read as follows:
@@ -851,7 +819,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23      this subsection—
 24               ‘‘(A) N GENERAL  .—The term ‘unrecog-
 25          nized gain’ means—
-                             34
  1                    ‘‘(i) in the case of any position held
  2                by the taxpayer as of the close of the tax-
  3                able year, the amount of gain which would
@@ -877,7 +844,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           port under this subparagraph with respect to
 24           any position if such reporting is not required to
 25           carry out the purposes of this section.
-                            35
  1           ‘‘(3) SPECIAL RULES FOR PHYSICALLY SET       -
  2      TLED POSITIONS  .—For purposes of this subsection,
  3      if a taxpayer settles a position which is part of a
@@ -901,7 +867,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 21 peal).
 22      ‘‘(c) DEFINITIONS AND  RULES  R ELATING TO  STRAD -
 23  DLES .—For purposes of this section—
-                            36
  1           ‘‘(1) TRADDLE DEFINED   .—The term ‘straddle’
  2      means offsetting positions with respect to applicable
  3      property.
@@ -927,7 +892,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           property with respect to another position in ap-
 24           plicable property (or any combination of such
 25           positions) shall be determined—
-                            37
  1                    ‘‘(i) in a commercially reasonable
  2               manner, and
  3                    ‘‘(ii) except as provided by the Sec-
@@ -951,7 +915,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 21                    ‘‘(ii) of a type which is actively trad-
 22               ed.
 23               ‘‘(B) POSITION .—
-                            38
  1                    ‘‘(i) N GENERAL   .—The term ‘posi-
  2                tion’ means an interest in applicable prop-
  3                erty.
@@ -977,7 +940,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23      RENCY  .—
 24                ‘‘(A) POSITION TO INCLUDE INTEREST IN
 25           CERTAIN DEBT   .—For purposes of paragraph
-                           39
  1           (4)(B)(i), an obligor’s interest in a nonfunc-
  2           tional currency denominated debt obligation is
  3           treated as a position in the nonfunctional cur-
@@ -1002,7 +964,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22           peal)’’ after ‘‘section 1092(c)(4)’’, and
 23               (B) by inserting ‘‘(as so in effect)’’ after
 24           ‘‘section 1092(f)’’.
-                            40
  1      (c) DEBT  INSTRUMENTS   H ELD BY INSURANCE   COM -
  2  PANIES .—
  3           (1) IN GENERAL   .—Subsection (a) of section
@@ -1028,7 +989,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                    ‘‘(ii) with respect to which sections
 24               831(b), 835, 842, and 847 do not apply,
 25               and
-                            41
  1                    ‘‘(iii) which is not treated as a stock
  2                insurance company solely by reason of sec-
  3                tion 833(a)(1).
@@ -1053,7 +1013,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22           carry out the purposes of subsection (a)(9), in-
 23           cluding such regulations as may be necessary to
 24           prevent the avoidance of Federal income tax
-                            42
  1           through the sale or exchange of assets described
  2           in such subsection.’’.
  3           (4) EFFECTIVE DATE  .—
@@ -1077,7 +1036,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 21               sets to which section 1221(a)(9) of such
 22               Code (as added by paragraph (1)) applies,
 23               or
-                           43
  1                   (ii) the capital loss carryovers to such
  2               taxable year from taxable years beginning
  3               before the close of such period.
@@ -1103,7 +1061,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23          clause (iii) and inserting ‘‘RIC or REIT’’.
 24          (3) O THER MODIFICATIONS .—Paragraph (6) of
 25      section 172(d) is amended to read follows:
-                            44
  1           ‘‘(6) MODIFICATIONS RELATED TO RICS AND
  2      REITS .—In the case of any taxable year for which
  3      part I or II of subchapter M applies to the tax-
@@ -1128,7 +1085,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22           to—
 23                    ‘‘(i) in the case of a regulated invest-
 24               ment company, regulated investment com-
-                          45
  1              pany taxable income (as defined in section
  2              852(b)(2), and
  3                  ‘‘(ii) in the case of a real estate in-
@@ -1154,7 +1110,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23             SPECT TO ITS STOCK.
 24      ‘‘(a) ONRECOGNITION ON    EXCHANGE OF   S TOCK
 25  FOR PROPERTY .—No gain or loss shall be recognized to
-                           46
  1 a corporation on the receipt of money or other property
  2 in exchange for stock of such corporation.
  3      ‘‘(b) ERIVATIVE T RANSACTIONS BY A  CORPORATION
@@ -1180,7 +1135,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23           corporation entered into the forward contract
 24           were original issue discount on a debt instru-
 25           ment acquired on such date. The preceding sen-
-                             47
  1           tence shall apply only to the extent that the
  2           amount of stock involved in the forward con-
  3           tract does not exceed the amount acquired as
@@ -1206,7 +1160,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23       extinguishment of any such right or obligation), or
 24           ‘‘(2) such item arises under any other contract
 25       or position but only to the extent that such item re-
-                            48
  1      flects (or is determined by reference to) changes in
  2      the value of such stock or distributions thereon.
  3 Such term shall not include any deduction with respect
@@ -1232,7 +1185,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23      ‘‘(e) REGULATIONS  .—The Secretary shall prescribe
 24 such regulations or other guidance as may be appropriate
 25 to carry out the purposes of this section, including regula-
-                           49
  1 tions or other guidance which treat the portion of an in-
  2 strument which is described in subsection (c)(1) separately
  3 from the portion of such instrument which is not so de-
@@ -1257,7 +1209,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 21      1234, 1234A, 1234B, 1236, 1256, 1258, 1259, and
 22      1260 (and by striking the items relating to such sec-
 23      tions in the table of sections for such part).
-                            50
  1           (2) C ONFORMING AMENDMENTS RELATED TO
  2      REPEAL OF SECTION 1234    .—Section 6045(h)(2) is
  3      amended—
@@ -1282,7 +1233,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22                    (ii) by redesignating subsection (c) as
 23               subsection (d) and by inserting after sub-
 24               section (b) the following new subsection:
-                             51
  1       ‘‘(c) ECURITIES .—For purposes of this section, the
  2 term ‘security’ means any share of stock in any corpora-
  3 tion, certificate of stock or interest in any corporation,
@@ -1308,7 +1258,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                         (II) by striking ‘‘subsection (j)’’
 24                    in subsection (i)(4) and inserting
 25                    ‘‘subsection (k)’’.
-                           52
  1               (B) Section 475(d)(1) is amended by strik-
  2           ing ‘‘sections 263(g), 263A, and 1256(a)’’ and
  3           inserting ‘‘sections 263(g) and 263A’’.
@@ -1333,7 +1282,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 22      amended by striking subparagraph (C) and by redes-
 23      ignating subparagraph (D) as subparagraph (C).
 24      (b) OTHER  CONFORMING   AMENDMENTS   .—
-                           53
  1          (1) Section 355(g)(2)(B)(i)(V) is amended to
  2      read as follows:
  3                       ‘‘(V) any derivative (as defined in
@@ -1359,7 +1307,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23      or
 24          ‘‘(2) any underlying investment (as defined in
 25      section 492(e)(1)) which, at the time of the sale or
-                             54
  1       other disposition, is part of an investment hedging
  2       unit (as defined in section 492).’’.
  3           (6)(A) Section 1221(a)(6) is amended to read
@@ -1385,7 +1332,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 23                    ‘‘(ii) COMMODITY  .—The term ‘com-
 24                modity’ means any commodity described in
 25                section 475(e)(2) (without regard to sub-
-                             55
  1                paragraph (B)(iii) thereof) and any deriva-
  2                tive with respect to such a commodity
  3                (within the meaning of section 493).’’.
@@ -1413,7 +1359,6 @@ To amend the Internal Revenue Code of 1986 to modernize
 21 investment—
 22           (1) the taxpayer shall make the identifications
 23       required under section 492(c)(2) of Internal Rev-
-                             56
  1       enue Code of 1986 (as added by section 2 of this
  2       Act) before the close of such period, and
  3            (2) if such identifications result in an invest-

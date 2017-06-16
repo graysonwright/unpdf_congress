@@ -30,7 +30,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
     Sec. 2. Table of contents.
     Sec. 3. Definitions.
     Sec. 4. Extension of national flood insurance program.
-                                     2
       TITLE I—ENHANCING THE SOLVENCY AND SUSTAINABILITY OF
                 THE NATIONAL FLOOD INSURANCE PROGRAM
      Sec. 101. Risk transfer.
@@ -75,7 +74,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 
  1   SEC. 3. DEFINITIONS.
  2         In this Act—
-                             3
  1           (1) the term ‘‘Administrator’’ means the Ad-
  2      ministrator of the Federal Emergency Management
  3      Agency;
@@ -101,7 +99,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           (6) the term ‘‘Write Your Own Program’’
 24      means the cooperative undertaking between the in-
 25      surance industry and the Federal Insurance and
-                           4
  1      Mitigation Administration that allows participating
  2      property and casualty insurance companies to write
  3      and service standard flood insurance policies.
@@ -126,7 +123,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22      ‘‘(e)ISK TRANSFER .—
 23          ‘‘(1) N GENERAL  .—The Administrator shall
 24      annually transfer a portion of the risk associated
-                             5
  1       with the flood insurance program to the private rein-
  2       surance or capital markets—
  3                ‘‘(A) at rates and on terms determined by
@@ -148,7 +144,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 19           diversity of sources of capital; and
 20                ‘‘(B) secure the best value for the flood in-
 21           surance program.’’.
-                           6
  1  TITLE II—ENHANCING FLOOD
  2      INSURANCE AFFORDABILITY
  3      AND ACCESSIBILITY
@@ -172,7 +167,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 21          serting ‘‘Subsections (a) through (c)’’; and
 22          (2) in section 1310A(c) (42 U.S.C. 4017A(c)),
 23      by striking paragraph (4).
-                             7
  1  SEC. 202. DISCLOSURE WITH RESPECT TO THE AFFORD-
  2              ABILITY STANDARD.
  3      Section 1308(j) of the National Flood Insurance Act
@@ -199,7 +193,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 24      (b) E LIGIBILITYITEMS .—Section 1304(b) of the Na-
 25 tional Flood Insurance Act of 1968 (42 U.S.C. 4011(b))
 26 is amended—
-                             8
  1           (1) in paragraph (3), by striking ‘‘compliance
  2       with the land use and control measures.’’ and insert-
  3       ing ‘‘the implementation of such measures; and’’;
@@ -225,7 +218,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                (B) in subparagraph (D)(iv), as so redesig-
 24           nated, by striking the period at the end and in-
 25           serting ‘‘; or’’; and
-                             9
  1           (6) by inserting after paragraph (1)(D)(iv), as
  2       so redesignated, the following:
  3           ‘‘(2) any eligible activity under the Predisaster
@@ -250,7 +242,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22 4102(d)(1)) is amended—
 23           (1) in subparagraph (A), by striking ‘‘and’’ at
 24       the end;
-                            10
  1           (2) in subparagraph (B), by striking ‘‘and’’ at
  2      the end; and
  3           (3) by inserting after subparagraph (B) the fol-
@@ -275,7 +266,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22      implements any mitigation method described in
 23      paragraph (1).’’.
 24      (c) COVERAGE FOR   COOPERATIVES  .—
-                            11
  1           (1) IN GENERAL   .—Section 1306 of the Na-
  2      tional Flood Insurance Act of 1968 (42 U.S.C.
  3      4013) is amended by adding at the end the fol-
@@ -300,7 +290,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                    (ii) by inserting ‘‘or owners of a share
 23                of a cooperative building’’ after ‘‘condo-
 24                minium owners’’; and
-                            12
  1                    (iii) by inserting ‘‘or cooperative asso-
  2                ciation’’ after ‘‘condominium association’’
  3                each place that term appears; and
@@ -324,7 +313,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 21                    (i) assess options, methods, and strat-
 22                egies for including replacement cost value
 23                in the estimates;
-                            13
  1                    (ii) identify recommendations for in-
  2                cluding replacement cost value in the esti-
  3                mates;
@@ -349,7 +337,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22           recommendations would have on the National
 23           Flood Insurance Program, including cost con-
 24           siderations;
-                            14
  1                (C) a description of actions taken by the
  2           Administrator to implement the recommenda-
  3           tions made by the study;
@@ -375,7 +362,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                insurance loading factors, consistent with
 24                the requirements of section 1308(e) and
 25                taking into account the results of the study
-                            15
  1                conducted under section 206(a)(1) of the
  2                Flood Insurance Affordability and Sustain-
  3                ability Act of 2017; and’’.
@@ -401,7 +387,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                ‘‘(C) homeowners insurance; and
 24                ‘‘(D) flood insurance premiums and fees;
 25           and
-                             16
  1           ‘‘(3) the term ‘eligible household’ means an
  2       owner-occupied household—
  3                ‘‘(A) that has a total household income
@@ -426,7 +411,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22 section (c) to offset the cost of flood insurance for the
 23 eligible household for a year if the amount of the covered
 24 expenses of the eligible household for that year is greater
-                             17
  1 than 40 percent of the total household income of the eligi-
  2 ble household for that year.
  3       ‘‘(c)ALCULATION   .—
@@ -451,7 +435,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22       area median income shall receive a voucher in an
 23       amount that is equal to 60 percent of the amount
 24       that the eligible household is required to pay in flood
-                             18
  1       insurance premiums and fees for the year in which
  2       the eligible household receives the voucher.’’.
  3  SEC. 208. COVERAGE LIMITS.
@@ -475,7 +458,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 21           ‘‘$100,000’’ each place that term appears and
 22           inserting ‘‘$500,000’’; and
 23                (C) in subparagraph (C)—
-                           19
  1                    (i) in clause (i), by striking
  2               ‘‘$100,000’’ and inserting ‘‘$500,000’’;
  3               and
@@ -501,7 +483,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      gram will make payments according to agreed sched-
 24      ules of payments determined by flood height in cov-
 25      ered structures participating in the Program;
-                             20
  1           (2) the term ‘‘catastrophic loss year’’ means a
  2       year in which the combined ratio is not less than
  3       130 percent;
@@ -525,7 +506,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 21       between the high water mark and the top of the first
 22       floor of a covered structure, as measured or as de-
 23       termined by other appropriate methods;
-                            21
  1           (8) the term ‘‘Program’’ means the Agreed
  2      Value Flood Protection Program established under
  3      section 303(a); and
@@ -550,7 +530,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22      flood protection policy to an eligible participant; and
 23           (3) an eligible participant may not be denied
 24      the opportunity to purchase an agreed value flood
-                           22
  1      protection policy solely on the basis of the geo-
  2      graphic location of the eligible participant.
  3      (b) E LIGIBILITY.—In order to purchase an agreed
@@ -575,7 +554,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22               (A) IN GENERAL  .—A covered agent shall
 23           explain to an eligible participant the risks asso-
 24           ciated with an agreed value flood protection pol-
-                             23
  1           icy before the eligible participant purchases a
  2           policy.
  3                (B) D ELIVERY .—If a covered agent deliv-
@@ -597,7 +575,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 19       the Program with comparable premium rates
 20       charged under the standard flood insurance policy,
 21       controlling for comparable risk factors.
-                          24
  1  SEC. 304. USE OF AGREED VALUE FLOOD PROTECTION TO
  2             SATISFY REQUIREMENT TO PURCHASE
  3             FLOOD INSURANCE TO RECEIVE A MORT-
@@ -624,7 +601,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 24          4016(a)).
 25      (b) RESERVE  R ATIO.—Subject to the phase-in re-
 26 quirements under subsection (d), the Reserve Fund shall
-                            25
  1 maintain a balance that, together with any risk financing
  2 covering the Program, is an amount that is equal to—
  3           (1) 1.5 percent of the sum of the total potential
@@ -650,7 +626,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           (2) C ONSIDERATIONS .—In exercising the au-
 24      thority under paragraph (1), the Administrator shall
 25      consider—
-                            26
  1                (A) the expected operating expenses of the
  2           Reserve Fund;
  3                (B) the covered loss expenditures under
@@ -676,7 +651,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      obtained, the Administrator shall deposit in the Re-
 24      serve Fund an amount that is not less than 10 per-
 25      cent of the amount required under subsection (b).
-                            27
  1           (2) A MOUNT SATISFIED  .—Except as provided
  2      in paragraph (3), beginning on the date on which
  3      the amount required under subsection (b) is ob-
@@ -701,7 +675,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22           (1) describes and details the specific concerns
 23      of the Administrator regarding the consequences of
 24      that amount not being obtained;
-                          28
  1          (2) demonstrates how the consequences de-
  2      scribed in paragraph (1) would harm the long-term
  3      financial soundness of the Program; and
@@ -727,7 +700,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23             MANDATORY PURCHASE REQUIREMENT.
 24      (a) N GENERAL .—
 25          (1) MANDATORY PURCHASE REQUIREMENT    .—
-                            29
  1               (A) A MOUNT AND TERM OF COVERAGE      .—
  2           Section 102 of the Flood Disaster Protection
  3           Act of 1973 (42 U.S.C. 4012a) is amended by
@@ -753,7 +725,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           (1)—
 24                    ‘‘(i) in the case of Federal flood insur-
 25               ance, shall be not less than the lesser of—
-                             30
  1                          ‘‘(I) 80 percent of the purchase
  2                     price of the property;
  3                          ‘‘(II) the development or project
@@ -779,7 +750,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                     eral flood insurance coverage made
 24                     available with respect to the particular
 25                     type of property; or
-                            31
  1                         ‘‘(IV) for multi-unit structures
  2                    only, the outstanding principal bal-
  3                    ance of the loan.
@@ -805,7 +775,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           coordination with the Financial Institutions Ex-
 24           amination Council established under section
 25           1004 of the Federal Financial Institutions Ex-
-                             32
  1           amination Council Act of 1974 (12 U.S.C.
  2           3303)) shall by regulation direct regulated lend-
  3           ing institutions not to make, increase, extend,
@@ -830,7 +799,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                    eral flood insurance coverage made
 23                    available with respect to the particular
 24                    type of property; or
-                            33
  1                         ‘‘(III) for multi-unit structures
  2                    only, the outstanding principal bal-
  3                    ance of the loan; or
@@ -856,7 +824,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                having special flood hazards and in which
 24                flood insurance has been made available
 25                under the National Flood Insurance Act of
-                            34
  1                1968 (42 U.S.C. 4001 et seq.), unless the
  2                building or mobile home and any personal
  3                property securing the loan is covered for
@@ -881,7 +848,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22           under that subparagraph.
 23           ‘‘(3) GOVERNMENT   -SPONSORED   ENTERPRISES
 24      FOR HOUSING   .—
-                            35
  1                ‘‘(A) I MPLEMENTATION      OF   PROCE   -
  2           DURES .—
  3                    ‘‘(i) R EQUIREMENT  .—The Federal
@@ -906,7 +872,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                    having special flood hazards; and
 23                         ‘‘(II) in which flood insurance is
 24                    made available under the National
-                            36
  1                    Flood Insurance Act of 1968 (42
  2                    U.S.C. 4001 et seq.).
  3               ‘‘(B) A CCEPTABLE   INSURANCE  .—Subject
@@ -931,7 +896,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22           tion, or procedure concerning the regulation of
 23           the business of insurance.
 24           ‘‘(4) PPLICABILITY .—
-                            37
  1               ‘‘(A) E XISTING   COVERAGE  .—Except as
  2           provided in subparagraph (B), paragraph (1)
  3           shall apply on the date of enactment of the Rie-
@@ -957,7 +921,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           the date of enactment of the Riegle Community
 24           Development and Regulatory Improvement Act
 25           of 1994 (12 U.S.C. 4701 et seq.), shall con-
-                            38
  1           tinue to apply until the regulations issued to
  2           carry out paragraph (1), as amended by section
  3           522(a) of such Act, take effect.
@@ -983,7 +946,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           ‘‘(7) DEFINITIONS.—In this section:
 24                ‘‘(A) FEDERAL FLOOD INSURANCE     .—The
 25           term ‘Federal flood insurance’ means an insur-
-                            39
  1           ance policy made available under the National
  2           Flood Insurance Act of 1968 (42 U.S.C. 4001
  3           et seq.).
@@ -1009,7 +971,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                    the Nonadmitted and Reinsurance Re-
 24                    form Act of 2010 (15 U.S.C. 8201
 25                    through 8206);
-                           40
  1                   ‘‘(ii) is issued by an insurance com-
  2               pany that is not otherwise disapproved as
  3               a surplus lines insurer by the insurance
@@ -1034,7 +995,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22 ministrative continuous coverage requirement, including
 23 under section 1307(g)(1), the Administrator shall consider
 24 any period during which a property was continuously cov-
-                           41
  1 ered by private flood insurance to be a period of contin-
  2 uous coverage.’’.
  3      (b) APPLICABILITY OF  EXPANDED   P RIVATE F LOOD
@@ -1060,7 +1020,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           (1) on and after October 1 of the first fiscal
 24      year beginning after the date of enactment of this
 25      Act, may not prohibit a Write Your Own company
-                           42
  1      from offering or selling private flood insurance out-
  2      side of the Write Your Own Program; and
  3           (2) shall amend article XIII of the WYO Com-
@@ -1085,7 +1044,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22      (a) SURCHARGES  .—Section 1308A(a) of the National
 23 Flood Insurance Act of 1968 (42 U.S.C. 4015a(a)) is
 24 amended—
-                            43
  1           (1) by striking ‘‘The Administrator’’ and insert-
  2      ing the following:
  3           ‘‘(1) OLLECTION ON NFIP POLICIES   .—The Ad-
@@ -1111,7 +1069,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           may require the provision of such information
 24           as the Administrator decides is necessary to
 25           verify that a surcharge imposed and collected
-                            44
  1           under subparagraph (A) has been imposed and
  2           collected at the proper time and in the proper
  3           amount.
@@ -1136,7 +1093,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                             ‘‘(bb) shall not be subject to
 23                        any agents’ commissions, com-
 24                        pany expense allowances, or
-                            45
  1                         State or local premium taxes;
  2                         and
  3                         ‘‘(II) in the case of a private
@@ -1162,7 +1118,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                             the Administrator decides is
 24                             necessary to verify that the
 25                             fee has been imposed and
-                            46
  1                             collected at the proper time
  2                             and in the proper amount;
  3                             and
@@ -1188,7 +1143,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      following paragraph (2), as so designated;
 24           (2) by redesignating subsection (c) as sub-
 25      section (d); and
-                            47
  1           (3) by inserting after subsection (b) the fol-
  2      lowing:
  3      ‘‘(c) IMPOSITION   AND    COLLECTION   OF    SUR -
@@ -1213,7 +1167,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22           may require the provision of such information
 23           as the Administrator decides is necessary to
 24           verify that a surcharge imposed under subpara-
-                            48
  1           graph (A) has been imposed at the proper time
  2           and in the proper amount.
  3               ‘‘(D) COST OF COLLECTING SURCHARGE    .—
@@ -1239,7 +1192,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      meaning given the term in section 102(b) of the
 24      Flood Disaster Protection Act of 1973 (42 U.S.C.
 25      4012a(b)).’’.
-                            49
  1      (f) TECHNICAL AND    CONFORMING    AMENDMENT   .—
  2 Section 1308A(a)(1) of the National Flood Insurance Act
  3 of 1968 (42 U.S.C. 4015a(a)(1)), as so designated by sub-
@@ -1265,7 +1217,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           shall assume a secondary loss position with re-
 24           spect to all structures covered under the pilot
 25           program.
-                          50
 
  1  TITLE V—MODERNIZING FLOOD
  2      MAPPING AND FLOOD RISK
@@ -1292,7 +1243,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23 ‘‘, and to non-government entities to help communities
 24 provide more accurate technical data to the Adminis-
 25 trator,’’.
-                            51
  1  SEC. 503. USE OF HIGH-RESOLUTION MAPPING TECH-
  2              NOLOGY.
  3      (a) I N  G ENERAL .—Section 100216(b)(1) of the
@@ -1319,7 +1269,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 24           frequencies and associated flood elevations, in-
 25           cluding by using the most up-to-date high-reso-
 26           lution topographic data as required under sub-
-                             52
  1           paragraph (C), in order to reduce flood risk and
  2           improve the accuracy of National Flood Insur-
  3           ance Program rate maps.’’.
@@ -1343,7 +1292,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 21       flood mitigation features, with risk zones that are
 22       more appropriate for the level of protection provided
 23       by the structure or feature.’’.
-                          53
  1  SEC. 505. COASTAL FLOOD MODELS.
  2      Section 100216(b) of the Biggert-Waters Flood In-
  3 surance Reform Act of 2012 (42 U.S.C. 4101b(b)), as
@@ -1368,7 +1316,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22      provide that, in the case of a claim for damage to
 23      or loss of property covered by flood insurance made
 24      available under this title—
-                            54
  1                ‘‘(A) except as provided in paragraph (2),
  2           not later than 30 days after the date on which
  3           the claim is made—
@@ -1393,7 +1340,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                circumstances; and
 23                    ‘‘(ii) determining to which claims such
 24                extraordinary circumstances apply.’’.
-                            55
  1      (b) APPLICABILITY .—The amendment made by sub-
  2 section (a) shall apply to any claim for damage to or loss
  3 of property covered by flood insurance made available
@@ -1418,7 +1364,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22      may not be transmitted to any other person, em-
 23      ployer, agency, or entity, before it is transmitted to
 24      the insured.
-                             56
  1           ‘‘(2) PROHIBITION ON ALTERATIONS    ; CERTIFI -
  2       CATION .—The final engineering report may not in-
  3       clude alterations by, or at the request of, anyone
@@ -1444,7 +1389,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           charge, or both.
 24       ‘‘(f)LAIMS  ADJUSTMENT    REPORTS  .—The Adminis-
 25 trator shall require that, in the case of any on-site inspec-
-                             57
  1 tion of a property by a claims adjustor for the purpose
  2 of assessing any claim for losses covered by a policy for
  3 flood insurance coverage provided under this title (referred
@@ -1469,7 +1413,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                ‘‘(A) means any report or document in
 23            connection with the covered claim that is based
 24            on the on-site inspection by the claims adjustor,
-                            58
  1           including any adjustment report and field re-
  2           port;
  3                ‘‘(B) includes any draft, preliminary
@@ -1494,7 +1437,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 22                ‘‘(C) a scope of loss;
 23                ‘‘(D) a drawing;
 24                ‘‘(E) a plan;
-                             59
  1                ‘‘(F) a report, including a draft report pre-
  2           pared based on an on-site inspection of a prop-
  3           erty conducted by a claims adjustor or engineer;
@@ -1520,7 +1462,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23           notice of a claim, shall notify the claimant that
 24           the claimant or an authorized representative of
 25           the claimant may obtain, upon request, a copy
-                            60
  1           of any claim-related document described in sub-
  2           paragraph (A) that pertains to the claimant.’’.
  3      (b) JUDICIAL R EVIEW .—
@@ -1546,7 +1487,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23               ‘‘(A) not later than 2 years after the date
 24           of the occurrence of the losses involved in the
 25           claim; or
-                             61
  1                ‘‘(B) in the case of a denial of a claim for
  2           losses that is appealed to the Administrator, not
  3           later than the later of—
@@ -1572,7 +1512,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23       Flood Insurance Act of 1968 (42 U.S.C. 4053) is
 24       amended by striking ‘‘SEC . 1333.’’ and all that fol-
 25       lows and inserting the following:
-                            62
  1      ‘‘SEC. 1333. (a) A  DJUSTMENT AND     PAYMENT OF
  2  CLAIMS .—The insurance companies and other insurers
  3 that form, associate, or otherwise join together in the pool
@@ -1598,7 +1537,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23                    ‘‘(i) 90 days after the date of a final
 24                determination upon appeal denying the
 25                claim in whole or in part; or
-                            63
  1                    ‘‘(ii) 2 years after the date of the oc-
  2               currence of the losses involved in the claim;
  3               and
@@ -1624,7 +1562,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23 is amended by adding at the end the following:
 24      ‘‘(c) ANNUAL   R EVIEW .—The Administrator shall
 25 conduct an annual review of each private entity partici-
-                            64
  1 pating in the national flood insurance program, including
  2 any company that has entered into a contract with a Write
  3 Your Own company to provide any service related to a pol-
@@ -1650,7 +1587,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      full;
 24           ‘‘(3) the number of claims denied and the rea-
 25      sons cited for each denial; and
-                           65
  1          ‘‘(4) the number of claim denials appealed, the
  2      number of claim denials upheld on appeal, and the
  3      number of claim denials overturned on appeal.’’.
@@ -1676,7 +1612,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      ‘‘(e) ARTH  M OVEMENT  .—A flood insurance claim
 24 filed under this title for damage to or loss of property may
 25 not be denied based on the earth movement exclusion in
-                            66
  1 the Standard Flood Insurance Policy if the claim is filed
  2 as the result of a flood, including a claim for damage to
  3 or loss or property caused by earth movement that was
@@ -1702,7 +1637,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23               ‘‘(C) the date on which the period of limi-
 24           tation for instituting an action against the Ad-
 25           ministrator on the claim under section 1341 of
-                           67
  1           the National Flood Insurance Act of 1968 (42
  2           U.S.C. 4072) will end; and
  3               ‘‘(D) a point of contact through which the
@@ -1728,7 +1662,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      means a company participating in the cooperative
 24      undertaking between the insurance industry and the
 25      Federal Insurance and Mitigation Administration
-                          68
  1      that allows participating property and casualty in-
  2      surance companies to write and service standard
  3      flood insurance policies.’’.
@@ -1754,7 +1687,6 @@ Mr. ASSIDY(for himself and ILLIBRAN) introduced the following bill;
 23      (c) REPORT TO  CONGRESS ON   RECOMMENDATIONS
 24  OF THE  NFIP T  RANSFORMATION    TASK  FORCE .—Not
 25 later than 1 year after the date of enactment of this Act,
-                             69
  1 the Administrator shall submit to Congress a report that
  2 describes—
  3           (1) the recommendations of the Task Force for
