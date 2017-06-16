@@ -3,6 +3,7 @@ require "ruby-progressbar"
 
 require_relative "lib/processors/remove_blank_lines"
 require_relative "lib/processors/remove_headers"
+require_relative "lib/processors/remove_line_numbers"
 
 INPUT_DIRECTORY = "examples"
 OUTPUT_DIRECTORY = "output"
@@ -28,6 +29,7 @@ input_files.each do |input_file|
 
   output = Processors::RemoveBlankLines.process(output)
   output = Processors::RemoveHeaders.process(output)
+  output = Processors::RemoveLineNumbers.process(output)
 
   output_filename = input_file.
     gsub(INPUT_DIRECTORY, OUTPUT_DIRECTORY).
