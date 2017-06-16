@@ -2,41 +2,40 @@ require_relative "base"
 
 module Processors
   class RemoveHeaders < Base
-    HEADER_FORMAT = /[A-Z]{3}\d{5}/
+    HOUSE_HEADER_FORMAT = /^\s*†?HR \d+/
     LINE_NUMBER_FORMAT = /^\s*\d+\s*$/
+    SENATE_HEADER_FORMAT = /^\s*[A-Z]{3}\d{5}/
 
     def processed_text
       lines = text.lines
+      acceptable_lines = []
 
-      if !(lines.first =~ HEADER_FORMAT)
-        text
-      else
-        # Construct a regular expression out of the header
-        # to handle whitespace variations
-        header = lines.first.gsub(/ +/, '\s+')
+      line_index = 0
+      while line_index < lines.count
+        if is_a_header?(lines[line_index])
+          # we found a header!
+          # now let's look for a line number immediately following it
 
-        acceptable_lines = []
-
-        line_index = 0
-        while line_index < lines.count
-          if(lines[line_index] =~ /^#{header}$/)
-            # found a header!
-            # now let's look for a line number immediately following it
-
-            if(lines[line_index+1] =~ LINE_NUMBER_FORMAT)
-              # the next line only contains a line number.
-              # Jump ahead to skip it.
-              line_index += 1
-            end
-          else
-            acceptable_lines << lines[line_index]
+          if lines[line_index+1].match(LINE_NUMBER_FORMAT)
+            # the next line only contains a line number.
+            # Jump ahead to skip it.
+            line_index += 1
           end
-
-          line_index += 1
+        else
+          acceptable_lines << lines[line_index]
         end
 
-        acceptable_lines.join
+        line_index += 1
       end
+
+      acceptable_lines.join
+    end
+
+    private
+
+    def is_a_header?(line)
+      line.match(SENATE_HEADER_FORMAT) ||
+        line.match(HOUSE_HEADER_FORMAT)
     end
   end
 end
