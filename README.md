@@ -22,3 +22,17 @@ and the footers
 By clearing out this additional stuff,
 you’re left with the text of the legislation only,
 which can then be used in many ways.
+
+## Run locally
+
+* Make sure you have `ruby` installed on your system.
+* Install the project's dependencies with
+  `gem install bundler && bundle install`
+* Run `bundle exec ruby process.rb`
+  to parse all PDFs in the `example` directory.
+  The script will place all output text files in the `output/` directory.
+
+## Add Examples
+
+All examples must go in the `examples/` directory,
+be stored with the file extension `.pdf`.
