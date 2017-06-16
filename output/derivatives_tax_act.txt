@@ -2,18 +2,11 @@ FRA17032   S.L.C.
 
 
 
-
-
-
 115THCONGRESS
    1STSESSION      S.ll
 
-
 To amend the Internal Revenue Code of 1986 to modernize the tax treatment
    of derivatives and their underlying investments, and for other purposes.
-
-
-
 
 
     IN THE SENATE OF THE UNITED STATES
@@ -23,2744 +16,1467 @@ To amend the Internal Revenue Code of 1986 to modernize the tax treatment
 
 
 
-
-
-
                    A BILL
 To amend the Internal Revenue Code of 1986 to modernize
-
     the tax treatment of derivatives and their underlying
     investments, and for other purposes.
 
-
  1      Be it enacted by the Senate and House of Representa-
-
  2 tives of the United States of America in Congress assembled,
-
  3  SECTION 1. SHORT TITLE.
-
  4      (a) SHORT T ITLE.—This Act may be cited as the
-
  5 ‘‘Modernization of Derivatives Tax Act of 2017’’.
-
  6      (b) MENDMENT OF   1986 C ODE.—Except as other-
  7 wise expressly provided, whenever in this Act an amend-
-
  8 ment or repeal is expressed in terms of an amendment
-
  9 to, or repeal of, a section or other provision, the reference
 FRA17032     S.L.C.
-
                              2
-
  1 shall be considered to be made to a section or other provi-
-
  2 sion of the Internal Revenue Code of 1986.
-
  3  SEC. 2. MODERNIZATION OF TAX TREATMENT OF CERTAIN
-
  4              DERIVATIVES.
-
  5      (a) IN  G ENERAL .—Subchapter E of chapter 1 is
-
  6 amended by adding at the end the following new part:
-
  7    ‘‘PART IV—TAX TREATMENT OF DERIVATIVES
-
  8               AND SIMILAR CONTRACTS
-
     ‘‘Subpart B. Similar contracts
-
  9                 ‘‘Subpart A—Derivatives
-
     ‘‘Sec. 491. Rules for treatment of derivatives.
     ‘‘Sec. 492. Investment hedging units.
     ‘‘Sec. 493. Derivative defined.
-
 10  ‘‘SEC. 491. RULES FOR TREATMENT OF DERIVATIVES.
-
 11      ‘‘(a) IN G ENERAL  .—For purposes of this title, if
-
 12 there is a taxable event with respect to a derivative or an
-
 13 underlying investment—
-
 14           ‘‘(1) notwithstanding any other provision of this
-
 15      title, except as provided in subsection (b)(3)(A) or
-
 16      section 1032, gain or loss shall be recognized and
-
 17      taken into account in the taxable year in which the
-
 18      taxable event occurs, and
-
 19           ‘‘(2) proper adjustment shall be made in the
-
 20      amount of any subsequent gain or loss for gain or
-
 21      loss taken into account by reason of paragraph (1).
 FRA17032    S.L.C.
-
                             3
  1      ‘‘(b) ULES  RELATING TO  G AIN OR LOSS .—Notwith-
-
  2 standing any other provision of this title—
-
  3           ‘‘(1) CHARACTER AND SOURCE OF GAIN OR
-
  4      LOSS .—
-
  5               ‘‘(A) CHARACTER  .—Except as provided in
-
  6           paragraph (3)(B), any item of income, deduc-
-
  7           tion, gain, or loss taken into account under sub-
-
  8           section (a) with respect to a taxable event shall
-
  9           be treated as—
-
 10                    ‘‘(i) ordinary income or loss, and
-
 11                    ‘‘(ii) attributable to a trade or busi-
-
 12               ness of the taxpayer for purposes of sec-
-
 13               tions 62(a) and 172(d)(4).
-
 14               ‘‘(B) SOURCE OF GAIN OR LOSS FROM DE    -
 15           RIVATIVES.—In the case of a taxable event with
-
 16           respect to a derivative, any item of income, de-
-
 17           duction, gain, or loss taken into account under
-
 18           subsection (a) shall be treated as derived from
-
 19           sources within the country of residence of the
-
 20           taxpayer.
-
 21           ‘‘(2) ETERMINATION OF AMOUNT    .—
-
 22               ‘‘(A) IN GENERAL  .—The amount of gain
-
 23           or loss taken into account under subsection (a)
-
 24           with respect to a taxable event shall be—
 FRA17032     S.L.C.
                              4
-
  1                    ‘‘(i) in the case of a taxable event in-
-
  2                volving the termination or transfer of a de-
-
  3                rivative or the sale or exchange of an un-
-
  4                derlying investment, the amount of gain or
-
  5                loss determined under this title with re-
-
  6                spect to the taxable event, or
-
  7                    ‘‘(ii) in the case of any other taxable
-
  8                event, the amount of gain or loss which
  9                would be determined under this title if, im-
-
 10                mediately before the taxable event—
-
 11                         ‘‘(I) in the case of a derivative,
-
 12                    the derivative were terminated or
-
 13                    transferred at its fair market value, or
-
 14                         ‘‘(II) in the case of an underlying
-
 15                    investment, the investment were sold
-
 16                    or exchanged at its fair market value.
-
 17                ‘‘(B) ELIANCE ON VALUATION    .—For pur-
-
 18           poses of subparagraph (A), the taxpayer may
 19           rely on a valuation which is—
-
 20                    ‘‘(i) provided to the taxpayer by a
-
 21                broker under section 6045(b), or
-
 22                    ‘‘(ii) determined under an applicable
-
 23                financial statement.
-
 24           ‘‘(3) SPECIAL RULES FOR TAXABLE EVENTS
-
 25      WITH RESPECT TO INVESTMENT HEDGING UNITS        .—
 FRA17032     S.L.C.
                              5
-
  1                ‘‘(A) N GENERAL   .—In the case of a tax-
-
  2           able event described in subsection (c)(2) with
-
  3           respect to a derivative or underlying investment
-
  4           (other than a termination or transfer of the de-
-
  5           rivative or the sale or exchange of the under-
  6           lying investment)—
-
  7                    ‘‘(i) notwithstanding subsection (a),
-
  8                built-in loss (if any) with respect to the de-
-
  9                rivative or underlying investment shall not
-
 10                be recognized and shall not be taken into
-
 11                account by reason of such taxable event,
-
 12                and
-
 13                    ‘‘(ii) notwithstanding paragraph (1),
 14                built-in gain (if any) with respect to the
-
 15                underlying investment shall be treated as
-
 16                long-term or short-term capital gain if the
-
 17                built-in gain would have been so treated if
-
 18                the investment were sold or exchanged at
-
 19                its fair market value immediately before
-
 20                the time the built-in gain is determined
-
 21                under subparagraph (D).
 22                ‘‘(B) IDENTIFICATION  .—For purposes of
-
 23           this paragraph, the determination of which por-
-
 24           tions of an underlying investment have been
-
 25           deemed sold or exchanged in a taxable event
 FRA17032     S.L.C.
                              6
-
  1           shall be made in the same manner as if there
-
  2           had been an actual sale or exchange.
-
  3                ‘‘(C) B UILT-IN  LOSS .—For purposes of
-
  4           this section, the term ‘built-in loss’ means, with
-
  5           respect to any derivative or underlying invest-
-
  6           ment in an investment hedging unit, any loss
-
  7           which would have been recognized and taken
-
  8           into account under subsection (a) if the deriva-
  9           tive were terminated or transferred, or the un-
-
 10           derlying investment were sold or exchanged, at
-
 11           its fair market value as of the later of the time
-
 12           that the investment hedging unit was estab-
-
 13           lished or the time the derivative or the under-
-
 14           lying investment became part of the investment
-
 15           hedging unit.
-
 16                ‘‘(D) B UILT IN GAIN  .—For purposes of
-
 17           this section, the term ‘built-in gain’ means, with
-
 18           respect to any underlying investment in an in-
 19           vestment hedging unit, any gain which would
-
 20           have been recognized and taken into account
-
 21           under subsection (a) if the underlying invest-
-
 22           ment were sold or exchanged at its fair market
-
 23           value as of the later of the time that the invest-
-
 24           ment hedging unit was established or the time
 FRA17032     S.L.C.
                              7
-
  1           the underlying investment became part of the
-
  2           investment hedging unit.
-
  3      ‘‘(c) TAXABLE  E VENT .—For purposes of this part,
-
  4 the term ‘taxable event’ means—
-
  5           ‘‘(1) with respect to any derivative which is not
  6      part of an investment hedging unit—
-
  7                ‘‘(A) the termination or transfer of such
-
  8           derivative, and
-
  9                ‘‘(B) the close of any taxable year if the
-
 10           taxpayer has rights or obligations with respect
-
 11           to such derivative at such time, and
-
 12           ‘‘(2) with respect to all derivatives and under-
-
 13      lying investments which are part of the same invest-
 14      ment hedging unit—
-
 15                ‘‘(A) the establishment of the investment
-
 16           hedging unit,
-
 17                ‘‘(B) the termination or transfer of any
-
 18           such derivative,
-
 19                ‘‘(C) the sale or exchange of all or any por-
-
 20           tion of any such underlying investment,
-
 21                ‘‘(D) the entering into of another deriva-
 22           tive, or the acquisition of an additional amount
-
 23           of such underlying investment, after the estab-
-
 24           lishment of the investment hedging unit if such
-
 25           derivative or additional amount is treated as
 FRA17032    S.L.C.
-
                             8
  1           part of the investment hedging unit under sec-
-
  2           tion 492, and
-
  3               ‘‘(E) in the case of—
-
  4                   ‘‘(i) an investment hedging unit with
-
  5               respect to which an election is in effect
-
  6               under section 492(b), the close of each
-
  7               business day, and
-
  8                   ‘‘(ii) any other investment hedging
-
  9               unit, the close of any taxable year if the
-
 10               applicable hedging period with respect to
-
 11               such unit includes such close.
-
 12           ‘‘(3) ERMINATION OR TRANSFER    .—For pur-
-
 13      poses of this part, the term ‘termination or transfer’
-
 14      includes, with respect to any derivative, any termi-
 15      nation or transfer by offsetting, by taking or making
-
 16      delivery, by exercise or being exercised, by assign-
-
 17      ment or being assigned, by lapse, by sale or other
-
 18      disposition, by assumption, or otherwise.
-
 19      ‘‘(d) REATMENT OF   P AYMENTS  W ITH RESPECT TO
-
 20  CERTAIN  DERIVATIVES .—Notwithstanding any other pro-
-
 21 vision of this title—
-
 22           ‘‘(1)N GENERAL  .—Except as provided in regu-
-
 23      lations prescribed by the Secretary, in the case of a
-
 24      payment pursuant to a derivative (other than an op-
-
 25      tion)—
 FRA17032    S.L.C.
-
                            9
  1               ‘‘(A) any item of income, deduction, gain,
-
  2          or loss with respect to the payment shall be
-
  3          taken into account for purposes of this title at
-
  4          the time of the payment, and
-
  5               ‘‘(B) proper adjustment shall be made in
-
  6          the amount of any subsequent gain or loss for
-
  7          items taken into account by reason of subpara-
-
  8          graph (A).
-
  9      This paragraph shall not apply to a payment in con-
-
 10      nection with a taxable event.
-
 11          ‘‘(2) RULES RELATING TO CHARACTER AND
-
 12      SOURCE OF GAIN OR LOSS .—In the case of any item
-
 13      of income, deduction, gain, or loss with respect to
-
 14      payments described in paragraph (1)—
-
 15               ‘‘(A) the rules of subsection (b)(1)(A) shall
-
 16          apply in determining the character of such
-
 17          item, and
-
 18               ‘‘(B) except as provided in section 871(m),
-
 19          the rule of subsection (b)(1)(B) shall apply in
-
 20          determining the source of such item.
-
 21      ‘‘(e) USPENSION OF  HOLDING  PERIOD  W HILE UN -
-
 22  DERLYING  NVESTMENT   P ART OF H EDGING  UNIT.—For
-
 23 purposes of section 1222, in the case of any underlying
-
 24 investment which is part of an investment hedging unit,
-
 25 the holding period for such investment shall not include
 FRA17032     S.L.C.
                             10
-
  1 any period during which the underlying investment is part
-
  2 of such unit.
-
  3      ‘‘(f) A PPLICABLE   F INANCIAL   STATEMENT  .—For
-
  4 purposes of this part, the term ‘applicable financial state-
-
  5 ment’ means—
-
  6           ‘‘(1) a financial statement which is certified as
-
  7      being prepared in accordance with generally accept-
-
  8      ed accounting principles and which is—
  9                ‘‘(A) a 10-K (or successor form), or annual
-
 10           statement to shareholders, required to be filed
-
 11           by the taxpayer with the United States Securi-
-
 12           ties and Exchange Commission,
-
 13                ‘‘(B) an audited financial statement of the
-
 14           taxpayer which is used for—
-
 15                    ‘‘(i) credit purposes,
-
 16                    ‘‘(ii) reporting to shareholders, part-
-
 17                ners, or other proprietors, or to bene-
-
 18                ficiaries, or
 19                    ‘‘(iii) any other substantial nontax
-
 20                purpose,
-
 21           but only if there is no statement of the taxpayer
-
 22           described in subparagraph (A), or
-
 23                ‘‘(C) filed by the taxpayer with any other
-
 24           Federal agency for purposes other than Federal
-
 25           tax purposes, but only if there is no statement
 FRA17032    S.L.C.
                             11
-
  1           of the taxpayer described in subparagraph (A)
-
  2           or (B),
-
  3           ‘‘(2) a financial statement which is made on the
-
  4      basis of international financial reporting standards
-
  5      and is filed by the taxpayer with an agency of a for-
-
  6      eign government which is equivalent to the United
-
  7      States Securities and Exchange Commission and
-
  8      which has reporting standards not less stringent
  9      than the standards required by such Commission,
-
 10      but only if there is no statement of the taxpayer de-
-
 11      scribed in paragraph (1), or
-
 12           ‘‘(3) a financial statement filed by the taxpayer
-
 13      with any other regulatory or governmental body
-
 14      specified by the Secretary, but only if there is no
-
 15      statement of the taxpayer described in paragraph
-
 16      (1) or (2).
-
 17  ‘‘SEC. 492. INVESTMENT HEDGING UNITS.
-
 18      ‘‘(a) NVESTMENT   HEDGING  U NIT.—For purposes of
 19 this part—
-
 20           ‘‘(1) N GENERAL .—Except as provided in sub-
-
 21      section (b)—
-
 22               ‘‘(A) a taxpayer shall be treated as having
-
 23           an investment hedging unit with respect to an
-
 24           underlying investment during any applicable
 FRA17032     S.L.C.
                              12
-
  1           hedging period with respect to the underlying
-
  2           investment, and
-
  3                ‘‘(B) subject to paragraph (3), such invest-
-
  4           ment hedging unit shall at any time during the
-
  5           applicable hedging period consist of the fol-
  6           lowing held by the taxpayer at such time:
-
  7                    ‘‘(i) Each derivative with respect to
-
  8                the underlying investment which by itself,
-
  9                or in combination with 1 or more other de-
-
 10                rivatives, has a delta with respect to any
-
 11                portion of the underlying investment which
-
 12                is within the range beginning with minus
-
 13                0.7 and ending with minus 1.0.
 14                    ‘‘(ii) The portions of the underlying
-
 15                investment described in clause (i) with re-
-
 16                spect to which the derivatives have the
-
 17                delta described in clause (i).
-
 18           ‘‘(2) APPLICABLE HEDGING PERIOD    .—The term
-
 19       ‘applicable hedging period’ means, with respect to
-
 20       any underlying investment of a taxpayer, a contin-
-
 21       uous period—
 22                ‘‘(A) beginning with the first time (after a
-
 23           period which is not an applicable hedging pe-
-
 24           riod) the taxpayer holds 1 or more of the de-
-
 25           rivatives with respect to the underlying invest-
 FRA17032    S.L.C.
-
                            13
  1           ment, and 1 or more portions of the underlying
-
  2           investment, which are described in paragraph
-
  3           (1)(B), and
-
  4               ‘‘(B) ending with the time none of such de-
-
  5           rivatives and portions are so described.
-
  6           ‘‘(3) IMITATION ON COMBINATION OF DERIVA   -
-
  7      TIVES IN DETERMINING DELTA     .—For purposes of
-
  8      paragraph (1)(B), the determination of which de-
-
  9      rivatives with respect to an underlying investment
-
 10      have a delta within the range described in paragraph
-
 11      (1)(B)(i), and the portion of the underlying invest-
-
 12      ment with respect to which such derivatives have
-
 13      such delta, shall be made in the manner which re-
-
 14      sults in the largest portion of such underlying in-
-
 15      vestment being so described.
-
 16      ‘‘(b) LECTION  W ITH RESPECT TO  ITEMS INCLUDED
-
 17  ININVESTMENT   H EDGING U NIT.—
-
 18           ‘‘(1)N GENERAL  .—A taxpayer may elect with
-
 19      respect to any underlying investment to treat for
-
 20      purposes of this part all derivatives with respect to
-
 21      such underlying investment, and all of such under-
-
 22      lying investment, as part of an investment hedging
-
 23      unit.
-
 24           ‘‘(2) LECTION .—Any election under this sub-
-
 25      section with respect to an underlying investment—
 FRA17032     S.L.C.
                             14
-
  1                ‘‘(A) shall apply to all derivatives with re-
-
  2           spect to the underlying investment, and all of
-
  3           the underlying investment, held at any time
-
  4           after the election is made (including during any
-
  5           period such derivatives or underlying invest-
-
  6           ment are not held simultaneously), and
-
  7                ‘‘(B) shall be irrevocable.
-
  8           ‘‘(3) DEEMED ELECTION FOR TAXPAYERS FAIL     -
  9      ING TO IDENTIFY  .—
-
 10                ‘‘(A) N GENERAL  .—If a taxpayer—
-
 11                    ‘‘(i) does not have an election in effect
-
 12                under paragraph (1) with respect to an un-
-
 13                derlying investment, and
-
 14                    ‘‘(ii) fails to meet the requirements of
-
 15                subsection (c) for testing and identifying
-
 16                derivatives with respect to the underlying
-
 17                investment,
-
 18           the taxpayer shall be treated as having made
 19           the election under paragraph (1).
-
 20                ‘‘(B) T REATMENT    OF  ELECTION  .—For
-
 21           purposes of paragraph (2), a deemed election
-
 22           under this paragraph—
-
 23                    ‘‘(i) shall be treated as made as of the
-
 24                first time the taxpayer fails to meet the re-
 FRA17032    S.L.C.
-
                            15
  1               quirements of subsection (c) with respect
-
  2               to the underlying investment, and
-
  3                   ‘‘(ii) notwithstanding paragraph
-
  4               (2)(B), may be revoked with the consent of
-
  5               the Secretary.
-
  6      ‘‘(c) EFINITIONS AND   RULES  R ELATING TO  TAX -
-
  7  PAYERS IDENTIFYING  INVESTMENT   HEDGING  U NITS.—In
-
  8 the case of a taxpayer with respect to which an election
-
  9 is not in effect under subsection (b) with respect to an
-
 10 underlying investment—
-
 11           ‘‘(1)N GENERAL  .—The taxpayer shall, at the
-
 12      times described in paragraph (3), test the derivatives
-
 13      with respect to the underlying investment and make
-
 14      the identifications described in paragraph (2).
-
 15           ‘‘(2)DENTIFICATION .—
-
 16               ‘‘(A) IN GENERAL  .—The taxpayer shall
-
 17           identify the following with respect to an under-
-
 18           lying investment:
-
 19                   ‘‘(i) Each derivative described in sub-
-
 20               section (a)(1)(B)(i).
-
 21                   ‘‘(ii) The portions of the underlying
-
 22               investment described in subsection
-
 23               (a)(1)(B)(ii).
-
 24               ‘‘(B) DERIVATIVES AND UNDERLYING IN    -
-
 25           VESTMENT NOT PART OF HEDGING UNIT      .—A
 FRA17032     S.L.C.
                             16
-
  1           taxpayer shall identify the derivatives with re-
-
  2           spect to an underlying investment, and the por-
-
  3           tions of the underlying investment, which are
-
  4           not required to be identified under subpara-
-
  5           graph (A).
-
  6                ‘‘(C) ORTION MAY INCLUDE ALL OF UN      -
-
  7           DERLYING INVESTMENT    .—For purposes of this
-
  8           part, the term ‘portion’ with respect to any un-
  9           derlying investment identified may include all of
-
 10           the underlying investment.
-
 11           ‘‘(3) IMES IDENTIFICATIONS REQUIRED TO BE
-
 12      MADE  .—
-
 13                ‘‘(A) IN GENERAL  .—The taxpayer shall
-
 14           test and make the identifications required
-
 15           under this subsection at the following times
-
 16           during any continuous period the taxpayer si-
-
 17           multaneously holds 1 or more derivatives with
-
 18           respect to an underlying investment and 1 or
 19           more portions of the underlying investment:
-
 20                    ‘‘(i) The beginning of the period.
-
 21                    ‘‘(ii) Immediately after the taxpayer
-
 22                (during such period)—
-
 23                         ‘‘(I) enters into another deriva-
-
 24                    tive with respect to the underlying in-
-
 25                    vestment or acquires an additional
 FRA17032     S.L.C.
                             17
-
  1                    amount of such underlying invest-
-
  2                    ment, or
-
  3                         ‘‘(II) terminates or transfers 1 or
-
  4                    more derivatives with respect to the
-
  5                    underlying investment or sells or ex-
  6                    changes any portion of the underlying
-
  7                    investment, except that no testing and
-
  8                    identification shall be required under
-
  9                    this subclause with respect to any
-
 10                    such transaction if the taxpayer does
-
 11                    not have an investment hedging unit
-
 12                    with respect to the underlying invest-
-
 13                    ment immediately before such trans-
 14                    action.
-
 15                    ‘‘(iii) Such other times during such
-
 16                period as the Secretary may prescribe by
-
 17                regulations or other guidance.
-
 18                ‘‘(B) NO OTHER TIMES FOR TESTING      .—
-
 19           Except as provided by the Secretary, there shall
-
 20           not be taken into account for purposes of this
-
 21           part any testing and identification done by the
 22           taxpayer with respect to an underlying invest-
-
 23           ment at a time other than the times required
-
 24           under subparagraph (A).
 FRA17032     S.L.C.
                              18
-
  1           ‘‘(4) MANNER  .—A taxpayer shall be treated as
-
  2       timely making the identifications required under this
-
  3       subsection if derivatives with respect to, and por-
-
  4       tions of, an underlying investment are clearly identi-
-
  5       fied as part of (or as not part of) the investment
-
  6       hedging unit for purposes of this paragraph before
-
  7       the close of the day on which the identification is re-
-
  8       quired (or such other time as the Secretary may pre-
  9       scribe).
-
 10           ‘‘(5) TREATMENT OF INCORRECT IDENTIFICA       -
-
 11       TION OF HEDGING TRANSACTIONS      .—The Secretary
-
 12       shall prescribe regulations to properly characterize
-
 13       any income, gain, expense, or loss arising from any
-
 14       derivative or underlying investment which is incor-
-
 15       rectly identified under paragraph (2) as being part
-
 16       of, or not being part of, an investment hedging unit.
-
 17       ‘‘(d) ELTA .—For purposes of this section—
-
 18           ‘‘(1) IN GENERAL  .—The term ‘delta’ means,
 19       with respect to any derivative and underlying invest-
-
 20       ment, the ratio of the expected change in the fair
-
 21       market value of the derivative to any change in the
-
 22       fair market value of the underlying investment.
-
 23           ‘‘(2) METHOD OF DETERMINATION     .—The delta
-
 24       with respect to any derivative with respect to an un-
 FRA17032    S.L.C.
-
                             19
  1      derlying investment (or any combination of such de-
-
  2      rivatives) shall be determined—
-
  3               ‘‘(A) in a commercially reasonable manner,
-
  4           and
-
  5               ‘‘(B) except as provided by the Secretary,
-
  6           in a manner which is consistent with the man-
-
  7           ner used by the taxpayer or the taxpayer’s
-
  8           broker for purposes of an applicable financial
-
  9           statement.
-
 10           ‘‘(3) IME FOR MAKING DETERMINATION    .—The
-
 11      delta with respect to any derivative and underlying
-
 12      investment shall be determined as of any date the
-
 13      taxpayer is required to make the identifications de-
-
 14      scribed in subsection (c).
 15           ‘‘(4) MULTIPLE UNDERLYING INVESTMENTS     .—
-
 16               ‘‘(A) N GENERAL  .—Except as provided in
-
 17           subparagraph (B), if the value of a derivative is
-
 18           determined by reference to more than 1 under-
-
 19           lying investment, the delta shall be determined
-
 20           separately with respect to each underlying in-
-
 21           vestment.
-
 22               ‘‘(B) M ETHODS FOR CERTAIN COMBINA      -
-
 23           TIONS  OF  UNDERLYING   INVESTMENTS   .—The
-
 24           Secretary may by regulations provide methods
-
 25           for determining the delta of any derivative with
 FRA17032    S.L.C.
                             20
-
  1           respect to certain combinations of 2 or more
-
  2           underlying investments.
-
  3      ‘‘(e) OTHER  D EFINITIONS AND   RULES .—For pur-
-
  4 poses of this part—
-
  5           ‘‘(1) NDERLYING INVESTMENT    .—
-
  6               ‘‘(A) N GENERAL   .—The term ‘underlying
-
  7           investment’ means, with respect to any deriva-
-
  8           tive, any item—
  9                    ‘‘(i) which is described in any of the
-
 10               paragraphs (1) through (8) of section
-
 11               493(a) (or any item substantially the same
-
 12               as any such item), and
-
 13                    ‘‘(ii) by reference to which the value
-
 14               of the derivative is determined either di-
-
 15               rectly or indirectly.
-
 16               ‘‘(B) COORDINATION WITH SECTION 475   .—
-
 17           In the case of a dealer in securities to which
-
 18           section 475 applies (and a dealer in commod-
 19           ities with respect to which an election is in ef-
-
 20           fect under section 475(e)), such term shall not
-
 21           include any item which, but for this subpara-
-
 22           graph, would be treated as an underlying in-
-
 23           vestment if such item is treated as a security
-
 24           under section 475 (including a commodity
-
 25           treated as a security under section 475(e)).
 FRA17032     S.L.C.
-
                              21
  1           ‘‘(2) ESTABLISHMENT OF INVESTMENT HEDG        -
-
  2       ING UNIT .—A taxpayer shall be treated as having
-
  3       established an investment hedging unit with respect
-
  4       to an underlying investment—
-
  5                ‘‘(A) in the case of a taxpayer with an
-
  6           election in effect under subsection (b) with re-
-
  7           spect to the underlying investment, as of the
-
  8           date the election takes effect, and
-
  9                ‘‘(B) in the case of any other taxpayer, as
-
 10           of the beginning of each applicable hedging pe-
-
 11           riod with respect to the underlying investment.
-
 12           ‘‘(3) RELATED PARTIES  , ETC.—For purposes of
-
 13       this section—
-
 14                ‘‘(A) A TTRIBUTION  BETWEEN    RELATED
-
 15           PERSONS  .—Any derivative or underlying invest-
-
 16           ment held by a related party (within the mean-
-
 17           ing of subsection (f)) with respect to the tax-
-
 18           payer shall be treated as held by the taxpayer.
-
 19                ‘‘(B) C  ERTAIN   FLOWTHROUGH     ENTI   -
-
 20           TIES .—If part or all of the income, gain, loss,
-
 21           or expense with respect to a derivative or un-
-
 22           derlying investment held by a partnership,
-
 23           trust, or other entity would properly be taken
-
 24           into account for purposes of this chapter by the
-
 25           taxpayer, then, except to the extent otherwise
 FRA17032     S.L.C.
                             22
-
  1           provided in regulations, such derivative or in-
-
  2           vestment shall be treated as held by the tax-
-
  3           payer.
-
  4      ‘‘(f) RELATED   PARTY .—For purposes of this sec-
-
  5 tion—
-
  6           ‘‘(1) N GENERAL  .—A person is a related party
-
  7      to the taxpayer if, with respect to any period during
-
  8      which a derivative or underlying investment is held
  9      by such person, such person—
-
 10                ‘‘(A) is the taxpayer’s spouse,
-
 11                ‘‘(B) is a dependent of the taxpayer or any
-
 12           other taxpayer with respect to whom the tax-
-
 13           payer is a dependent,
-
 14                ‘‘(C) is an individual, corporation, partner-
-
 15           ship, trust, or estate which controls, or is con-
-
 16           trolled by, (within the meaning of section
-
 17           954(d)(3)) the taxpayer or any individual de-
-
 18           scribed in subparagraph (A) or (B) with respect
 19           to the taxpayer (or any combination thereof),
-
 20                ‘‘(D) is an individual retirement plan, Ar-
-
 21           cher MSA (as defined in section 220(d)), or
-
 22           health savings account (as defined in section
-
 23           223(d)), of the taxpayer or of any individual de-
-
 24           scribed in subparagraph (A) or (B) with respect
-
 25           to the taxpayer,
 FRA17032     S.L.C.
                              23
-
  1                ‘‘(E) is an account under a qualified tui-
-
  2           tion program described in section 529, an
-
  3           ABLE account (as defined in section
-
  4           529A(f)(6)), or a Coverdell education savings
-
  5           account (as defined in section 530(b)) if the
  6           taxpayer, or any individual described in sub-
-
  7           paragraph (A) or (B) with respect to the tax-
-
  8           payer, is the designated beneficiary of such ac-
-
  9           count or has the right to make any decision
-
 10           with respect to the investment of any amount in
-
 11           such account,
-
 12                ‘‘(F) is an account under—
-
 13                    ‘‘(i) a plan described in section
 14                401(a),
-
 15                    ‘‘(ii) an annuity plan described in sec-
-
 16                tion 403(a),
-
 17                    ‘‘(iii) an annuity contract described in
-
 18                section 403(b), or
-
 19                    ‘‘(iv) an eligible deferred compensa-
-
 20                tion plan described in section 457(b) and
-
 21                maintained by an employer described in
 22                section 457(e)(1)(A),
-
 23           if the taxpayer or any individual described in
-
 24           subparagraph (A) or (B) with respect to the
-
 25           taxpayer has the right to make any decision
 FRA17032     S.L.C.
-
                              24
  1           with respect to the investment of any amount in
-
  2           such account, or
-
  3                ‘‘(G) files a consolidated return (within the
-
  4           meaning of section 1501) with the taxpayer for
-
  5           any taxable year which includes a portion of
-
  6           such period.
-
  7           ‘‘(2) DETERMINATION OF MARITAL STATUS     .—
-
  8                ‘‘(A) N GENERAL  .—Except as provided in
-
  9           subparagraph (B), marital status shall be deter-
-
 10           mined under section 7703.
-
 11                ‘‘(B) SPECIAL RULE FOR MARRIED INDI      -
-
 12           VIDUALS   FILING  SEPARATELY    AND   LIVING
-
 13           APART .—A husband and wife who—
-
 14                    ‘‘(i) file separate returns for any tax-
-
 15                able year, and
-
 16                    ‘‘(ii) live apart at all times during
-
 17                such taxable year,
-
 18           shall not be treated as married individuals.
-
 19       ‘‘(g) EGULATIONS  .—The Secretary shall prescribe
-
 20 such regulations or other guidance as may be appropriate
-
 21 to carry out this section, including regulations or guidance
-
 22 which require in appropriate cases a taxpayer to bifurcate
-
 23 derivatives described in subsection (d)(4) for purposes of
-
 24 applying this part or which may be necessary to prevent
-
 25 the avoidance of the purposes of subsection (f) (including
 FRA17032     S.L.C.
                              25
-
  1 treating persons as related parties if such persons are
-
  2 formed or availed of to avoid the purposes of such sub-
-
  3 section).
-
  4  ‘‘SEC. 493. DERIVATIVE DEFINED.
-
  5       ‘‘(a)NIG ENERAL  .—For purposes of this part, except
-
  6 as otherwise provided in this section, the term ‘derivative’
-
  7 means any contract (including any option, forward con-
-
  8 tract, futures contract, short position, swap, or similar
  9 contract) the value of which, or any payment or other
-
 10 transfer with respect to which, is (directly or indirectly)
-
 11 determined by reference to one or more of the following:
-
 12           ‘‘(1) Any share of stock in a corporation.
-
 13           ‘‘(2) Any partnership or beneficial ownership
-
 14       interest in a partnership or trust.
-
 15           ‘‘(3) Any evidence of indebtedness.
-
 16           ‘‘(4) Except as provided in subsection (b)(1),
-
 17       any real property.
-
 18           ‘‘(5) Any commodity which is actively traded
 19       (within the meaning of section 1092(c)(4)).
-
 20           ‘‘(6) Any currency.
-
 21           ‘‘(7) Any rate, price, amount, index, formula, or
-
 22       algorithm.
-
 23           ‘‘(8) Any other item as the Secretary may pre-
-
 24       scribe.
 FRA17032     S.L.C.
-
                             26
  1 Except as provided in regulations prescribed by the Sec-
-
  2 retary to prevent the avoidance of the purposes of this
-
  3 part, such term shall not include any item described in
-
  4 paragraphs (1) through (8).
-
  5      ‘‘(b) EXCEPTIONS .—
-
  6           ‘‘(1) ERTAIN REAL PROPERTY    .—
-
  7                ‘‘(A) N GENERAL  .—For purposes of this
-
  8           part, the term ‘derivative’ shall not include any
-
  9           contract with respect to interests in real prop-
-
 10           erty (as defined in section 856(c)(5)(C)) if such
-
 11           contract requires physical delivery of such real
-
 12           property.
-
 13                ‘‘(B) PTIONS TO SETTLE IN CASH   .—
-
 14                    ‘‘(i) N GENERAL   .—For purposes of
 15                subparagraph (A), a contract which pro-
-
 16                vides for an option of cash settlement shall
-
 17                not be treated as requiring physical deliv-
-
 18                ery of real property unless the option is—
-
 19                         ‘‘(I) not exercisable uncondition-
-
 20                    ally, and
-
 21                         ‘‘(II) exercisable only in unusual
-
 22                    and exceptional circumstances.
-
 23                    ‘‘(ii) OPTION   OF   CASH   SETTLE  -
-
 24                MENT .—For purposes of clause (i), a con-
-
 25                tract provides an option of cash settlement
 FRA17032     S.L.C.
-
                              27
  1                if the contract settles in (or could be set-
-
  2                tled in) cash or property other than the
-
  3                underlying real property.
-
  4           ‘‘(2) HEDGING TRANSACTIONS    .—
-
  5                ‘‘(A) IN GENERAL  .—For purposes of this
-
  6           part, the term ‘derivative’ shall not include any
-
  7           contract which is part of a hedging transaction
-
  8           (as defined in section 1221(b)).
-
  9                ‘‘(B) S ECTION    988  HEDGING   TRANS   -
-
 10           ACTIONS .—For exception for section 988 hedg-
-
 11           ing transactions, see section 988(d)(1).
-
 12           ‘‘(3) SECURITIES LENDING   ,SALE -REPURCHASE  ,
-
 13       AND SIMILAR FINANCING TRANSACTIONS       .—To the
-
 14       extent provided by the Secretary, for purposes of
-
 15       this part, the term ‘derivative’ shall not include the
-
 16       right to the return of the same or substantially iden-
-
 17       tical securities transferred in a securities lending
-
 18       transaction, sale-repurchase transaction, or similar
-
 19       financing transaction.
-
 20           ‘‘(4) OPTIONS RECEIVED IN CONNECTION WITH
-
 21       THE PERFORMANCE OF SERVICES     .—For purposes of
-
 22       this part, the term ‘derivative’ shall not include any
-
 23       option described in section 83(e)(3) received in con-
-
 24       nection with the performance of services.
 FRA17032     S.L.C.
-
                              28
  1           ‘‘(5) NSURANCE CONTRACTS     ,ANNUITIES  ,AND
-
  2       ENDOWMENTS   .—For purposes of this part, the term
-
  3       ‘derivative’ shall not include any insurance, annuity,
-
  4       or endowment contract issued by an insurance com-
-
  5       pany to which subchapter L applies (or issued by
-
  6       any foreign corporation to which such subchapter
-
  7       would apply if such foreign corporation were a do-
-
  8       mestic corporation).
-
  9           ‘‘(6) DERIVATIVES WITH RESPECT TO STOCK
-
 10       OF MEMBERS OF SAME WORLDWIDE AFFILIATED
-
 11       GROUP .—For purposes of this part, the term ‘deriv-
-
 12       ative’ shall not include any derivative (determined
-
 13       without regard to this paragraph) with respect to
-
 14       stock issued by any member of the same worldwide
 15       affiliated group (as defined in section 864(f)) in
-
 16       which the taxpayer is a member.
-
 17           ‘‘(7) COMMODITIES USED IN NORMAL COURSE
-
 18       OF TRADE OR BUSINESS   .—For purposes of this part,
-
 19       the term ‘derivative’ shall not include any contract
-
 20       with respect to any commodity if—
-
 21                ‘‘(A) such contract requires physical deliv-
-
 22           ery with the option of cash settlement only in
-
 23           unusual and exceptional circumstances, and
-
 24                ‘‘(B) such commodity is used (and is used
-
 25           in quantities with respect to which such deriva-
 FRA17032    S.L.C.
-
                            29
  1          tive relates) in the normal course of the tax-
-
  2          payer’s trade or business (or, in the case of an
-
  3          individual, for personal consumption).
-
  4      ‘‘(c) CONTRACTS  W ITH  E MBEDDED   D ERIVATIVE
-
  5  COMPONENTS  .—
-
  6          ‘‘(1) N GENERAL .—If a contract has derivative
-
  7      and nonderivative components, then each derivative
-
  8      component shall be treated as a derivative for pur-
-
  9      poses of this part. If the derivative component can-
-
 10      not be separately valued, then the entire contract
-
 11      shall be treated as a derivative for purposes of this
-
 12      part.
-
 13          ‘‘(2) XCEPTION FOR CERTAIN EMBEDDED DE     -
-
 14      RIVATIVE COMPONENTS OF DEBT INSTRUMENTS    .—A
-
 15      debt instrument shall not be treated as having a de-
-
 16      rivative component merely because—
-
 17               ‘‘(A) such debt instrument is denominated
-
 18          in a nonfunctional currency (as defined in sec-
-
 19          tion 988(c)(1)(C)(ii)), or
-
 20               ‘‘(B) payments with respect to such debt
-
 21          instrument are determined by reference to the
-
 22          value of a nonfunctional currency (as so de-
-
 23          fined).
-
 24      ‘‘(d) REATMENT OF    AMERICAN  D EPOSITORY  RE -
-
 25  CEIPTS AND  SIMILAR INSTRUMENTS  .—Except as other-
 FRA17032     S.L.C.
-
                              30
  1 wise provided by the Secretary, for purposes of this part,
-
  2 American depository receipts (and similar instruments)
-
  3 with respect to shares of stock in foreign corporations
-
  4 shall be treated as shares of stock in such foreign corpora-
-
  5 tions.
-
  6              ‘‘Subpart B—Similar Contracts
-
     ‘‘Sec. 494. Tax treatment of contracts similar to derivatives.
-
  7  ‘‘SEC. 494. TAX TREATMENT OF CONTRACTS SIMILAR TO
-
  8               DERIVATIVES.
-
  9       ‘‘(a) N  GENERAL  .—For purposes of this title, if
-
 10 there is a taxable transaction with respect to any applica-
-
 11 ble property interest, then, notwithstanding any other pro-
-
 12 vision of this title other than section 1032, gain or loss
-
 13 attributable to the taxable transaction shall be considered
-
 14 gain or loss from the sale or exchange of property which
-
 15 has the same character as the property to which the appli-
-
 16 cable property interest relates has (or would have) in the
-
 17 hands of the taxpayer.
-
 18       ‘‘(b) EFINITIONS  .—For purposes of this section—
-
 19           ‘‘(1) APPLICABLE PROPERTY INTEREST      .—The
-
 20       term ‘applicable property interest’ means any right
-
 21       or obligation with respect to property other than—
-
 22                ‘‘(A) a derivative (as defined in section
-
 23           493), or
 FRA17032    S.L.C.
-
                            31
  1               ‘‘(B) any position in applicable property to
-
  2          which section 1092 applies.
-
  3          ‘‘(2) TAXABLE TRANSACTION  .—The term ‘tax-
-
  4      able transaction’ means, with respect to any applica-
-
  5      ble property interest—
-
  6               ‘‘(A) any termination or transfer (as de-
-
  7          fined in section 491(c)(3)) of such interest, or
-
  8               ‘‘(B) any payment in fulfillment or partial
-
  9          fulfillment of such interest.’’.
-
 10  SEC. 3. COORDINATION OF NEW RULES WITH EXISTING
-
 11              RULES.
-
 12      (a) COORDINATION  W ITH RULES FOR  D EALERS AND
-
 13  TRADERS .—
-
 14          (1) D ERIVATIVES NOT TREATED AS SECURI     -
 15      TIES.—Section 475(c)(2) is amended—
-
 16               (A) by adding ‘‘and’’ at the end of sub-
-
 17          paragraph (C),
-
 18               (B) by striking subparagraphs (D) and (E)
-
 19          and by redesignating subparagraph (F) as sub-
-
 20          paragraph (D),
-
 21               (C) by striking ‘‘subparagraph (A), (B),
-
 22          (C), (D), or (E)’’ in subparagraph (D)(i), as so
-
 23          redesignated, and inserting ‘‘subparagraph (A),
-
 24          (B), or (C)’’, and
 FRA17032     S.L.C.
                             32
-
  1                (D) by amending the last sentence to read
-
  2           as follows: ‘‘Such term shall not include any de-
-
  3           rivative to which section 491(a) applies.’’
-
  4           (2) D ERIVATIVES NOT TREATED AS COMMOD       -
-
  5      ITIES.—Section 475(e)(2) is amended—
-
  6                (A) by adding ‘‘and’’ at the end of sub-
-
  7           paragraph (A),
-
  8                (B) by striking subparagraphs (B) and (C)
  9           and by redesignating subparagraph (D) as sub-
-
 10           paragraph (B), and
-
 11                (C) by striking ‘‘subparagraph (A), (B) or
-
 12           (C)’’ in subparagraph (B)(i), as so redesig-
-
 13           nated, and inserting ‘‘subparagraph (A)’’.
-
 14           (3) CONFORMING AMENDMENTS     .—
-
 15                (A) Section 475(b) is amended by striking
-
 16           paragraph (4).
-
 17                (B) Section 475(d)(2)(B) is amended—
-
 18                    (i) by striking ‘‘subsection
 19                (c)(2)(F)(iii)’’ and inserting ‘‘subsection
-
 20                (c)(2)(D)(iii)’’, and
-
 21                    (ii) by striking ‘‘subsection (c)(2)(F)’’
-
 22                and inserting ‘‘subsection (c)(2)(D)’’.
-
 23                (C) Section 475(f)(1)(D) is amended by
-
 24           striking ‘‘subsections (b)(4) and (d)’’ and in-
-
 25           serting ‘‘subsection (d)’’.
 FRA17032    S.L.C.
-
                            33
  1      (b) COORDINATION  W ITHS TRADDLE  RULES .—
-
  2          (1) IN GENERAL .—Section 1092 is amended to
-
  3      read as follows:
-
  4  ‘‘SEC. 1092. STRADDLES.
-
  5      ‘‘(a) RECOGNITION OF  L OSS IN  CASE OF  STRAD -
-
  6  DLES, ETC.—
-
  7          ‘‘(1) LIMITATION ON RECOGNITION OF LOSS  .—
-
  8               ‘‘(A) N GENERAL .—Any loss with respect
-
  9          to 1 or more positions shall be taken into ac-
-
 10          count for any taxable year only to the extent
-
 11          that the amount of such loss exceeds the unrec-
-
 12          ognized gain (if any) with respect to 1 or more
-
 13          positions which were offsetting positions with
-
 14          respect to 1 or more positions from which the
-
 15          loss arose.
-
 16               ‘‘(B) CARRYOVER   OF  LOSS .—Any loss
-
 17          which may not be taken into account under
-
 18          subparagraph (A) for any taxable year shall,
-
 19          subject to the limitations under subparagraph
-
 20          (A), be treated as sustained in the succeeding
-
 21          taxable year.
-
 22          ‘‘(2) UNRECOGNIZED GAIN   .—For purposes of
-
 23      this subsection—
-
 24               ‘‘(A) N GENERAL  .—The term ‘unrecog-
-
 25          nized gain’ means—
 FRA17032     S.L.C.
                              34
-
  1                    ‘‘(i) in the case of any position held
-
  2                by the taxpayer as of the close of the tax-
-
  3                able year, the amount of gain which would
-
  4                be taken into account with respect to such
-
  5                position if such position were sold on the
-
  6                last business day of such taxable year at
-
  7                its fair market value, and
-
  8                    ‘‘(ii) in the case of any position with
  9                respect to which, as of the close of the tax-
-
 10                able year, gain has been realized but not
-
 11                recognized, the amount of gain so realized.
-
 12                ‘‘(B) R EPORTING   OF  GAIN .—Each tax-
-
 13           payer shall disclose to the Secretary, at such
-
 14           time and in such manner and form as the Sec-
-
 15           retary may prescribe by regulations—
-
 16                    ‘‘(i) each position (whether or not
-
 17                part of a straddle) with respect to which,
-
 18                as of the close of the taxable year, there is
 19                unrecognized gain, and
-
 20                    ‘‘(ii) the amount of such unrecognized
-
 21                gain.
-
 22           The Secretary may waive the requirement to re-
-
 23           port under this subparagraph with respect to
-
 24           any position if such reporting is not required to
-
 25           carry out the purposes of this section.
 FRA17032     S.L.C.
-
                             35
  1           ‘‘(3) SPECIAL RULES FOR PHYSICALLY SET       -
-
  2      TLED POSITIONS  .—For purposes of this subsection,
-
  3      if a taxpayer settles a position which is part of a
-
  4      straddle by delivering property to which the position
-
  5      relates (and such position, if terminated, would re-
-
  6      sult in a realization of a loss), then such taxpayer
-
  7      shall be treated as if such taxpayer—
-
  8                ‘‘(A) terminated the position for its fair
-
  9           market value immediately before the settlement,
-
 10           and
-
 11                ‘‘(B) sold the property so delivered by the
-
 12           taxpayer at its fair market value.
-
 13      ‘‘(b) REGULATIONS  .—The Secretary shall prescribe
-
 14 such regulations with respect to gain or loss on positions
 15 which are a part of a straddle as may be appropriate to
-
 16 carry out the purposes of this section and section 263(g).
-
 17 To the extent consistent with such purposes, such regula-
-
 18 tions shall include rules applying the principles of sub-
-
 19 sections (a) and (d) of section 1091 and of subsections
-
 20 (b) and (d) of section 1233 (as in effect before their re-
-
 21 peal).
-
 22      ‘‘(c) DEFINITIONS AND  RULES  R ELATING TO  STRAD -
-
 23  DLES .—For purposes of this section—
 FRA17032    S.L.C.
                             36
-
  1           ‘‘(1) TRADDLE DEFINED   .—The term ‘straddle’
-
  2      means offsetting positions with respect to applicable
-
  3      property.
-
  4           ‘‘(2) O FFSETTING   POSITIONS .—A taxpayer
-
  5      holds offsetting positions with respect to applicable
-
  6      property if the taxpayer holds any position which by
-
  7      itself, or in combination with 1 or more other posi-
-
  8      tions held by the taxpayer, has a delta with respect
  9      to any other position held by the taxpayer which is
-
 10      within the range beginning with minus 0.7 and end-
-
 11      ing with minus 1.0. For purposes of this paragraph,
-
 12      positions shall be taken into account whether or not
-
 13      they are in the same applicable property.
-
 14           ‘‘(3) ELTA .—
-
 15               ‘‘(A) I N  GENERAL  .—The term ‘delta’
-
 16           means, with respect to any positions in applica-
-
 17           ble property, the ratio of the expected change in
-
 18           the fair market value of 1 position to any
 19           change in the fair market value of another posi-
-
 20           tion.
-
 21               ‘‘(B) M ETHOD OF DETERMINATION     .—The
-
 22           delta with respect to any position in applicable
-
 23           property with respect to another position in ap-
-
 24           plicable property (or any combination of such
-
 25           positions) shall be determined—
 FRA17032    S.L.C.
                             37
-
  1                    ‘‘(i) in a commercially reasonable
-
  2               manner, and
-
  3                    ‘‘(ii) except as provided by the Sec-
-
  4               retary, in a manner which is consistent
-
  5               with the manner used by the taxpayer or
-
  6               the taxpayer’s broker for purposes of an
-
  7               applicable financial statement.
-
  8               ‘‘(C) T IMING OF DELTA DETERMINATION
  9           AND OTHER SPECIAL RULES    .—Rules similar to
-
 10           the rules of paragraphs (3) and (4) of section
-
 11           492(d) shall apply for purposes of this para-
-
 12           graph.
-
 13           ‘‘(4) PPLICABLE PROPERTY AND POSITION DE     -
-
 14      FINED .—
-
 15               ‘‘(A) A PPLICABLE PROPERTY   .—The term
-
 16           ‘applicable property’ means any item which is—
-
 17                    ‘‘(i) described in paragraph (1), (2),
-
 18               (3), (5), (6), (7), or (8) of section 493(a)
 19               (or any item substantially the same as any
-
 20               such item), and
-
 21                    ‘‘(ii) of a type which is actively trad-
-
 22               ed.
-
 23               ‘‘(B) POSITION .—
 FRA17032     S.L.C.
-
                             38
  1                    ‘‘(i) N GENERAL   .—The term ‘posi-
-
  2                tion’ means an interest in applicable prop-
-
  3                erty.
-
  4                    ‘‘(ii) ERIVATIVES EXCLUDED   .—Such
-
  5                term shall not include a derivative (as de-
-
  6                fined in section 493).
-
  7           ‘‘(5) POSITIONS HELD BY RELATED PERSONS      ,
-
  8      ETC .—
-
  9                ‘‘(A) N GENERAL  .—In determining wheth-
-
 10           er 2 or more positions are offsetting, the tax-
-
 11           payer shall be treated as holding any position
-
 12           held by a related party (within the meaning of
-
 13           section 492(f)).
-
 14                ‘‘(B) C ERTAIN    FLOWTHROUGH     ENTI  -
-
 15           TIES.—If part or all of the gain or loss with re-
-
 16           spect to a position held by a partnership, trust,
-
 17           or other entity would properly be taken into ac-
-
 18           count for purposes of this chapter by a tax-
-
 19           payer, then, except to the extent otherwise pro-
-
 20           vided in regulations, such position shall be
-
 21           treated as held by the taxpayer.
-
 22           ‘‘(6) S PECIAL  RULES   FOR  FOREIGN   CUR   -
-
 23      RENCY  .—
-
 24                ‘‘(A) POSITION TO INCLUDE INTEREST IN
-
 25           CERTAIN DEBT   .—For purposes of paragraph
 FRA17032    S.L.C.
-
                            39
  1           (4)(B)(i), an obligor’s interest in a nonfunc-
-
  2           tional currency denominated debt obligation is
-
  3           treated as a position in the nonfunctional cur-
-
  4           rency.
-
  5               ‘‘(B) ACTIVELY TRADED REQUIREMENT    .—
-
  6           For purposes of paragraph (4)(A)(ii), foreign
-
  7           currency for which there is an active interbank
-
  8           market is presumed to be actively traded.
-
  9      ‘‘(d) XCEPTION FOR   HEDGING  T RANSACTIONS AND
-
 10  INVESTMENT   H EDGING  UNITS .—This section shall not
-
 11 apply in the case of—
-
 12           ‘‘(1) any hedging transaction (as defined in sec-
-
 13      tion 1221(b)), and
-
 14           ‘‘(2) any investment hedging unit (as defined in
 15      section 492).
-
 16      ‘‘(e) ROSS  R EFERENCE .—For provision requiring
-
 17 capitalization of certain interest and carrying charges
-
 18 where there is a straddle, see section 263(g).’’.
-
 19           (2) ONFORMING AMENDMENTS     .—The last sen-
-
 20      tence of section 246(c)(4) is amended—
-
 21               (A) by inserting ‘‘(as in effect before its re-
-
 22           peal)’’ after ‘‘section 1092(c)(4)’’, and
-
 23               (B) by inserting ‘‘(as so in effect)’’ after
-
 24           ‘‘section 1092(f)’’.
 FRA17032    S.L.C.
-
                             40
  1      (c) DEBT  INSTRUMENTS   H ELD BY INSURANCE   COM -
-
  2  PANIES .—
-
  3           (1) IN GENERAL   .—Subsection (a) of section
-
  4      1221 is amended by striking ‘‘or’’ at the end of
-
  5      paragraph (7), by striking the period at the end of
-
  6      paragraph (8) and inserting ‘‘; or’’, and by adding
-
  7      at the end the following:
-
  8           ‘‘(9) any bond, debenture, note, or certificate or
-
  9      other evidence of indebtedness held by an applicable
-
 10      insurance company (as defined in subsection
-
 11      (b)(5)).’’.
-
 12           (2) A PPLICABLE INSURANCE COMPANY     .—Sec-
-
 13      tion 1221(b), as amended by this Act, is amended
-
 14      by adding at the end the following:
 15           ‘‘(5) PPLICABLE INSURANCE COMPANY     .—For
-
 16      purposes of subsection (a)(9)—
-
 17               ‘‘(A) IN GENERAL  .—The term ‘applicable
-
 18           insurance company’ means, with respect to any
-
 19           taxable year, an insurance company (as defined
-
 20           in the last sentence of section 816(a))—
-
 21                    ‘‘(i) which is subject to tax under sec-
-
 22               tion 801(a)(1) or section 831(a),
-
 23                    ‘‘(ii) with respect to which sections
-
 24               831(b), 835, 842, and 847 do not apply,
-
 25               and
 FRA17032     S.L.C.
-
                             41
  1                    ‘‘(iii) which is not treated as a stock
-
  2                insurance company solely by reason of sec-
-
  3                tion 833(a)(1).
-
  4                ‘‘(B) PERMANENT TREATMENT BY COM        -
-
  5           PANY AS ORDINARY ASSET      .—If an asset is
-
  6           treated as an asset described in subsection (a)
-
  7           (9) with respect to any applicable insurance
-
  8           company for any taxable year, such asset shall
-
  9           be treated as so described during any subse-
-
 10           quent taxable year such asset is held by such
-
 11           company.’’.
-
 12           (3) R EGULATIONS  .—Paragraph (4) of section
-
 13      1221(b) is amended—
-
 14                (A) by striking ‘‘The Secretary’’ and in-
 15           serting:
-
 16                ‘‘(A) ELATED PARTIES   .—The Secretary’’,
-
 17           and
-
 18                (B) by adding at the end the following:
-
 19                ‘‘(B) A SSETS  OF   INSURANCE   COMPA   -
-
 20           NIES.—The Secretary shall prescribe such regu-
-
 21           lations as may be necessary or appropriate to
-
 22           carry out the purposes of subsection (a)(9), in-
-
 23           cluding such regulations as may be necessary to
-
 24           prevent the avoidance of Federal income tax
 FRA17032    S.L.C.
                             42
-
  1           through the sale or exchange of assets described
-
  2           in such subsection.’’.
-
  3           (4) EFFECTIVE DATE  .—
-
  4               (A) IN GENERAL  .—The amendments made
-
  5           by this subsection shall apply to any bond, de-
-
  6           benture, note, or certificate or other evidence of
-
  7           indebtedness held or acquired after the 90-day
-
  8           period beginning with the date of the enactment
  9           of this Act.
-
 10               (B) T RANSITION RULE  .—If a taxpayer has
-
 11           a capital loss carryover to any taxable year of
-
 12           the taxpayer beginning after the close of the
-
 13           90-day period described in subparagraph (A),
-
 14           the taxpayer shall, in addition to other short-
-
 15           term capital gain of the taxpayer (if any), treat
-
 16           as short-term capital gain (rather than as ordi-
-
 17           nary income) an amount equal to the lesser
-
 18           of—
 19                    (i) the net gain (if any) from sales or
-
 20               exchanges during such taxable year of as-
-
 21               sets to which section 1221(a)(9) of such
-
 22               Code (as added by paragraph (1)) applies,
-
 23               or
 FRA17032    S.L.C.
-
                            43
  1                   (ii) the capital loss carryovers to such
-
  2               taxable year from taxable years beginning
-
  3               before the close of such period.
-
  4      (d) RICS A LLOWED  N ET OPERATING  L OSS DEDUC -
-
  5  TION.—
-
  6          (1) IN GENERAL   .—Paragraph (2) of section
-
  7      852(b) is amended by striking subparagraph (B)
-
  8      and by redesignating subparagraphs (C) through (G)
-
  9      as subparagraphs (B) through (F), respectively.
-
 10          (2) RESTRICTION ON CARRYBACK OF LOSSES   .—
-
 11      Subparagraph (B) of section 172(b)(1) is amend-
-
 12      ed—
-
 13               (A) by striking ‘‘REIT’’ each place it ap-
-
 14          pears in the text and inserting ‘‘RIC or REIT’’,
 15               (B) by striking ‘‘part II of subchapter M
-
 16          (relating to real estate investment trusts)’’ in
-
 17          clause (iii) and inserting ‘‘part I or II of sub-
-
 18          chapter M’’,
-
 19               (C) by striking ‘‘‘REIT’’S’’ in the heading
-
 20          for such subparagraph and inserting ‘‘‘RIC’’s
-
 21          or REIT’s’’, and
-
 22               (D) by striking ‘‘REIT’’ in the heading for
-
 23          clause (iii) and inserting ‘‘RIC or REIT’’.
-
 24          (3) O THER MODIFICATIONS .—Paragraph (6) of
-
 25      section 172(d) is amended to read follows:
 FRA17032    S.L.C.
                             44
-
  1           ‘‘(6) MODIFICATIONS RELATED TO RICS AND
-
  2      REITS .—In the case of any taxable year for which
-
  3      part I or II of subchapter M applies to the tax-
-
  4      payer—
-
  5               ‘‘(A) the net operating loss for such tax-
  6           able year shall be computed by taking into ac-
-
  7           count—
-
  8                    ‘‘(i) in the case of a regulated invest-
-
  9               ment company, the adjustments described
-
 10               in section 852(b)(2) (other than the deduc-
-
 11               tion for dividends paid described in sub-
-
 12               paragraph (C) thereof)), and
-
 13                    ‘‘(ii) in the case of a real estate in-
 14               vestment trust, the adjustments described
-
 15               in section 857(b)(2) (other than the deduc-
-
 16               tion for dividends paid described in sub-
-
 17               paragraph (B) thereof), and
-
 18               ‘‘(B) where such taxable year is a ‘prior
-
 19           taxable year’ referred to in paragraph (2) of
-
 20           subsection (b), references in such paragraph to
-
 21           ‘taxable income’ shall be treated as references
 22           to—
-
 23                    ‘‘(i) in the case of a regulated invest-
-
 24               ment company, regulated investment com-
 FRA17032    S.L.C.
-
                           45
-
  1              pany taxable income (as defined in section
-
  2              852(b)(2), and
-
  3                  ‘‘(ii) in the case of a real estate in-
-
  4              vestment trust, real estate investment tax-
-
  5              able income (as defined in section
-
  6              857(b)(2)).’’.
-
  7          (4) CONFORMING AMENDMENTS   .—
-
  8              (A) Section 852(a)(1)(A) is amended by
-
  9          striking ‘‘subsection (b)(2)(D)’’ and inserting
-
 10          ‘‘subsection (b)(2)(C)’’.
-
 11              (B) Section 4982(e)(1)(A) is amended by
-
 12          striking ‘‘and (D)’’ and inserting ‘‘and (C)’’.
-
 13          (5) EFFECTIVE DATE .—The amendments made
-
 14      by this subsection shall apply to net operating losses
-
 15      for taxable years ending after the 90th day after the
-
 16      date of the enactment of this Act.
-
 17      (e) NONRECOGNITION OF    GAIN OR   LOSS  FROM
-
 18  TRANSACTIONS BY A  C ORPORATION  W ITH RESPECT TO
-
 19  TS STOCK .—
-
 20          (1) N GENERAL  .—Section 1032 is amended to
-
 21      read as follows:
-
 22  ‘‘SEC. 1032. TRANSACTIONS BY A CORPORATION WITH RE-
-
 23             SPECT TO ITS STOCK.
-
 24      ‘‘(a) ONRECOGNITION ON    EXCHANGE OF   S TOCK
-
 25  FOR PROPERTY .—No gain or loss shall be recognized to
 FRA17032    S.L.C.
-
                            46
  1 a corporation on the receipt of money or other property
-
  2 in exchange for stock of such corporation.
-
  3      ‘‘(b) ERIVATIVE T RANSACTIONS BY A  CORPORATION
-
  4  W ITH RESPECT TO  TS STOCK .—
-
  5           ‘‘(1) N GENERAL  .—Except as otherwise pro-
-
  6      vided in this subsection, section 1032 derivative
-
  7      items of a corporation shall not be taken into ac-
-
  8      count in determining such corporation’s liability for
-
  9      tax under this subtitle.
-
 10           ‘‘(2)NCOME RECOGNITION ON CERTAIN FOR      -
-
 11      WARD CONTRACTS   .—
-
 12               ‘‘(A) N GENERAL .—If—
-
 13                   ‘‘(i) a corporation acquires its stock,
-
 14               and
 15                   ‘‘(ii) such acquisition is part of a plan
-
 16               (or series of related transactions) pursuant
-
 17               to which the corporation enters into a for-
-
 18               ward contract with respect to its stock,
-
 19           such corporation shall include amounts in in-
-
 20           come as if the excess of the amount to be re-
-
 21           ceived under the forward contract over the fair
-
 22           market value of the stock as of the date the
-
 23           corporation entered into the forward contract
-
 24           were original issue discount on a debt instru-
-
 25           ment acquired on such date. The preceding sen-
 FRA17032     S.L.C.
                              47
-
  1           tence shall apply only to the extent that the
-
  2           amount of stock involved in the forward con-
-
  3           tract does not exceed the amount acquired as
-
  4           described in clause (i).
-
  5                ‘‘(B) P LAN PRESUMED TO EXIST      .—If a
-
  6           corporation enters into a forward contract with
-
  7           respect to its stock within the 60-day period be-
-
  8           ginning on the date which is 30 days before the
  9           date that the corporation acquires its stock,
-
 10           such acquisition shall be treated as pursuant to
-
 11           a plan described in subparagraph (A)(ii) unless
-
 12           it is established that entering into such contract
-
 13           and such acquisition are not pursuant to a plan
-
 14           or series of related transactions.
-
 15       ‘‘(c) ECTION  1032 D  ERIVATIVE  ITEMS .—For pur-
-
 16 poses of this section, the term ‘section 1032 derivative
-
 17 item’ means, with respect to any corporation, any item of
-
 18 income, gain, loss, or deduction if—
 19           ‘‘(1) such item arises out of the rights or obli-
-
 20       gations under any derivative (as defined in section
-
 21       493) to the extent such derivative relates to the cor-
-
 22       poration’s stock (or is attributable to any transfer or
-
 23       extinguishment of any such right or obligation), or
-
 24           ‘‘(2) such item arises under any other contract
-
 25       or position but only to the extent that such item re-
 FRA17032    S.L.C.
-
                             48
  1      flects (or is determined by reference to) changes in
-
  2      the value of such stock or distributions thereon.
-
  3 Such term shall not include any deduction with respect
-
  4 to which section 83(h) applies and shall not include any
-
  5 deduction for any item which is in the nature of compensa-
-
  6 tion for services rendered. For purposes of this subpara-
-
  7 graph, de minimis relationships, as determined by the Sec-
-
  8 retary, shall be disregarded.
-
  9      ‘‘(d) COORDINATION  W ITH D ERIVATIVE AND  S TRAD -
-
 10  DLE R ULES .—In the case of a derivative or other contract
-
 11 or position described in subsection (c) which is held by
-
 12 a corporation with respect to its stock—
-
 13           ‘‘(1) this section (rather than part IV of sub-
-
 14      chapter E or section 1092) shall apply in deter-
 15      mining the treatment of section 1032 derivative
-
 16      items under this subtitle, and
-
 17           ‘‘(2) such derivative or other contract or posi-
-
 18      tion shall not be taken into account in determining
-
 19      whether the corporation has an investment hedging
-
 20      unit, applicable property interest, or straddle with
-
 21      respect to its stock for purposes of such part or sec-
-
 22      tion.
-
 23      ‘‘(e) REGULATIONS  .—The Secretary shall prescribe
-
 24 such regulations or other guidance as may be appropriate
-
 25 to carry out the purposes of this section, including regula-
 FRA17032    S.L.C.
-
                            49
-
  1 tions or other guidance which treat the portion of an in-
-
  2 strument which is described in subsection (c)(1) separately
-
  3 from the portion of such instrument which is not so de-
-
  4 scribed.
-
  5      ‘‘(f) ASI.—For basis of property acquired by a cor-
-
  6 poration in certain exchanges for its stock, see section
-
  7 362.’’.
-
  8          (2) CLERICAL AMENDMENT   .—The item relating
-
  9      to section 1032 in the table of sections for part III
-
 10      of subchapter O of chapter 1 is amended to read as
-
 11      follows:
     ‘‘Sec. 1032.Transactions by a corporation with respect to its stock.’’.
-
 12          (3) EFFECTIVE DATE  .—The amendments made
-
 13      by this subsection shall apply to transactions entered
-
 14      into after the date of the enactment of this Act.
-
 15  SEC. 4. TECHNICAL AND CONFORMING AMENDMENTS.
-
 16      (a) R EPEAL  OF  C ERTAIN  O THER  SUPERCEDED
-
 17  RULES   FOR   D ETERMINING   C APITAL   GAINS  AND
-
 18  LOSSES.—
-
 19          (1) IN GENERAL .—Part IV of subchapter P of
-
 20      chapter 1 is amended by striking sections 1233,
-
 21      1234, 1234A, 1234B, 1236, 1256, 1258, 1259, and
-
 22      1260 (and by striking the items relating to such sec-
-
 23      tions in the table of sections for such part).
 FRA17032    S.L.C.
                             50
-
  1           (2) C ONFORMING AMENDMENTS RELATED TO
-
  2      REPEAL OF SECTION 1234    .—Section 6045(h)(2) is
-
  3      amended—
-
  4               (A) by striking ‘‘(as defined in section
-
  5           1234(b)(2)(A)’’, and
-
  6               (B) by adding at the end the following:
-
  7           ‘‘For purposes of the preceding sentence, the
-
  8           term ‘closing transaction’ means any termi-
  9           nation of the taxpayer’s obligation under an op-
-
 10           tion in property other than through the exercise
-
 11           or lapse of the option.’’.
-
 12           (3) C ONFORMING AMENDMENTS RELATED TO
-
 13      REPEAL OF SECTION 1236  .—
-
 14               (A) Section 475(d)(3)(A) is amended by
-
 15           striking ‘‘or section 1236(b)’’.
-
 16               (B) Section 512(b)(5) is amended by strik-
-
 17           ing ‘‘section 1236(c)’’ and inserting ‘‘section
-
 18           1058(c)’’.
 19               (C) Section 1058 is amended—
-
 20                    (i) by striking ‘‘(as defined in section
-
 21               1236(c))’’ in subsection (a), and
-
 22                    (ii) by redesignating subsection (c) as
-
 23               subsection (d) and by inserting after sub-
-
 24               section (b) the following new subsection:
 FRA17032     S.L.C.
                              51
-
  1       ‘‘(c) ECURITIES .—For purposes of this section, the
-
  2 term ‘security’ means any share of stock in any corpora-
-
  3 tion, certificate of stock or interest in any corporation,
-
  4 note, bond, debenture, or evidence of indebtedness, or any
-
  5 evidence of an interest in or right to subscribe to or pur-
-
  6 chase any of the foregoing.’’.
-
  7           (4) C ONFORMING AMENDMENTS RELATED TO
-
  8       REPEAL OF SECTION 1256  .—
  9                (A)(i) Section 461(i)(3)(B) is amended to
-
 10           read as follows:
-
 11                ‘‘(B) any partnership or other entity (other
-
 12           than a corporation which is not an S corpora-
-
 13           tion) if more than 35 percent of the losses of
-
 14           such entity during the taxable year are allocable
-
 15           to limited partners or limited entrepreneurs
-
 16           (within the meaning of subsection (k)(4)),
-
 17           and’’.
-
 18                    (ii) Section 461 is amended—
 19                         (I) by redesignating the second
-
 20                    subsection (j) (relating to farming
-
 21                    syndicate defined) as subsection (k),
-
 22                    and
-
 23                         (II) by striking ‘‘subsection (j)’’
-
 24                    in subsection (i)(4) and inserting
-
 25                    ‘‘subsection (k)’’.
 FRA17032    S.L.C.
                            52
-
  1               (B) Section 475(d)(1) is amended by strik-
-
  2           ing ‘‘sections 263(g), 263A, and 1256(a)’’ and
-
  3           inserting ‘‘sections 263(g) and 263A’’.
-
  4               (C) Section 988(c)(1) is amended by strik-
-
  5           ing subparagraphs (D) and (E).
-
  6               (D) Section 1212 is amended by striking
-
  7           subsection (c).
-
  8               (E) Section 1223 is amended by striking
  9           paragraphs (7) and (14).
-
 10               (F) Section 1281(b)(1)(E) is amended to
-
 11           read as follows:
-
 12               ‘‘(E) is part of a hedging transaction (as
-
 13           defined in section 1221(b)) or an investment
-
 14           hedging unit (as defined in section 492), or’’.
-
 15               (G) Section 1402 is amended by striking
-
 16           subsection (i).
-
 17               (H) Section 4982(e)(6)(B) is amended by
-
 18           striking ‘‘sections 1256 and 1296’’ and insert-
 19           ing ‘‘sections 491 and 1296’’.
-
 20           (5) CONFORMING AMENDMENTS RELATED TO
-
 21      REPEAL OF SECTION 1259    .—Section 475(f)(1) is
-
 22      amended by striking subparagraph (C) and by redes-
-
 23      ignating subparagraph (D) as subparagraph (C).
-
 24      (b) OTHER  CONFORMING   AMENDMENTS   .—
 FRA17032    S.L.C.
-
                            53
  1          (1) Section 355(g)(2)(B)(i)(V) is amended to
-
  2      read as follows:
-
  3                       ‘‘(V) any derivative (as defined in
-
  4                   section 493),’’.
-
  5          (2) Section 856(n)(4) is amended by inserting
-
  6      ‘‘or derivatives (as defined in section 493)’’ after
-
  7      ‘‘securities (as defined in section 475(c)(2))’’.
-
  8          (3) Section 857(e)(2)(C)(i) is amended by strik-
-
  9      ing ‘‘section 860E or 1272’’ and inserting ‘‘section
-
 10      491, 860E, or 1272’’.
-
 11          (4) Section 988(d)(1) is amended—
-
 12               (A) by striking ‘‘or 1256’’ and inserting
-
 13          ‘‘or 491’’, and
-
 14               (B) by striking ‘‘1092, and 1256’’ and in-
 15          serting ‘‘491, and 1092’’.
-
 16          (5) Section 1091(e) is amended to read as fol-
-
 17      lows:
-
 18      ‘‘(e) OORDINATION   W ITH M ARK TO   MARKET OF
-
 19  DERIVATIVES  AND   U NDERLYING   INVESTMENTS  .—For
-
 20 purposes of this section, the term ‘stock or securities’ shall
-
 21 not include—
-
 22          ‘‘(1) any derivative (as defined in section 493),
-
 23      or
-
 24          ‘‘(2) any underlying investment (as defined in
-
 25      section 492(e)(1)) which, at the time of the sale or
 FRA17032     S.L.C.
                              54
-
  1       other disposition, is part of an investment hedging
-
  2       unit (as defined in section 492).’’.
-
  3           (6)(A) Section 1221(a)(6) is amended to read
-
  4       as follows:
-
  5           ‘‘(6) any—
  6                ‘‘(A) derivative (as defined in section 493),
-
  7           or
-
  8                ‘‘(B) any underlying investment (as de-
-
  9           fined in section 492(e)(1)) which is part of an
-
 10           investment hedging unit (as defined in section
-
 11           492),’’.
-
 12           (B) Section 1221(b) is amended by striking
-
 13       paragraph (1).
 14           (7) Section 4975(f)(11)(D) is amended by
-
 15       striking clauses (i) and (ii) and inserting the fol-
-
 16       lowing:
-
 17                    ‘‘(i) SECURITY .—The term ‘security’
-
 18                means any security described in section
-
 19                475(c)(2) (without regard to subparagraph
-
 20                (D)(iii) thereof) and any derivative with re-
-
 21                spect to such a security (within the mean-
 22                ing of section 493).
-
 23                    ‘‘(ii) COMMODITY  .—The term ‘com-
-
 24                modity’ means any commodity described in
-
 25                section 475(e)(2) (without regard to sub-
 FRA17032     S.L.C.
-
                              55
-
  1                paragraph (B)(iii) thereof) and any deriva-
-
  2                tive with respect to such a commodity
-
  3                (within the meaning of section 493).’’.
-
  4           (8) The table of parts for subchapter E of
-
  5       chapter 1 is amended by adding at the end the fol-
-
  6       lowing new item:
-
      ‘‘ARTIV. AX TREATMENT OFDERIVATIVES ANSIMILACONTRACTUAL
                     RIGHTS ANDRESPONSIBILIT’’.
-
  7  SEC. 5. EFFECTIVE DATES.
-
  8       (a) N  GENERAL  .—Except as provided in this Act—
-
  9           (1) the amendments made by section 2 shall
 
-
 10       apply to taxable events occurring after the 90-day
-
 11       period beginning with the date of the enactment of
-
 12       this Act, in taxable years ending after the last day
-
 13       of such period, and
-
 14           (2) the amendments made by sections 3 and 4
-
 15       shall apply to derivatives and underlying investments
-
 16       held after the last day of such period.
-
 17       (b) IDENTIFICATION   REQUIREMENTS   .—If, as of the
-
 18 close of the 90-day period described in subsection (a)(1),
-
 19 a taxpayer simultaneously holds 1 or more derivatives with
 
-
 20 respect to an underlying investment and the underlying
-
 21 investment—
-
 22           (1) the taxpayer shall make the identifications
-
 23       required under section 492(c)(2) of Internal Rev-
 FRA17032     S.L.C.
-
                              56
  1       enue Code of 1986 (as added by section 2 of this
-
  2       Act) before the close of such period, and
-
  3            (2) if such identifications result in an invest-
-
  4       ment hedging unit, the first applicable hedging pe-
-
  5       riod with respect to such unit shall begin on the day
-
  6       after the close of such period.
-
  7       (c) DEFINITIONS .—For purposes of this section, any
-
  8 term used in this section which is also used in part IV
-
  9 of subchapter E of chapter 1 of such Code (as so added)
-
 10 shall have the same meaning as when used in such part.

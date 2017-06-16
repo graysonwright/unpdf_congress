@@ -3,37 +3,24 @@ KIN17128      S.L.C.
 
 
 
-
-
-
-
 115TH  CONGRESS
     1ST SESSION        S.ll
-
-
 
   To prohibit discrimination on the basis of sex, gender identity, and sexual
                   orientation, and for other purposes.
 
 
 
-
-
-
      IN THE SENATE OF THE UNITED STATES
-
                        llllllllll
-
 Mr. M ERKLEY (for himself, Ms.ALDWIN, Mr. BOOKER , Mr. BENNET, Mr.
     BLUMENTHAL  , Mr. ROWN , Ms. CANTWELL , Mr. ARDIN, Mr. CARPER,
     Mr. CASEY , Mr. COONS, Ms. CORTEZ  MASTO , Ms. DUCKWORTH , Mr.
     D URBIN, Mrs. EINSTEIN, Mr. FRANKEN , Mrs. ILLIBRAND, Ms. HAR-
-
     RIS, Ms. HASSAN, Mr. H EINRICH, Ms. HEITKAMP , Ms. HIRONO, Mr.
     KAINE, Mr. K ING, Ms. KLOBUCHAR , Mr. LEAHY , Mr. MARKEY, Mrs.
     M CCASKILL, Mr. ENENDEZ , Mr. MURPHY , Mrs. URRAY , Mr. ELSON,
     Mr. PETERS , Mr. REED, Mr. SANDERS , Mr. SCHATZ, Mr. SCHUMER ,
-
     Mrs. SHAHEEN , Ms. STABENOW , Mr. TESTER , Mr. UDALL , Mr. VAN
     H OLLEN, Mr. W ARNER , Ms. W ARREN , Mr. W HITEHOUSE , and Mr.
     W YDEN) introduced the following bill; which was read twice and referred
@@ -41,1126 +28,604 @@ Mr. M ERKLEY (for himself, Ms.ALDWIN, Mr. BOOKER , Mr. BENNET, Mr.
 
 
 
-
-
-
-
                         A BILL
-
     To prohibit discrimination on the basis of sex, gender
-
    identity, and sexual orientation, and for other purposes.
-
 
  1        Be it enacted by the Senate and House of Representa-
 
-
  2 tives of the United States of America in Congress assembled,
-
  3  SECTION 1. SHORT TITLE.
-
 
  4        This Act may be cited as the ‘‘Equality Act’’.
 KIN17128     S.L.C.
                              2
-
  1  SEC. 2. FINDINGS AND PURPOSE.
-
  2       (a) FINDINGS.—Congress finds the following:
-
  3           (1) Discrimination can occur on the basis of the
-
  4       sex, sexual orientation, gender identity, or preg-
-
  5       nancy, childbirth, or a related medical condition of
  6       an individual, as well as because of sex-based stereo-
-
  7       types. Each of these factors alone can serve as the
-
  8       basis for discrimination, and each is a form of sex
-
  9       discrimination.
-
 10           (2) A single instance of discrimination may
-
 11       have more than 1 basis. For example, discrimination
-
 12       against a married same-sex couple could be based on
-
 13       the sex stereotype that marriage should only be be-
-
 14       tween heterosexual couples, the sexual orientation of
-
 15       the 2 individuals in the couple, or both. Discrimina-
 16       tion against a pregnant lesbian could be based on
-
 17       her sex, her sexual orientation, her pregnancy, or on
-
 18       the basis of multiple factors.
-
 19           (3) Lesbian, gay, bisexual, and transgender (re-
-
 20       ferred to as ‘‘LGBT’’) people commonly experience
-
 21       discrimination in securing access to public accom-
-
 22       modations—including restaurants, stores, places of
-
 23       or establishments that provide entertainment, and
-
 24       transportation. Forms of discrimination include the
-
 25       exclusion and denial of entry, unequal or unfair
-
 26       treatment, harassment, and violence. This discrimi-
 KIN17128     S.L.C.
                              3
-
  1       nation prevents the full participation of LGBT peo-
-
  2       ple in society and disrupts the free flow of com-
-
  3       merce.
-
  4           (4) Women also face discrimination, in estab-
-
  5       lishments such as stores and restaurants, and places
  6       or establishments that provide other goods or serv-
-
  7       ices, such as entertainment or transportation, in-
-
  8       cluding sexual harassment, differential pricing, and
-
  9       denial of services because they are pregnant or
-
 10       breastfeeding.
-
 11           (5) Regular and ongoing discrimination against
-
 12       LGBT people, as well as women, in accessing public
-
 13       accommodations contributes to negative social and
 14       economic outcomes.
-
 15           (6) The discredited practice known as ‘‘conver-
-
 16       sion therapy’’ is a form of discrimination that harms
-
 17       LGBT people by undermining individuals sense of
-
 18       self worth, increasing suicide ideation and substance
-
 19       abuse, exacerbating family conflict, and contributing
-
 20       to second class status.
-
 21           (7) Both LGBT people and women face wide-
 22       spread discrimination in employment and various
-
 23       services, including by entities that receive Federal fi-
-
 24       nancial assistance. Such discrimination—
 KIN17128     S.L.C.
                              4
-
  1                (A) is particularly troubling and inappro-
-
  2           priate for programs and services funded wholly
-
  3           or in part by the Federal Government;
-
  4                (B) undermines national progress toward
-
  5           equal treatment regardless of sex, sexual ori-
  6           entation, or gender identity; and
-
  7                (C) is inconsistent with the constitutional
-
  8           principle of equal protection under the Four-
-
  9           teenth Amendment of the Constitution of the
-
 10           United States.
-
 11           (8) Workers who are LGBT, or are perceived to
-
 12       be LGBT, have been subjected to a history and pat-
-
 13       tern of persistent, widespread, and pervasive dis-
 14       crimination on the bases of sexual orientation and
-
 15       gender identity by private sector employers and Fed-
-
 16       eral, State, and local government employers.
-
 17           (9) Numerous provisions of Federal law ex-
-
 18       pressly prohibit discrimination on the basis of sex,
-
 19       and Federal agencies and courts have correctly in-
-
 20       terpreted these prohibitions on sex discrimination to
-
 21       include discrimination based on sexual orientation,
 22       gender identity, and sex stereotypes. In particular,
-
 23       the Equal Employment Opportunity Commission
-
 24       correctly interpreted title VII of the Civil Rights Act
 KIN17128    S.L.C.
                              5
-
  1      of 1964 in Macy v. Holder , Baldwin v. Foxx , and
-
  2      Lusardi v. McHugh.
-
  3           (10) The absence of explicit prohibitions of dis-
-
  4      crimination on the basis of sexual orientation and
-
  5      gender identity under Federal statutory law, as well
  6      as the existence of legislative proposals that would
-
  7      have provided such explicit prohibitions, has led
-
  8      some courts to conclude incorrectly that current
-
  9      Federal laws prohibiting sex discrimination do not
-
 10      prohibit discrimination on the basis of sexual ori-
-
 11      entation and gender identity. It has also created un-
-
 12      certainty for employers and other entities covered by
-
 13      Federal nondiscrimination laws and caused unneces-
 14      sary hardships for LGBT individuals.
-
 15           (11) LGBT people often face discrimination
-
 16      when seeking to rent or purchase housing, as well as
-
 17      in every other aspect of obtaining and maintaining
-
 18      housing. LGBT people in same-sex relationships are
-
 19      often discriminated against when 2 names associated
-
 20      with 1 gender appear on a housing application, and
-
 21      transgender people often encounter discrimination
 22      when credit checks or inquiries reveal a former
-
 23      name.
-
 24           (12) National surveys, including a study com-
-
 25      missioned by the Department of Housing and Urban
 KIN17128     S.L.C.
                              6
-
  1       Development, show that housing discrimination
-
  2       against LGBT people is very prevalent. For in-
-
  3       stance, when same-sex couples inquire about housing
-
  4       that is available for rent, they are less likely to re-
-
  5       ceive positive responses from landlords. According to
  6       other studies, transgender people have half the
-
  7       homeownership rate of non-transgender people and
-
  8       about 1 in 5 transgender people experience home-
-
  9       lessness.
-
 10           (13) As a result of the absence of explicit prohi-
-
 11       bitions against discrimination on the basis of sexual
-
 12       orientation and gender identity, credit applicants
-
 13       who are LGBT, or perceived to be LGBT, have un-
 14       equal opportunities to establish credit. LGBT people
-
 15       can experience being denied a mortgage, credit card,
-
 16       student loan, or many other types of credit simply
-
 17       because of their sexual orientation or gender iden-
-
 18       tity.
-
 19           (14) Numerous studies demonstrate that LGBT
-
 20       people, especially transgender people and women, are
-
 21       economically disadvantaged and at a higher risk for
 22       poverty compared with other groups of people.
-
 23           (15) The right to an impartial jury of one’s
-
 24       peers and the reciprocal right to jury service are
-
 25       fundamental to the free and democratic system of
 KIN17128    S.L.C.
-
                              7
  1      justice in the United States and are based in the
-
  2      Bill of Rights. There is, however, an unfortunate
-
  3      and long-documented history in the United States of
-
  4      attorneys discriminating against LGBT individuals,
-
  5      or those perceived to be LGBT, in jury selection.
-
  6      Failure to bar peremptory challenges based on the
-
  7      actual or perceived sexual orientation or gender
-
  8      identity of an individual not only erodes a funda-
-
  9      mental right, duty, and obligation of being a citizen
-
 10      of the United States, but also unfairly creates a sec-
-
 11      ond class of citizenship for LGBT victims, witnesses,
-
 12      plaintiffs, and defendants.
-
 13      (b) P URPOSE .—It is the purpose of this Act to ex-
-
 14 pand as well as clarify, confirm and create greater consist-
 15 ency in the protections against discrimination on the basis
-
 16 of all covered characteristics and to provide guidance and
-
 17 notice to individuals, organizations, corporations, and
-
 18 agencies regarding their obligations under the law.
-
 19  SEC. 3. PUBLIC ACCOMMODATIONS.
-
 20      (a) PROHIBITION ON   DISCRIMINATION OR   SEGREGA  -
-
 21  TION IN P UBLIC A CCOMMODATIONS   .—Section 201 of the
-
 22 Civil Rights Act of 1964 (42 U.S.C. 2000a) is amended—
-
 23           (1) in subsection (a), by inserting ‘‘sex, sexual
-
 24      orientation, gender identity,’’ before ‘‘or national ori-
-
 25      gin’’; and
 KIN17128    S.L.C.
                             8
-
  1           (2) in subsection (b)—
-
  2               (A) in paragraph (3), by striking ‘‘sta-
-
  3           dium’’ and all that follows and inserting ‘‘sta-
-
  4           dium or other place of or establishment that
-
  5           provides exhibition, entertainment, recreation,
-
  6           exercise, amusement, gathering, or display;’’;
-
  7               (B) by redesignating paragraph (4) as
-
  8           paragraph (6); and
  9               (C) by inserting after paragraph (3) the
-
 10           following:
-
 11           ‘‘(4) any establishment that provides a good,
-
 12      service, or program, including a store, shopping cen-
-
 13      ter, online retailer or service provider, salon, bank,
-
 14      gas station, food bank, service or care center, shel-
-
 15      ter, travel agency, or funeral parlor, or establish-
-
 16      ment that provides health care, accounting, or legal
-
 17      services;
-
 18           ‘‘(5) any train service, bus service, car service,
 19      taxi service, airline service, station, depot, or other
-
 20      place of or establishment that provides transpor-
-
 21      tation service; and’’.
-
 22      (b) PROHIBITION ON   DISCRIMINATION OR  S EGREGA -
-
 23  TION U NDER  LAW .—Section 202 of such Act (42 U.S.C.
-
 24 2000a–1) is amended by inserting ‘‘sex, sexual orienta-
-
 25 tion, gender identity,’’ before ‘‘or national origin’’.
 KIN17128    S.L.C.
-
                             9
  1      (c) RULE OF  C ONSTRUCTION  .—Title II of such Act
-
  2 (42 U.S.C. 2000a et seq.) is amended by adding at the
-
  3 end the following:
-
  4  ‘‘SEC. 208. RULE OF CONSTRUCTION.
-
  5      ‘‘A reference in this title to an establishment—
-
  6           ‘‘(1) shall be construed to include an individual
-
  7      whose operations affect commerce and who is a pro-
-
  8      vider of a good, service, or program; and
-
  9           ‘‘(2) shall not be construed to be limited to a
-
 10      physical facility or place.’’.
-
 11  SEC. 4. DESEGREGATION OF PUBLIC FACILITIES.
-
 12      Section 301(a) of the Civil Rights Act of 1964 (42
-
 13 U.S.C. 2000b(a)) is amended by inserting ‘‘sex, sexual ori-
-
 14 entation, gender identity,’’ before ‘‘or national origin’’.
-
 15  SEC. 5. DESEGREGATION OF PUBLIC EDUCATION.
-
 16      (a) DEFINITIONS .—Section 401(b) of the Civil Rights
-
 17 Act of 1964 (42 U.S.C. 2000c(b)) is amended by inserting
-
 18 ‘‘, sexual orientation, gender identity,’’ before ‘‘or national
-
 19 origin’’.
-
 20      (b) CIVIL ACTIONS BY THE   ATTORNEY   GENERAL  .—
-
 21 Section 407 of such Act (42 U.S.C. 2000c–6) is amended,
-
 22 in subsection (a)(2), by inserting ‘‘, sexual orientation,
-
 23 gender identity,’’ before ‘‘or national origin’’.
-
 24      (c) CLASSIFICATION AND  ASSIGNMENT  .—Section 410
-
 25 of such Act (42 U.S.C. 2000c–9) is amended by inserting
 KIN17128     S.L.C.
-
                              10
-
  1 ‘‘, sexual orientation, gender identity,’’ before ‘‘or national
-
  2 origin’’.
-
  3  SEC. 6. FEDERAL FUNDING.
-
  4       Section 601 of the Civil Rights Act of 1964 (42
-
  5 U.S.C. 2000d) is amended by inserting ‘‘sex, sexual ori-
-
  6 entation, gender identity,’’ before ‘‘or national origin,’’.
-
  7  SEC. 7. EMPLOYMENT.
-
  8       (a) RULES OF    CONSTRUCTION   .—Title VII of the
-
  9 Civil Rights Act of 1964 is amended by inserting after
-
 10 section 701 (42 U.S.C. 2000e) the following:
-
 11  ‘‘SEC. 701A. RULES OF CONSTRUCTION.
-
 12       ‘‘Section 1106 shall apply to this title except that for
-
 13 purposes of that application, a reference in that section
-
 14 to an ‘unlawful practice’ shall be considered to be a ref-
-
 15 erence to an ‘unlawful employment practice’.’’.
-
 16       (b) UNLAWFUL   E MPLOYMENT    PRACTICES  .—Section
-
 17 703 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–
-
 18 2) is amended—
-
 19           (1) in the section header, by striking ‘‘SEX ,’’
-
 20       and inserting SEX , SEXUAL ORIENTATION   , GENDER
-
 21       IDENTITY ,’’;
-
 22           (2) except in subsection (e), by striking ‘‘sex,’’
-
 23       each place it appears and inserting ‘‘sex, sexual ori-
-
 24       entation, gender identity,’’;
 KIN17128    S.L.C.
                             11
-
  1           (3) in subsection (e)(1), by striking ‘‘enter-
-
  2      prise,’’ and inserting ‘‘enterprise, if, in a situation in
-
  3      which sex is a bona fide occupational qualification,
-
  4      individuals are recognized as qualified in accordance
-
  5      with their gender identity,’’; and
-
  6           (4) in subsection (h), by striking ‘‘sex’’ the sec-
-
  7      ond place it appears and inserting ‘‘sex, sexual ori-
-
  8      entation, gender identity,’’.
  9      (c) OTHER  U NLAWFUL   EMPLOYMENT    PRACTICES .—
-
 10 Section 704(b) of the Civil Rights Act of 1964 (42 U.S.C.
-
 11 2000e–3(b)) is amended—
-
 12           (1) by striking ‘‘sex,’’ the first place it appears
-
 13      and inserting ‘‘sex, sexual orientation, gender iden-
-
 14      tity,’’; and
-
 15           (2) by striking ‘‘employment.’’ and inserting
-
 16      ‘‘employment, if, in a situation in which sex is a
-
 17      bona fide occupational qualification, individuals are
-
 18      recognized as qualified in accordance with their gen-
 19      der identity.’’.
-
 20      (d) C LAIMS .—Section 706(g)(2)(A) of the Civil
-
 21 Rights Act of 1964 (2000e–5(g)(2)(A)) is amended by
-
 22 striking ‘‘sex,’’ and inserting ‘‘sex, sexual orientation, gen-
-
 23 der identity,’’.
 KIN17128    S.L.C.
-
                            12
  1      (e) EMPLOYMENT BY   FEDERAL  G OVERNMENT  .—Sec-
-
  2 tion 717 of the Civil Rights Act of 1964 (42 U.S.C.
-
  3 2000e–16) is amended—
-
  4           (1) in subsection (a), by striking ‘‘sex,’’ and in-
-
  5      serting ‘‘sex, sexual orientation, gender identity,’’;
-
  6      and
-
  7           (2) in subsection (c), by striking ‘‘sex’’ and in-
-
  8      serting ‘‘sex, sexual orientation, gender identity,’’.
-
  9      (f) G OVERNMENT    E MPLOYEE   R IGHTS  A CT  OF
-
 10 1991.—The Government Employee Rights Act of 1991
-
 11 (42 U.S.C. 2000e–16a et seq.) is amended—
-
 12           (1) in section 301(b), by striking ‘‘sex,’’ and in-
-
 13      serting ‘‘sex, sexual orientation, gender identity,’’;
-
 14           (2) in section 302(a)(1), by striking ‘‘sex,’’ and
 15      inserting ‘‘sex, sexual orientation, gender identity,’’;
-
 16      and
-
 17           (3) by adding at the end the following:
-
 18  ‘‘SEC. 305. RULES OF CONSTRUCTION AND CLAIMS.
-
 19      ‘‘Sections 1101(b), 1106, and 1107 of the Civil
-
 20 Rights Act of 1964 shall apply to this title except that
-
 21 for purposes of that application, a reference in that section
-
 22 1106 to ‘race, color, religion, sex, sexual orientation, gen-
-
 23 der identity, or national origin’ shall be considered to be
-
 24 a reference to ‘race, color, religion, sex, sexual orientation,
-
 25 gender identity, national origin, age, or disability’.’’.
 KIN17128    S.L.C.
-
                             13
  1      (g) C  ONGRESSIONAL    A CCOUNTABILITY    ACT  OF
-
  2 1995.—The Congressional Accountability Act of 1995 (2
-
  3 U.S.C. 1301 et seq.) is amended—
-
  4           (1) in section 201(a)(1) (2 U.S.C. 1311(a)(1))
-
  5      by inserting ‘‘sexual orientation, gender identity,’’
-
  6      before ‘‘or national origin,’’; and
-
  7           (2) by adding at the end of title II (42 U.S.C.
-
  8      1311 et seq.) the following:
-
  9  ‘‘SEC. 208. RULES OF CONSTRUCTION AND CLAIMS.
-
 10      ‘‘Sections 1101(b), 1106, and 1107 of the Civil
-
 11 Rights Act of 1964 shall apply to section 201 (and reme-
-
 12 dial provisions of this Act related to section 201) except
-
 13 that for purposes of that application, a reference in that
-
 14 section 1106 to ‘race, color, religion, sex, sexual orienta-
-
 15 tion, gender identity, or national origin’ shall be consid-
-
 16 ered to be a reference to ‘race, color, religion, sex, sexual
-
 17 orientation, gender identity, national origin, age, or dis-
-
 18 ability’.’’.
-
 19      (h) CIVIL SERVICE  REFORM  A CT OF 1978.—Chapter
-
 20 23 of title 5, United States Code, is amended—
-
 21           (1) in section 2301(b)(2), by striking ‘‘sex,’’
-
 22      and inserting ‘‘sex, sexual orientation, gender iden-
-
 23      tity,’’;
-
 24           (2) in section 2302—
 KIN17128     S.L.C.
                              14
-
  1                (A) in subsection (b)(1)(A), by inserting
-
  2            ‘‘sexual orientation, gender identity,’’ before ‘‘or
-
  3            national origin,’’; and
-
  4                (B) in subsection (d)(1), by inserting ‘‘sex-
-
  5            ual orientation, gender identity,’’ before ‘‘or na-
-
  6            tional origin;’’; and
-
  7            (3) by adding at the end the following:
-
  8  ‘‘SEC. 2307. RULES OF CONSTRUCTION AND CLAIMS.
  9       ‘‘Sections 1101(b), 1106, and 1107 of the Civil
-
 10 Rights Act of 1964 shall apply to this chapter (and reme-
-
 11 dial provisions of this title related to this chapter) except
-
 12 that for purposes of that application, a reference in that
-
 13 section 1106 to ‘race, color, religion, sex, sexual orienta-
-
 14 tion, gender identity, or national origin’ shall be consid-
-
 15 ered to be a reference to ‘race, color, religion, sex, sexual
-
 16 orientation, gender identity, national origin, age, a handi-
-
 17 capping condition, marital status, or political affiliation’.’’.
-
 18  SEC. 8. INTERVENTION.
 19       Section 902 of the Civil Rights Act of 1964 (42
-
 20 U.S.C. 2000h–2) is amended by inserting ‘‘, sexual ori-
-
 21 entation, gender identity,’’ before ‘‘or national origin,’’.
-
 22  SEC. 9. MISCELLANEOUS.
-
 23       Title XI of the Civil Rights Act of 1964 is amended—
-
 24            (1) by redesignating sections 1101 through
-
 25       1104 (42 U.S.C. 2000h et seq.) and sections 1105
 KIN17128     S.L.C.
-
                               15
  1       and 1106 (42 U.S.C. 2000h–5, 2000h–6) as sections
-
  2       1102 through 1105 and sections 1108 and 1109, re-
-
  3       spectively;
-
  4            (2) by inserting after the title heading the fol-
-
  5       lowing:
-
  6  ‘‘SEC. 1101. DEFINITIONS AND RULES.
-
  7       ‘‘(a) DEFINITIONS .—In titles II, III, IV, VI, VII, and
-
  8 IX (referred to individually in sections 1106 and 1107 as
-
  9 a ‘covered title’):
-
 10            ‘‘(1) RACE ; COLOR  ; RELIGION  ; SEX ; SEXUAL
-
 11       ORIENTATION  ;  GENDER IDENTITY    ; NATIONAL ORI   -
-
 12       GIN.—The term ‘race’, ‘color’, ‘religion’, ‘sex’, ‘sex-
-
 13       ual orientation’, ‘gender identity’, or ‘national ori-
-
 14       gin’, used with respect to an individual, includes—
-
 15                 ‘‘(A) the race, color, religion, sex, sexual
-
 16            orientation, gender identity, or national origin,
-
 17            respectively, of another person with whom the
-
 18            individual is associated or has been associated;
-
 19            and
-
 20                 ‘‘(B) a perception or belief, even if inac-
-
 21            curate, concerning the race, color, religion, sex,
-
 22            sexual orientation, gender identity, or national
-
 23            origin, respectively, of the individual.
-
 24            ‘‘(2) GENDER IDENTITY     .—The term ‘gender
-
 25       identity’ means the gender-related identity, appear-
 KIN17128     S.L.C.
                              16
-
  1       ance, mannerisms, or other gender-related character-
-
  2       istics of an individual, regardless of the individual’s
-
  3       designated sex at birth.
-
  4           ‘‘(3) NCLUDING  .—The term ‘including’ means
-
  5       including, but not limited to, consistent with the
-
  6       term’s standard meaning in Federal law.
-
  7           ‘‘(4) SEX.—The term ‘sex’ includes—
-
  8                ‘‘(A) a sex stereotype;
  9                ‘‘(B) pregnancy, childbirth, or a related
-
 10           medical condition; and
-
 11                ‘‘(C) sexual orientation or gender identity.
-
 12           ‘‘(5) SEXUAL ORIENTATION   .—The term ‘sexual
-
 13       orientation’ means homosexuality, heterosexuality, or
-
 14       bisexuality.
-
 15       ‘‘(b) ULES .—In a covered title referred to in sub-
-
 16 section (a)—
-
 17           ‘‘(1) (with respect to sex) pregnancy, childbirth,
-
 18       or a related medical condition shall not receive less
 19       favorable treatment than other physical conditions;
-
 20       and
-
 21           ‘‘(2) (with respect to gender identity) an indi-
-
 22       vidual shall not be denied access to a shared facility,
-
 23       including a restroom, a locker room, and a dressing
-
 24       room, that is in accordance with the individual’s
-
 25       gender identity.’’; and
 KIN17128    S.L.C.
-
                             17
  1           (3) by inserting after section 1105 the fol-
-
  2      lowing:
-
  3  ‘‘SEC. 1106. RULES OF CONSTRUCTION.
-
  4      ‘‘(a) EX .—Nothing in section 1101 or the provisions
-
  5 of a covered title incorporating a term defined or a rule
-
  6 specified in that section shall be construed—
-
  7           ‘‘(1) to limit the protection against an unlawful
-
  8      practice on the basis of pregnancy, childbirth, or a
-
  9      related medical condition provided by section 701(k);
-
 10      or
-
 11           ‘‘(2) to limit the protection against an unlawful
-
 12      practice on the basis of sex available under any pro-
-
 13      vision of Federal law other than that covered title,
-
 14      prohibiting a practice on the basis of sex.
 15      ‘‘(b) CLAIMS AND   REMEDIES   N OT P RECLUDED  .—
-
 16 Nothing in section 1101 or a covered title shall be con-
-
 17 strued to limit the claims or remedies available to any indi-
-
 18 vidual for an unlawful practice on the basis of race, color,
-
 19 religion, sex, sexual orientation, gender identity, or na-
-
 20 tional origin including claims brought pursuant to section
-
 21 1979 or 1980 of the Revised Statutes (42 U.S.C. 1983,
-
 22 1985) or any other law, including a Federal law amended
-
 23 by the Equality Act, regulation, or policy.
-
 24      ‘‘(c) O N EGATIVE  INFERENCE  .—Nothing in section
-
 25 1101 or a covered title shall be construed to support any
 KIN17128     S.L.C.
-
                              18
  1 inference that any Federal law prohibiting a practice on
-
  2 the basis of sex does not prohibit discrimination on the
-
  3 basis of pregnancy, childbirth, or a related medical condi-
-
  4 tion, sexual orientation, gender identity, or a sex stereo-
-
  5 type.
-
  6  ‘‘SEC. 1107. CLAIMS.
-
  7       ‘‘The Religious Freedom Restoration Act of 1993 (42
-
  8 U.S.C. 2000bb et seq.) shall not provide a claim con-
-
  9 cerning, or a defense to a claim under, a covered title,
-
 10 or provide a basis for challenging the application or en-
-
 11 forcement of a covered title.’’.
-
 12  SEC. 10. HOUSING.
-
 13       (a) FAIR H OUSING  ACT .—The Fair Housing Act (42
-
 14 U.S.C. 3601 et seq.) is amended—
 15           (1) in section 802, by adding at the end the fol-
-
 16       lowing:
-
 17       ‘‘(p) ‘Gender identity’, ‘sex’, and ‘sexual orientation’
-
 18 have the meanings given those terms in section 1101(a)
-
 19 of the Civil Rights Act of 1964.
-
 20       ‘‘(q) ‘Race’, ‘color’, ‘religion’, ‘sex’, ‘sexual orienta-
-
 21 tion’, ‘gender identity’, ‘handicap’, ‘familial status’, or ‘na-
-
 22 tional origin’, used with respect to an individual, in-
-
 23 cludes—
-
 24           ‘‘(1) the race, color, religion, sex, sexual ori-
-
 25       entation, gender identity, handicap, familial status,
 KIN17128     S.L.C.
                              19
-
  1       or national origin, respectively, of another person
-
  2       with whom the individual is associated or has been
-
  3       associated; and
-
  4            ‘‘(2) a perception or belief, even if inaccurate,
-
  5       concerning the race, color, religion, sex, sexual ori-
  6       entation, gender identity, handicap, familial status,
-
  7       or national origin, respectively, of the individual.’’;
-
  8            (2) in section 804, by inserting ‘‘sexual orienta-
-
  9       tion, gender identity,’’ after ‘‘sex,’’ each place that
-
 10       term appears;
-
 11            (3) in section 805, by inserting ‘‘sexual orienta-
-
 12       tion, gender identity,’’ after ‘‘sex,’’ each place that
-
 13       term appears;
 14            (4) in section 806, by inserting ‘‘sexual orienta-
-
 15       tion, gender identity,’’ after ‘‘sex,’’;
-
 16            (5) in section 808(e)(6), by inserting ‘‘sexual
-
 17       orientation, gender identity,’’ after ‘‘sex,’’; and
-
 18            (6) by adding at the end the following:
-
 19  ‘‘SEC. 821. RULES OF CONSTRUCTION.
-
 20       ‘‘Sections 1101(b) and 1106 of the Civil Rights Act
-
 21 of 1964 shall apply to this title and section 901, except
 22 that for purposes of that application, a reference in that
-
 23 section 1101(b) or 1106 to a ‘covered title’ shall be consid-
-
 24 ered a reference to ‘this title and section 901’.
 KIN17128    S.L.C.
-
                             20
  1  ‘‘SEC. 822. CLAIMS.
-
  2      ‘‘Section 1107 of the Civil Rights Act of 1964 shall
-
  3 apply to this title and section 901, except that for pur-
-
  4 poses of that application, a reference in that section 1107
-
  5 to a ‘covered title’ shall be considered a reference to ‘this
-
  6 title and section 901’.’’.
-
  7      (b) P REVENTION OF   INTIMIDATION IN   FAIR  HOUS -
-
  8  ING C ASES.—Section 901 of the Civil Rights Act of 1968
-
  9 (42 U.S.C. 3631) is amended by inserting ‘‘sexual orienta-
-
 10 tion (as such term is defined in section 802 of this Act),
-
 11 gender identity (as such term is defined in section 802
-
 12 of this Act),’’ after ‘‘sex,’’ each place that term appears.
-
 13  SEC. 11. EQUAL CREDIT OPPORTUNITY.
-
 14      (a) P     ROHIBITED      D ISCRIMINATION .—Section
-
 15 701(a)(1) of the Equal Credit Opportunity Act (15 U.S.C.
-
 16 1691(a)(1)) is amended by inserting ‘‘sexual orientation,
-
 17 gender identity,’’ after ‘‘status,’’.
-
 18      (b) D EFINITIONS .—Section 702 of the Equal Credit
-
 19 Opportunity Act (15 U.S.C. 1691a) is amended—
-
 20           (1) by redesignating subsections (f) and (g) as
-
 21      subsections (h) and (i), respectively;
 22           (2) by inserting after subsection (e) the fol-
-
 23      lowing:
-
 24      ‘‘(f) The terms ‘gender identity’, ‘sex’, and ‘sexual
-
 25 orientation’ have the meanings given those terms in sec-
-
 26 tion 1101(a) of the Civil Rights Act of 1964.
 KIN17128     S.L.C.
                              21
-
  1       ‘‘(g) The term ‘race’, ‘color’, ‘religion’, ‘national ori-
-
  2 gin’, ‘sex’, ‘sexual orientation’, ‘gender identity’, ‘marital
-
  3 status’, or ‘age’, used with respect to an individual, in-
-
  4 cludes—
-
  5           ‘‘(1) the race, color, religion, national origin,
-
  6       sex, sexual orientation, gender identity, marital sta-
-
  7       tus, or age, respectively, of another person with
-
  8       whom the individual is associated or has been associ-
  9       ated; and
-
 10           ‘‘(2) a perception or belief, even if inaccurate,
-
 11       concerning the race, color, religion, national origin,
-
 12       sex, sexual orientation, gender identity, marital sta-
-
 13       tus, or age, respectively, of the individual.’’; and
-
 14           (3) by adding at the end the following:
-
 15       ‘‘(j) Sections 1101(b) and 1106 of the Civil Rights
-
 16 Act of 1964 shall apply to this title, except that for pur-
-
 17 poses of that application—
-
 18           ‘‘(1) a reference in those sections to a ‘covered
 19       title’ shall be considered a reference to ‘this title’;
-
 20       and
-
 21           ‘‘(2) paragraph (1) of such section 1101(b)
-
 22       shall apply with respect to all aspects of a credit
-
 23       transaction.’’.
-
 24       (c) RELATION TO   STATE  LAWS .—Section 705(a) of
-
 25 the Equal Credit Opportunity Act (15 U.S.C. 1691d(a))
 KIN17128     S.L.C.
-
                              22
  1 is amended by inserting ‘‘, sexual orientation, gender iden-
-
  2 tity,’’ after ‘‘sex’’.
-
  3       (d) C IVIL LIABILITY .—Section 706 of the Equal
-
  4 Credit Opportunity Act (15 U.S.C. 1691e) is amended by
-
  5 adding at the end the following:
-
  6       ‘‘(l) Section 1107 of the Civil Rights Act of 1964
-
  7 shall apply to this title, except that for purposes of that
-
  8 application, a reference in that section to a ‘covered title’
-
  9 shall be considered a reference to ‘this title’.’’.
-
 10  SEC. 12. JURIES.
-
 11       (a) N  G ENERAL .—Chapter 121 of title 28, United
-
 12 States Code, is amended—
-
 13           (1) in section 1862, by inserting ‘‘sexual ori-
-
 14       entation, gender identity,’’ after ‘‘sex,’’;
 15           (2) in section 1867(e), in the second sentence,
-
 16       by inserting ‘‘sexual orientation, gender identity,’’
-
 17       after ‘‘sex,’’;
-
 18           (3) in section 1869—
-
 19                (A) in subsection (j), by striking ‘‘and’’ at
-
 20           the end;
-
 21                (B) in subsection (k), by striking the pe-
-
 22           riod at the end and inserting a semicolon; and
-
 23                (C) by adding at the end the following:
 KIN17128     S.L.C.
                              23
-
  1       ‘‘(l) ‘gender identity’, ‘sex’, and ‘sexual orientation’
-
  2 have the meanings given such terms under section 1101(a)
-
  3 of the Civil Rights Act of 1964; and
-
  4       ‘‘(m) ‘race’, ‘color’, ‘religion’, ‘sex’, ‘sexual orienta-
-
  5 tion’, ‘gender identity’, ‘economic status’, or ‘national ori-
-
  6 gin’, used with respect to an individual, includes—
-
  7           ‘‘(1) the race, color, religion, sex, sexual ori-
-
  8       entation, gender identity, economic status, or na-
  9       tional origin, respectively, of another person with
-
 10       whom the individual is associated or has been associ-
-
 11       ated; and
-
 12           ‘‘(2) a perception or belief, even if inaccurate,
-
 13       concerning the race, color, religion, sex, sexual ori-
-
 14       entation, gender identity, economic status, or na-
-
 15       tional origin, respectively, of the individual.’’; and
-
 16           (4) by adding at the end the following:
-
 17  ‘‘§1879. Rules of construction and claims
-
 18       ‘‘Sections 1101(b), 1106, and 1107 of the Civil
 19 Rights Act of 1964 shall apply to this chapter, except that
-
 20 for purposes of that application, a reference in those sec-
-
 21 tions to a ‘covered title’ shall be considered a reference
-
 22 to ‘this chapter’.’’.
-
 23       (b) TECHNICAL AND    CONFORMING    AMENDMENT    .—
-
 24 The table of sections for chapter 121 of title 28, United
 KIN17128      S.L.C.
-
                                 24
-
  1 States Code, is amended by adding at the end the fol-
-
  2 lowing:
-
      ‘‘1879. Rules of construction and claims.’’.

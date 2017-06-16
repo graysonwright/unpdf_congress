@@ -1,37 +1,23 @@
    In the Senate of the United States,
                                       December 17, 2015.
-
      Resolved, That the bill from the House of Representa-
-
 tives (H.R. 515) entitled ‘‘An Act to protect children from ex-
 ploitation, especially sex trafficking in tourism, by providing
-
 advance notice of intended travel by registered child-sex of-
 fenders outside the United States to the government of the
-
 country of destination, requesting foreign governments to no-
 tify the United States when a known child-sex offender is
 seeking to enter the United States, and for other purposes.’’,
-
 do pass with the following
 
-
                AMENDMENTS:
-
         Strike out all after the enacting clause and insert:
-
  1  SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
-
  2      (a) S HORT  T ITLE.—This Act may be cited as the
-
  3 ‘‘International Megan’s Law to Prevent Child Exploitation
-
  4 and Other Sexual Crimes Through Advanced Notification
-
  5 of Traveling Sex Offenders’’.
-
  6      (b) TABLE OF   CONTENTS .—The table of contents for
-
  7 this Act is as follows:
                                 2
     Sec. 1. Short title and table of contents.
@@ -45,1435 +31,769 @@ do pass with the following
     Sec. 9. Implementation plan.
     Sec. 11. Authorization of appropriations.
     Sec. 12. Rule of construction.
-
  1  SEC. 2. FINDINGS.
-
  2       Congress finds the following:
-
  3             (1) Megan Nicole Kanka, who was 7 years old,
-
  4       was abducted, sexually assaulted, and murdered in
-
  5       1994, in the State of New Jersey by a violent pred-
-
  6       ator living across the street from her home. Unbe-
-
  7       knownst to Megan Kanka and her family, he had been
-
  8       convicted previously of a sex offense against a child.
-
  9             (2) In 1996, Congress adopted Megan’s Law
-
 10       (Public Law 104–145) as a means to encourage
-
 11       States to protect children by identifying the where-
-
 12       abouts of sex offenders and providing the means to
-
 13       monitor their activities.
-
 14             (3) In 2006, Congress passed the Adam Walsh
-
 15       Child Protection and Safety Act of 2006 (Public Law
-
 16       109–248) to protect children and the public at large
-
 17       by establishing a comprehensive national system for
-
 18       the registration and notification to the public and
-
 19       law enforcement officers of convicted sex offenders.
-
-
 
        †HR 515 EAS
                              3
-
  1           (4) Law enforcement reports indicate that known
-
  2       child-sex offenders are traveling internationally.
-
  3           (5) The commercial sexual exploitation of minors
-
  4       in child sex trafficking and pornography is a global
-
  5       phenomenon. The International Labour Organization
-
  6       has estimated that 1,8000,000 children worldwide are
-
  7       victims of child sex trafficking and pornography each
-
  8       year.
  9           (6) Child sex tourism, where an individual trav-
-
 10       els to a foreign country and engages in sexual activity
-
 11       with a child in that country, is a form of child ex-
-
 12       ploitation and, where commercial, child sex traf-
-
 13       ficking.
-
 14  SEC. 3. DEFINITIONS.
-
 15       In this Act:
-
 16           (1) C ENTER .—The term ‘‘Center’’ means the
-
 17       Angel Watch Center established pursuant to section
-
 18       4(a).
 19           (2) C ONVICTED .—The term ‘‘convicted’’ has the
-
 20       meaning given the term in section 111 of the Adam
-
 21       Walsh Child Protection and Safety Act of 2006 (42
-
 22       U.S.C. 16911).
-
 23           (3) COVERED SEX OFFENDER    .—Except as other-
-
 24       wise provided, the term ‘‘covered sex offender’’ means
-
-
 
 
       †HR 515 EAS
                              4
-
  1      an individual who is a sex offender by reason of hav-
-
  2      ing been convicted of a sex offense against a minor.
-
  3           (4) DESTINATION COUNTRY  .—The term ‘‘destina-
-
  4      tion country’’ means a destination or transit country.
-
  5           (5) INTERPOL .—The term ‘‘INTERPOL’’ means
-
  6      the International Criminal Police Organization.
-
  7           (6) J URISDICTION .—The term ‘‘jurisdiction’’
-
  8      means—
  9                (A) a State;
-
 10                (B) the District of Columbia;
-
 11                (C) the Commonwealth of Puerto Rico;
-
 12                (D) Guam;
-
 13                (E) American Samoa;
-
 14                (F) the Northern Mariana Islands;
-
 15                (G) the United States Virgin Islands; and
-
 16                (H) to the extent provided in, and subject to
-
 17           the requirements of, section 127 of the Adam
-
 18           Walsh Child Protection and Safety Act of 2006
 19           (42 U.S.C. 16927), a Federally recognized In-
-
 20           dian tribe.
-
 21           (7) M INOR.—The term ‘‘minor’’ means an indi-
-
 22      vidual who has not attained the age of 18 years.
-
 23           (8) N ATIONAL SEX OFFENDER REGISTRY     .—The
-
 24      term ‘‘National Sex Offender Registry’’ means the Na-
-
 25      tional Sex Offender Registry established by section
-
 
       †HR 515 EAS
                              5
-
  1      119 of the Adam Walsh Child Protection and Safety
-
  2      Act of 2006 (42 U.S.C. 16919).
-
  3           (9) SEX OFFENDER UNDER SORNA      .—The term
-
  4      ‘‘sex offender under SORNA’’ has the meaning given
-
  5      the term ‘‘sex offender’’ in section 111 of the Adam
-
  6      Walsh Child Protection and Safety Act of 2006 (42
-
  7      U.S.C. 16911).
-
  8           (10) SEX OFFENSE AGAINST A MINOR  .—
  9                (A) IN GENERAL  .—The term ‘‘sex offense
-
 10           against a minor’’ means a specified offense
-
 11           against a minor, as defined in section 111 of the
-
 12           Adam Walsh Child Protection and Safety Act of
-
 13           2006 (42 U.S.C. 16911).
-
 14                (B) OTHER OFFENSES   .—The term ‘‘sex of-
-
 15           fense against a minor’’ includes a sex offense de-
-
 16           scribed in section 111(5)(A) of the Adam Walsh
-
 17           Child Protection and Safety Act of 2006 (42
-
 18           U.S.C. 16911(5)(A)) that is a specified offense
 19           against a minor, as defined in paragraph (7) of
-
 20           such section, or an attempt or conspiracy to
-
 21           commit such an offense.
-
 22                (C) FOREIGN CONVICTIONS   ;OFFENSES IN  -
-
 23           VOLVING CONSENSUAL SEXUAL CONDUCT       .—The
-
 24           limitations contained in subparagraphs (B) and
-
 25           (C) of section 111(5) of the Adam Walsh Child
-
 
       †HR 515 EAS
                              6
-
  1           Protection and Safety Act of 2006 (42 U.S.C.
-
  2           16911(5)) shall apply with respect to a sex of-
-
  3           fense against a minor for purposes of this Act to
-
  4           the same extent and in the same manner as such
-
  5           limitations apply with respect to a sex offense
-
  6           for purposes of the Adam Walsh Child Protection
-
  7           and Safety Act of 2006.
-
  8  SEC. 4. ANGEL WATCH CENTER.
  9       (a) ESTABLISHMENT  .—Not later than 90 days after
-
 10 the date of the enactment of this Act, the Secretary of Home-
-
 11 land Security shall establish within the Child Exploitation
-
 12 Investigations Unit of U.S. Immigrations and Customs En-
-
 13 forcement a Center, to be known as the ‘‘Angel Watch Cen-
-
 14 ter’’, to carry out the activities specified in subsection (e).
-
 15       (b) NCOMING  NOTIFICATION .—
-
 16           (1) IN GENERAL  .—The Center may receive in-
-
 17       coming notifications concerning individuals seeking
-
 18       to enter the United States who have committed of-
 19       fenses of a sexual nature.
-
 20           (2) NOTIFICATION .—Upon receiving an incoming
-
 21       notification under paragraph (1), the Center shall—
-
 22                (A) immediately share all information re-
-
 23           ceived relating to the individual with the De-
-
 24           partment of Justice; and
-
-
 
 
       †HR 515 EAS
                              7
-
  1                (B) share all relevant information relating
-
  2           to the individual with other Federal, State, and
-
  3           local agencies and entities, as appropriate.
-
  4           (3) C OLLABORATION  .—The Secretary of Home-
-
  5       land Security shall collaborate with the Attorney
  6       General to establish a process for the receipt, dissemi-
-
  7       nation, and categorization of information relating to
-
  8       individuals and specific offenses provided herein.
-
  9       (c) EADERSHIP  .—The Center shall be headed by the
-
 10 Assistant Secretary of U.S. Immigration and Customs En-
-
 11 forcement, in collaboration with the Commissioner of U.S.
-
 12 Customs and Border Protection and in consultation with
-
 13 the Attorney General and the Secretary of State.
 14       (d) MEMBERS  .—The Center shall consist of the fol-
-
 15 lowing:
-
 16           (1) The Assistant Secretary of U.S. Immigration
-
 17       and Customs Enforcement.
-
 18           (2) The Commissioner of U.S. Customs and Bor-
-
 19       der Protection.
-
 20           (3) Individuals who are designated as analysts
-
 21       in U.S. Immigration and Customs Enforcement or
 22       U.S. Customs and Border Protection.
-
 23           (4) Individuals who are designated as program
-
 24       managers in U.S. Immigration and Customs Enforce-
-
 25       ment or U.S. Customs and Border Protection.
-
 
       †HR 515 EAS
                              8
-
  1       (e) CTIVITIES.—
-
  2           (1) IN GENERAL  .—In carrying out this section,
-
  3       the Center shall, using all relevant databases, systems
-
  4       and sources of information, not later than 48 hours
-
  5       before scheduled departure, or as soon as practicable
  6       before scheduled departure—
-
  7                (A) determine if individuals traveling
-
  8           abroad are listed on the National Sex Offender
-
  9           Registry;
-
 10                (B) review the United States Marshals
-
 11           Service’s National Sex Offender Targeting Center
-
 12           case management system or other system that
-
 13           provides access to a list of individuals who have
 14           provided advanced notice of international travel
-
 15           to identify any individual who meets the criteria
-
 16           described in subparagraph (A) and is not in a
-
 17           system reviewed pursuant to this subparagraph;
-
 18           and
-
 19                (C) provide a list of individuals identified
-
 20           under subparagraph (B) to the United States
-
 21           Marshals Service’s National Sex Offender Tar-
 22           geting Center to determine compliance with title
-
 23           I of the Adam Walsh Child Protection and Safe-
-
 24           ty Act of 2006 (42 U.S.C. 16901 et seq.).
-
-
 
 
       †HR 515 EAS
                              9
-
  1           (2) PROVISION OF INFORMATION TO CENTER     .—
-
  2      Twenty-four hours before the intended travel, or there-
-
  3      after, not later than 72 hours after the intended trav-
-
  4      el, the United States Marshals Service’s National Sex
-
  5      Offender Targeting Center shall provide, to the Angel
-
  6      Watch Center, information pertaining to any sex of-
-
  7      fender described in subparagraph (C) of paragraph
-
  8      (1).
  9           (3) A DVANCE NOTICE TO DESTINATION COUN      -
-
 10      TRY .—
-
 11                (A) IN GENERAL  .—The Center may trans-
-
 12           mit relevant information to the destination coun-
-
 13           try about a sex offender if—
-
 14                    (i) the individual is identified by a re-
-
 15                view conducted under paragraph (1)(B) as
-
 16                having provided advanced notice of inter-
-
 17                national travel; or
-
 18                    (ii) after completing the activities de-
 19                scribed in paragraph (1), the Center re-
-
 20                ceives information pertaining to a sex of-
-
 21                fender under paragraph (2).
-
 22                (B) EXCEPTIONS .—The Center may imme-
-
 23           diately transmit relevant information on a sex
-
 24           offender to the destination country if—
-
-
 
 
       †HR 515 EAS
                              10
-
  1                    (i) the Center becomes aware that a sex
-
  2                offender is traveling outside of the United
-
  3                States within 24 hours of intended travel,
-
  4                and simultaneously completes the activities
-
  5                described in paragraph (1); or
  6                    (ii) the Center has not received a
-
  7                transmission pursuant to paragraph (2),
-
  8                provided it is not more than 24 hours before
-
  9                the intended travel.
-
 10                (C) C ORRECTIONS .—Upon receiving infor-
-
 11           mation that a notification sent by the Center re-
-
 12           garding an individual was inaccurate, the Cen-
-
 13           ter shall immediately—
 14                    (i) send a notification of correction to
-
 15                the destination country notified;
-
 16                    (ii) correct all data collected pursuant
-
 17                to paragraph (6); and
-
 18                    (iii) if applicable, notify the Secretary
-
 19                of State for purposes of the passport review
-
 20                and marking processes described in section
-
 21                240 of Public Law 110–457.
 22                (D) F ORM .—The notification under this
-
 23           paragraph may be transmitted through such
-
 24           means as are determined appropriate by the
-
-
 
 
       †HR 515 EAS
                             11
-
  1           Center, including through U.S. Immigration and
-
  2           Customs Enforcement attaches.
-
  3           (4) M EMORANDUM OF AGREEMENT      .—Not later
-
  4      than 6 months after the date of enactment of this Act,
-
  5      the Secretary of Homeland Security shall enter into
-
  6      a Memorandum of Agreement with the Attorney Gen-
-
  7      eral to facilitate the activities of the Angel Watch
-
  8      Center in collaboration with the United States Mar-
  9      shals Service’s National Sex Offender Targeting Cen-
-
 10      ter, including the exchange of information, the shar-
-
 11      ing of personnel, access to information and databases
-
 12      in accordance with paragraph (1)(B), and the estab-
-
 13      lishment of a process to share notifications from the
-
 14      international community in accordance with sub-
-
 15      section (b)(1).
-
 16           (5) PASSPORT APPLICATION REVIEW  .—
-
 17                (A) N GENERAL  .—The Center shall provide
-
 18           a written determination to the Department of
 19           State regarding the status of an individual as a
-
 20           covered sex offender (as defined in section 240 of
-
 21           Public Law 110–457) when appropriate.
-
 22                (B) E FFECTIVE DATE .—Subparagraph (A)
-
 23           shall take effect upon certification by the Sec-
-
 24           retary of State, the Secretary of Homeland Secu-
-
 25           rity, and the Attorney General that the process
-
 
       †HR 515 EAS
                              12
-
  1           developed and reported to the appropriate con-
-
  2           gressional committees under section 9 has been
-
  3           successfully implemented.
-
  4           (6) COLLECTION OF DATA  .—The Center shall col-
-
  5       lect all relevant data, including—
  6                (A) a record of each notification sent under
-
  7           paragraph (3);
-
  8                (B) the response of the destination country
-
  9           to notifications under paragraph (3), where
-
 10           available;
-
 11                (C) any decision not to transmit a notifica-
-
 12           tion abroad, to the extent practicable;
-
 13                (D) the number of transmissions made
 14           under subparagraphs (A),(B), and (C) of para-
-
 15           graph (3) and the countries to which they are
-
 16           transmitted, respectively;
-
 17                (E) whether the information was trans-
-
 18           mitted to the destination country before sched-
-
 19           uled commencement of sex offender travel; and
-
 20                (F) any other information deemed necessary
-
 21           and appropriate by the Secretary of Homeland
 22           Security.
-
 23           (7) COMPLAINT REVIEW  .—
-
 24                (A) IN GENERAL .—The Center shall—
-
-
 
 
       †HR 515 EAS
                              13
-
  1                     (i) establish a mechanism to receive
-
  2                complaints from individuals affected by er-
-
  3                roneous notifications under this section;
-
  4                     (ii) ensure that any complaint is
-
  5                promptly reviewed; and
  6                     (iii) in the case of a complaint that in-
-
  7                volves a notification sent by another Fed-
-
  8                eral Government entity, notify the indi-
-
  9                vidual of the contact information for the
-
 10                appropriate entity and forward the com-
-
 11                plaint to the appropriate entity for prompt
-
 12                review and response pursuant to this sec-
-
 13                tion.
 14                (B) R ESPONSE TO COMPLAINTS   .—The Cen-
-
 15           ter shall, as applicable—
-
 16                     (i) provide the individual with notifi-
-
 17                cation in writing that the individual was
-
 18                erroneously subjected to international notifi-
-
 19                cation;
-
 20                     (ii) take action to ensure that a notifi-
-
 21                cation or information regarding the indi-
 22                vidual is not erroneously transmitted to a
-
 23                destination country in the future; and
-
 24                     (iii) submit an additional written no-
-
 25                tification to the individual explaining why
-
 
       †HR 515 EAS
                              14
-
  1                a notification or information regarding the
-
  2                individual was erroneously transmitted to
-
  3                the destination country and describing the
-
  4                actions that the Center has taken or is tak-
-
  5                ing under clause (ii).
  6                (C) PUBLIC AWARENESS   .—The Center shall
-
  7           make publicly available information on how an
-
  8           individual may submit a complaint under this
-
  9           section.
-
 10                (D) R EPORTING REQUIREMENT    .—The Sec-
-
 11           retary of Homeland Security shall submit an
-
 12           annual report to the appropriate congressional
-
 13           committees (as defined in section 9) that in-
 14           cludes—
-
 15                    (i) the number of instances in which a
-
 16                notification or information was erroneously
-
 17                transmitted to the destination country of an
-
 18                individual under paragraph (3); and
-
 19                    (ii) the actions taken to prevent simi-
-
 20                lar errors from occurring in the future.
-
 21           (8) ANNUAL REVIEW PROCESS   .—The Center shall
 22       establish, in coordination with the Attorney General,
-
 23       the Secretary of State, and INTERPOL, an annual
-
 24       review process to ensure that there is appropriate co-
-
 25       ordination and collaboration, including consistent
-
 
       †HR 515 EAS
                              15
-
  1       procedures governing the activities authorized under
-
  2       this Act, in carrying out this Act.
-
  3           (9) INFORMATION REQUIRED    .—The Center shall
-
  4       make available to the United States Marshals Serv-
-
  5       ice’s National Sex Offender Targeting Center infor-
-
  6       mation on travel by sex offenders in a timely manner.
-
  7       (f) DEFINITION.—In this section, the term ‘‘sex of-
-
  8 fender’’ means—
  9           (1) a covered sex offender; or
-
 10           (2) an individual required to register under the
-
 11       sex offender registration program of any jurisdiction
-
 12       or included in the National Sex Offender Registry, on
-
 13       the basis of an offense against a minor.
-
 14  SEC. 5. NOTIFICATION BY THE UNITED STATES MARSHALS
-
 15               SERVICE.
-
 16       (a) N G ENERAL .—The United States Marshals Serv-
-
 17 ice’s National Sex Offender Targeting Center may—
-
 18           (1) transmit notification of international travel
 19       of a sex offender to the destination country of the sex
-
 20       offender, including to the visa-issuing agent or agents
-
 21       in the United States of the country;
-
 22           (2) share information relating to traveling sex
-
 23       offenders with other Federal, State, local, and foreign
-
 24       agencies and entities, as appropriate;
-
-
 
 
       †HR 515 EAS
                              16
-
  1           (3) receive incoming notifications concerning in-
-
  2       dividuals seeking to enter the United States who have
-
  3       committed offenses of a sexual nature and shall share
-
  4       the information received immediately with the De-
-
  5       partment of Homeland Security; and
-
  6           (4) perform such other functions at the Attorney
-
  7       General or the Director of the United States Marshals
-
  8       Service may direct.
  9       (b) CONSISTENT  NOTIFICATION .—In making notifica-
-
 10 tions under subsection (a)(1), the United States Marshals
-
 11 Service’s National Sex Offender Targeting Center shall, to
-
 12 the extent feasible and appropriate, ensure that the destina-
-
 13 tion country is consistently notified in advance about sex
-
 14 offenders under SORNA identified through their inclusion
-
 15 in sex offender registries of jurisdictions or the National Sex
-
 16 Offender Registry.
-
 17       (c) NFORMATION   R EQUIRED .—For purposes of car-
-
 18 rying out this Act, the United States Marshals Service’s Na-
 19 tional Sex Offender Targeting Center shall—
-
 20           (1) make the case management system or other
-
 21       system that provides access to a list of individuals
-
 22       who have provided advanced notice of international
-
 23       travel available to the Angel Watch Center;
-
 24           (2) provide the Angel Watch Center a determina-
-
 25       tion of compliance with title I of the Adam Walsh
-
 
       †HR 515 EAS
                              17
-
  1       Child Protection and Safety Act of 2006 (42 U.S.C.
-
  2       16901 et seq.) for the list of individuals transmitted
-
  3       under section 4(e)(1)(C);
-
  4           (3) make available to the Angel Watch Center in-
-
  5       formation on travel by sex offenders in a timely man-
  6       ner; and
-
  7           (4) consult with the Department of State regard-
-
  8       ing operation of the international notification pro-
-
  9       gram authorized under this Act.
-
 10       (d) CORRECTIONS  .—Upon receiving information that
-
 11 a notification sent by the United States Marshals Service’s
-
 12 National Sex Offender Targeting Center regarding an indi-
-
 13 vidual was inaccurate, the United States Marshals Service’s
 14 National Sex Offender Targeting Center shall imme-
-
 15 diately—
-
 16           (1) send a notification of correction to the des-
-
 17       tination country notified;
-
 18           (2) correct all data collected in accordance with
-
 19       subsection (f); and
-
 20           (3) if applicable, send a notification of correction
-
 21       to the Angel Watch Center.
 22       (e) FORM .—The notification under this section may
-
 23 be transmitted through such means as are determined ap-
-
 24 propriate by the United States Marshals Service’s National
-
 25 Sex Offender Targeting Center, including through the
-
 
       †HR 515 EAS
                             18
-
  1 INTERPOL notification system and through Federal Bu-
-
  2 reau of Investigation Legal attaches.
-
  3      (f) C OLLECTION OF   D ATA.—The Attorney General
-
  4 shall collect all relevant data, including—
-
  5           (1) a record of each notification sent under sub-
-
  6      section (a);
-
  7           (2) the response of the destination country to no-
-
  8      tifications under paragraphs (1) and (2) of subsection
  9      (a), where available;
-
 10           (3) any decision not to transmit a notification
-
 11      abroad, to the extent practicable;
-
 12           (4) the number of transmissions made under
-
 13      paragraphs (1) and (2) of subsection (a) and the
-
 14      countries to which they are transmitted;
-
 15           (5) whether the information was transmitted to
-
 16      the destination country before scheduled commence-
-
 17      ment of sex offender travel; and
-
 18           (6) any other information deemed necessary and
 19      appropriate by the Attorney General.
-
 20      (g) COMPLAINT  REVIEW .—
-
 21           (1) IN GENERAL  .—The United States Marshals
-
 22      Service’s National Sex Offender Targeting Center
-
 23      shall—
-
-
-
 
 
 
       †HR 515 EAS
                              19
-
  1                (A) establish a mechanism to receive com-
-
  2           plaints from individuals affected by erroneous
-
  3           notifications under this section;
-
  4                (B) ensure that any complaint is promptly
-
  5           reviewed; and
-
  6                (C) in the case of a complaint that involves
-
  7           a notification sent by another Federal Govern-
-
  8           ment entity, notify the individual of the contact
  9           information for the appropriate entity and for-
-
 10           ward the complaint to the appropriate entity for
-
 11           prompt review and response pursuant to this sec-
-
 12           tion.
-
 13           (2) R ESPONSE   TO  COMPLAINTS  .—The United
-
 14       States Marshals Service’s National Sex Offender Tar-
-
 15       geting Center shall, as applicable—
-
 16                (A) provide the individual with notification
-
 17           in writing that the individual was erroneously
-
 18           subjected to international notification;
 19                (B) take action to ensure that a notification
-
 20           or information regarding the individual is not
-
 21           erroneously transmitted to a destination country
-
 22           in the future; and
-
 23                (C) submit an additional written notifica-
-
 24           tion to the individual explaining why a notifica-
-
 25           tion or information regarding the individual
-
 
       †HR 515 EAS
                              20
-
  1           was erroneously transmitted to the destination
-
  2           country and describing the actions that the
-
  3           United States Marshals Service’s National Sex
-
  4           Offender Targeting Center has taken or is taking
-
  5           under subparagraph (B).
-
  6           (3) P UBLIC  AWARENESS   .—The United States
-
  7       Marshals Service’s National Sex Offender Targeting
-
  8       Center shall make publicly available information on
  9       how an individual may submit a complaint under
-
 10       this section.
-
 11           (4) R EPORTING REQUIREMENT    .—The Attorney
-
 12       General shall submit an annual report to the appro-
-
 13       priate congressional committees (as defined in section
-
 14       9) that includes—
-
 15                (A) the number of instances in which a no-
-
 16           tification or information was erroneously trans-
-
 17           mitted to the destination country of an indi-
-
 18           vidual under subsection (a); and
 19                (B) the actions taken to prevent similar er-
-
 20           rors from occurring in the future.
-
 21       (h) DEFINITION .—In this section, the term ‘‘sex of-
-
 22 fender’’ means—
-
 23           (1) a sex offender under SORNA; or
-
-
-
 
 
 
       †HR 515 EAS
                            21
  1          (2) a person required to register under the sex of-
-
  2      fender registration program of any jurisdiction or in-
-
  3      cluded in the National Sex Offender Registry.
-
  4  SEC. 6. INTERNATIONAL TRAVEL.
-
  5      (a) REQUIREMENT  T HAT S EX OFFENDERS   PROVIDE
-
  6  INTERNATIONAL T RAVEL R ELATED INFORMATION  T O SEX
-
  7  OFFENDER  REGISTRIES .—Section 114 of the Adam Walsh
-
  8 Child Protection and Safety Act of 2006 (42 U.S.C. 16914)
-
  9 is amended—
-
 10          (1) in subsection (a)—
-
 11               (A) by redesignating paragraph (7) as
-
 12          paragraph (8); and;
-
 13               (B) by inserting after paragraph (6) the fol-
-
 14          lowing:
-
 15          ‘‘(7) Information relating to intended travel of
-
 16      the sex offender outside the United States, including
-
 17      any anticipated dates and places of departure, ar-
-
 18      rival, or return, carrier and flight numbers for air
-
 19      travel, destination country and address or other con-
-
 20      tact information therein, means and purpose of trav-
-
 21      el, and any other itinerary or other travel-related in-
-
 22      formation required by the Attorney General.’’; and
-
 23          (2) by adding at the end the following:
-
 24      ‘‘(c)IME AND M ANNER .—A sex offender shall provide
-
 25 and update information required under subsection (a), in-
-
 
       †HR 515 EAS
                            22
  1 cluding information relating to intended travel outside the
-
  2 United States required under paragraph (7) of that sub-
-
  3 section, in conformity with any time and manner require-
-
  4 ments prescribed by the Attorney General.’’.
-
  5      (b) CONFORMING  A MENDMENTS TO   SECTION  2250 OF
-
  6  TITLE 18, U NITED S TATES C ODE.—Section 2250 of title
-
  7 18, United States Code, is amended—
-
  8           (1) by redesignating subsections (b) and (c) as
-
  9      subsections (c) and (d), respectively;
-
 10           (2) by inserting after subsection (a) the fol-
-
 11      lowing:
-
 12      ‘‘(b) INTERNATIONAL   TRAVEL   REPORTING   VIOLA-
-
 13  TIONS.—Whoever—
-
 14           ‘‘(1) is required to register under the Sex Of-
-
 15      fender Registration and Notification Act (42 U.S.C.
-
 16      16901 et seq.);
-
 17           ‘‘(2) knowingly fails to provide information re-
-
 18      quired by the Sex Offender Registration and Notifica-
-
 19      tion Act relating to intended travel in foreign com-
-
 20      merce; and
-
 21           ‘‘(3) engages or attempts to engage in the in-
-
 22      tended travel in foreign commerce;
-
 23 shall be fined under this title, imprisoned not more than
-
 24 10 years, or both.’’; and
-
-
 
 
       †HR 515 EAS
                               23
-
  1            (3) in subsections (c) and (d), as redesignated,
-
  2       by striking ‘‘subsection (a)’’ each place it appears and
-
  3       inserting ‘‘subsection (a) or (b)’’.
-
  4       (c) IMPLEMENTATION   .—In carrying out this Act, and
-
  5 the amendments made by this Act, the Attorney General
-
  6 may use the resources and capacities of any appropriate
-
  7 agencies of the Department of Justice, including the Office
-
  8 of Sex Offender Sentencing, Monitoring, Apprehending,
  9 Registering, and Tracking, the United States Marshals
-
 10 Service, INTERPOL Washington-U.S. National Central
-
 11 Bureau, the Federal Bureau of Investigation, the Criminal
-
 12 Division, and the United States Attorneys’ Offices.
-
 13  SEC. 7. RECIPROCAL NOTIFICATIONS.
-
 14       It is the sense of Congress that the Secretary of State,
-
 15 in consultation with the Attorney General and the Sec-
-
 16 retary of Homeland Security, should seek reciprocal inter-
-
 17 national agreements or arrangements to further the pur-
-
 18 poses of this Act and the Sex Offender Registration and No-
 19 tification Act (42 U.S.C. 16901 et seq.). Such agreements
-
 20 or arrangements may establish mechanisms and under-
-
 21 takings to receive and transmit notices concerning inter-
-
 22 national travel by sex offenders, through the Angel Watch
-
 23 Center, the INTERPOL notification system, and such other
-
 24 means as may be appropriate, including notification by the
-
 25 United States to other countries relating to the travel of
-
 
       †HR 515 EAS
                            24
-
  1 sex offenders from the United States, reciprocal notification
-
  2 by other countries to the United States relating to the travel
-
  3 of sex offenders to the United States, and mechanisms to
-
  4 correct and, as applicable, remove from any other records,
-
  5 any inaccurate information transmitted through such noti-
-
  6 fications.
-
  7  SEC. 8. UNIQUE PASSPORT IDENTIFIERS FOR COVERED SEX
-
  8              OFFENDERS.
-
  9      (a) AMENDMENT TO   PUBLIC  LAW 110–457.—Title II
-
 10 of Public Law 110–457 is amended by adding at the end
-
 11 the following:
-
 12  ‘‘SEC. 240. UNIQUE PASSPORT IDENTIFIERS FOR COVERED
-
 13              SEX OFFENDERS.
-
 14      ‘‘(a) N  GENERAL .—Immediately after receiving a
-
 15 written determination from the Angel Watch Center that
-
 16 an individual is a covered sex offender, through the process
-
 17 developed for that purpose under section 9 of the Inter-
-
 18 national Megan’s Law to Prevent Child Exploitation and
-
 19 Other Sexual Crimes Through Advanced Notification of
-
 20 Traveling Sex Offenders, the Secretary of State shall take
-
 21 appropriate action under subsection (b).
-
 22      ‘‘(b) UTHORITY  TO U SE UNIQUE  PASSPORT  DENTI -
-
 23  FIERS.—
-
 24           ‘‘(1)N GENERAL  .—Except as provided under
-
 25      paragraph (2), the Secretary of State shall not issue
-
 
       †HR 515 EAS
                              25
-
  1       a passport to a covered sex offender unless the pass-
-
  2       port contains a unique identifier, and may revoke a
-
  3       passport previously issued without such an identifier
-
  4       of a covered sex offender.
-
  5           ‘‘(2) UTHORITY TO REISSUE   .—Notwithstanding
-
  6       paragraph (1), the Secretary of State may reissue a
-
  7       passport that does not include a unique identifier if
-
  8       an individual described in subsection (a) reapplies for
  9       a passport and the Angel Watch Center provides a
-
 10       written determination, through the process developed
-
 11       for that purpose under section 9 of the International
-
 12       Megan’s Law to Prevent Child Exploitation and
-
 13       Other Sexual Crimes Through Advanced Notification
-
 14       of Traveling Sex Offenders, to the Secretary of State
-
 15       that the individual is no longer required to register
-
 16       as a covered sex offender.
-
 17       ‘‘(c)EFINED  TERMS  .—In this section—
-
 18           ‘‘(1) the term ‘covered sex offender’ means an in-
 19       dividual who—
-
 20                ‘‘(A) is a sex offender, as defined in section
-
 21           4(f) of the International Megan’s Law to Prevent
-
 22           Child Exploitation and Other Sexual Crimes
-
 23           Through Advanced Notification of Traveling Sex
-
 24           Offenders; and
-
-
 
 
       †HR 515 EAS
                               26
-
  1                 ‘‘(B) is currently required to register under
-
  2            the sex offender registration program of any ju-
-
  3            risdiction;
-
  4            ‘‘(2) the term ‘unique identifier’ means any vis-
-
  5       ual designation affixed to a conspicuous location on
-
  6       the passport indicating that the individual is a cov-
-
  7       ered sex offender; and
-
  8            ‘‘(3) the term ‘passport’ means a passport book
  9       or passport card.
-
 10       ‘‘(d) ROHIBITION  .—The Secretary of State, the Sec-
-
 11 retary of Homeland Security, and the Attorney General,
-
 12 and their agencies, officers, employees, and agents, shall not
-
 13 be liable to any person for any action taken under this sec-
-
 14 tion.
-
 15       ‘‘(e) ISCLOSURE  .—In furtherance of this section, the
-
 16 Secretary of State may require a passport applicant to dis-
-
 17 close that they are a registered sex offender.
-
 18       ‘‘(f) FFECTIVE  D ATE .—This section shall take effect
 19 upon certification by the Secretary of State, the Secretary
-
 20 of Homeland Security, and the Attorney General, that the
-
 21 process developed and reported to the appropriate congres-
-
 22 sional committees under section 9 of the International
-
 23 Megan’s Law to Prevent Child Exploitation and Other Sex-
-
 24 ual Crimes Through Advanced Notification of Traveling
-
 25 Sex Offenders has been successfully implemented.’’.
-
 
       †HR 515 EAS
                             27
  1  SEC. 9. IMPLEMENTATION PLAN.
-
  2      (a) IN  GENERAL .—Not later than 90 days after the
-
  3 date of enactment of this Act, the Secretary of Homeland
-
  4 Security, the Secretary of State, and the Attorney General
-
  5 shall develop a process by which to implement section
-
  6 4(e)(5) and the provisions of section 240 of Public Law
-
  7 110–457, as added by section 8 of this Act.
-
  8      (b) R EPORTING  R EQUIREMENT  .—Not later than 90
-
  9 days after the date of enactment of this Act, the Secretary
-
 10 of Homeland Security, the Secretary of State, and the At-
-
 11 torney General shall jointly submit a report to, and shall
-
 12 consult with, the appropriate congressional committees on
-
 13 the process developed under subsection (a), which shall in-
-
 14 clude a description of the proposed process and a timeline
-
 15 and plan for implementation of that process, and shall
-
 16 identify the resources required to effectively implement that
-
 17 process.
-
 18      (c) ‘‘APPROPRIATE    CONGRESSIONAL    COMMITTEES  ’’
-
 19  D EFINED.—In this section, the term ‘‘appropriate congres-
-
 20 sional committees’’ means—
-
 21           (1) the Committee on Foreign Relations of the
 22      Senate;
-
 23           (2) the Committee on Foreign Affairs of the
-
 24      House of Representatives;
-
 25           (3) the Committee on Homeland Security and
-
 26      Governmental Affairs of the Senate;
-
       †HR 515 EAS
                              28
-
  1           (4) the Committee on Homeland Security of the
-
  2       House of Representatives;
-
  3           (5) the Committee on the Judiciary of the Sen-
-
  4       ate;
-
  5           (6) the Committee on the Judiciary of the House
-
  6       of Representatives;
-
  7           (7) the Committee on Appropriations of the Sen-
-
  8       ate; and
  9           (8) the Committee on Appropriations of the
-
 10       House of Representatives.
-
 11  SEC. 10. TECHNICAL ASSISTANCE.
-
 12       The Secretary of State, in consultation with the Attor-
-
 13 ney General and the Secretary of Homeland Security, may
-
 14 provide technical assistance to foreign authorities in order
-
 15 to enable such authorities to participate more effectively in
-
 16 the notification program system established under this Act.
-
 17  SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
-
 18       There are authorized to be appropriated to carry out
 19 this Act $6,000,000 for each of fiscal years 2017 and 2018.
-
 20  SEC. 12. RULE OF CONSTRUCTION.
-
 21       Nothing in this Act shall be construed to limit inter-
-
 22 national information sharing or law enforcement coopera-
-
 23 tion relating to any person pursuant to any authority of
-
 24 the Department of Justice, the Department of Homeland
-
 25 Security, or any other department or agency.
-
 
       †HR 515 EAS
                            29
-
      Amend the title so as to read: ‘‘An Act to protect
-
 children and others from sexual abuse and exploitation,
 including sex trafficking and sex tourism, by providing
-
 advance notice of intended travel by registered sex of-
 fenders outside the United States to the government of
-
 the country of destination, requesting foreign govern-
 ments to notify the United States when a known sex of-
 fender is seeking to enter the United States, and for
-
 other purposes.’’.
-
      Attest:
 
 
-
-
-
                                                  Secretary.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1494,7 +814,5 @@ other purposes.’’.
       ST
       ESSIONESS
 AMENDMENTS
-
-
 
      H.R. 515
