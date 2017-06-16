@@ -1,7 +1,8 @@
 require "pdf-reader"
 require "ruby-progressbar"
 
-require "./processors/remove_blank_lines"
+require_relative "lib/processors/remove_blank_lines"
+require_relative "lib/processors/remove_headers"
 
 INPUT_DIRECTORY = "examples"
 OUTPUT_DIRECTORY = "output"
@@ -26,6 +27,7 @@ input_files.each do |input_file|
   end.join("\n")
 
   output = Processors::RemoveBlankLines.process(output)
+  output = Processors::RemoveHeaders.process(output)
 
   output_filename = input_file.
     gsub(INPUT_DIRECTORY, OUTPUT_DIRECTORY).
