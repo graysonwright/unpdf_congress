@@ -10,6 +10,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
+    ruby-progressbar (1.8.1)
     ruby-rc4 (0.1.5)
     ttfunk (1.5.1)
 
@@ -18,6 +19,7 @@ PLATFORMS
 
 DEPENDENCIES
   pdf-reader
+  ruby-progressbar
 
 RUBY VERSION
    ruby 2.4.0p0
