@@ -1,0 +1,9 @@
+version: "2.1"
+
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ruby process.rb

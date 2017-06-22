@@ -25,6 +25,18 @@ which can then be used in many ways.
 
 ## Run locally
 
+There are two options for running the script in this repo.
+The recommended option is with Docker –
+it requires hardly any setup,
+and is the best way to get predictable results on any system.
+
+With Docker:
+
+* Make sure you have Docker installed on your system.
+* Run `./bin/docker-compose run --rm web`
+
+With Ruby:
+
 * Make sure you have `ruby` installed on your system.
 * Install the project's dependencies with
   `gem install bundler && bundle install`
