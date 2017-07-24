@@ -5,6 +5,7 @@ require_relative "lib/processors/remove_blank_lines"
 require_relative "lib/processors/remove_headers"
 require_relative "lib/processors/remove_line_numbers"
 require_relative "lib/processors/separate_sections"
+require_relative "lib/processors/complete_first_words"
 
 INPUT_DIRECTORY = "examples"
 OUTPUT_DIRECTORY = "output"
@@ -32,6 +33,7 @@ input_files.each do |input_file|
   output = Processors::RemoveHeaders.process(output)
   output = Processors::RemoveLineNumbers.process(output)
   output = Processors::SeparateSections.process(output)
+  output = Processors::CompleteFirstWords.process(output)
 
   output_filename = input_file.
     gsub(INPUT_DIRECTORY, OUTPUT_DIRECTORY).

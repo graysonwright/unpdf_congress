@@ -90,7 +90,7 @@
           (10) The Government of North Korea has spon- sored acts of international terrorism, including—
                (A) attempts to assassinate defectors and human rights activists; and
                (B) the shipment of weapons to terrorists and state sponsors of terrorism.
-      (b) URPOSES  .—The purposes of this Act are—
+      (b) PURPOSES  .—The purposes of this Act are—
           (1) to use nonmilitary means to address the cri- sis described in subsection (a);
           (2) to provide diplomatic leverage to negotiate necessary changes in the conduct of the Government of North Korea;
           (3) to ease the suffering of the people of North Korea; and  
@@ -146,7 +146,7 @@
           (4) to deny the Government of North Korea ac- cess to the funds it uses to develop or obtain nuclear  weapons, ballistic missiles, cyberwarfare capabilities, and luxury goods instead of providing for the needs of the people of North Korea; and
            (5) to enforce sanctions in a manner that does not significantly hinder or delay the efforts of legiti- mate United States or foreign humanitarian organi- zations from providing assistance to meet the needs of civilians facing humanitarian crisis, including access to food, health care, shelter, and clean drinking water, to prevent or alleviate human suffering.
  SEC. 102. INVESTIGATIONS.
-      (a) NITIATION .—The President shall initiate an inves- tigation into the possible designation of a person under sec- tion 104(a) upon receipt by the President of credible infor- mation indicating that such person has engaged in conduct described in section 104(a).
+      (a) INITIATION .—The President shall initiate an inves- tigation into the possible designation of a person under sec- tion 104(a) upon receipt by the President of credible infor- mation indicating that such person has engaged in conduct described in section 104(a).
       (b) PERSONNEL  .—The President may direct the Sec- retary of State, the Secretary of the Treasury, and the heads of other Federal departments and agencies as may be nec- essary to assign sufficient experienced and qualified inves- tigators, attorneys, and technical personnel—
            (1) to investigate the conduct described in sub- sections (a) and (b) of section 104; and
            (2) to coordinate and ensure the effective enforce- ment of this Act. 
@@ -184,7 +184,7 @@
                (D) prohibit any transfers of credit or pay- ments between financial institutions or by,  through, or to any financial institution, to the extent that such transfers or payments—
                    (i) are subject to the jurisdiction of the United States; and
                    (ii) involve any interest of such person.
-      (c) SSET B LOCKING .—The President shall exercise all of the powers granted to the President under the Inter- national Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a des- ignated person, the Government of North Korea, or the Workers’ Party of Korea, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+      (c) ASSET B LOCKING .—The President shall exercise all of the powers granted to the President under the Inter- national Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a des- ignated person, the Government of North Korea, or the Workers’ Party of Korea, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
       (d) APPLICATION TO   SUBSIDIARIES AND   A GENTS .— The designation of a person under subsection (a) or (b) and the blocking of property and interests in property under subsection (c) shall apply with respect to a person who is determined to be owned or controlled by, or to have acted or purported to have acted for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this section.
       (e) TRANSACTION   LICENSING .—The President shall deny or revoke any license for any transaction that the  President determines to lack sufficient financial controls to ensure that such transaction will not facilitate any activity described in subsection (a) or (b).
      (f) PENALTIES .—The penalties provided for in sub- sections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to any person who violates, attempts to violate, con- spires to violate, or causes a violation of any prohibition of this section, or an order or regulation prescribed under this section, to the same extent that such penalties apply to a person that commits an unlawful act described in sec- tion 206(a) of such Act (50 U.S.C. 1705(a)).
@@ -193,7 +193,7 @@
           ‘‘(I) Any property, real or personal, that is in- volved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a prohibition imposed pursuant to section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016.’’.
      (b) A MENDMENT    TO  D EFINITION OF   CIVIL  FOR - FEITURE   STATUTE .—Section 983(i)(2)(D) of title 18, United States Code, is amended to read as follows: 
              ‘‘(D) the Trading with the Enemy Act (50 U.S.C. 4301 et seq.), the International Emer- gency Economic Powers Act (50 U.S.C. 1701 et seq.), or the North Korea Sanctions Enforcement Act of 2016; or’’.
-     (c) MENDMENT TO   DEFINITION OF SPECIFIED U N- LAWFUL  ACTIVITY.—Section 1956(c)(7)(D) of title 18, United States Code, is amended—
+     (c) AMENDMENT TO   DEFINITION OF SPECIFIED U N- LAWFUL  ACTIVITY.—Section 1956(c)(7)(D) of title 18, United States Code, is amended—
          (1) by striking ‘‘or section 92 of’’ and inserting ‘‘section 92 of’’; and
          (2) by adding at the end the following: ‘‘, or sec- tion 104(a) of the North Korea Sanctions Enforce- ment Act of 2016 (relating to prohibited activities with respect to North Korea);’’. TITLE II—SANCTIONS AGAINST NORTH KOREAN PROLIFERA- TION, HUMAN RIGHTS ABUSES, AND ILLICIT ACTIVI- TIES
  SEC. 201. DETERMINATIONS WITH RESPECT TO NORTH KOREA AS A JURISDICTION OF PRIMARY MONEY LAUNDERING CONCERN.
@@ -330,7 +330,7 @@
  SEC. 209. REPORT ON AND IMPOSITION OF SANCTIONS TO ADDRESS PERSONS RESPONSIBLE FOR KNOWINGLY ENGAGING IN SIGNIFICANT AC- TIVITIES UNDERMINING CYBERSECURITY.
      (a) REPORT R EQUIRED .—
           (1) N GENERAL .—The President shall submit to the appropriate congressional committees a report that describes significant activities undermining cy- bersecurity aimed against the United States Govern- ment or any United States person and conducted by the Government of North Korea, or a person owned or controlled, directly or indirectly, by the Government of North Korea or any person acting for or on behalf of that Government.
-          (2) NFORMATION  .—The report required under paragraph (1) shall include— 
+          (2) INFORMATION  .—The report required under paragraph (1) shall include— 
                (A) the identity and nationality of persons that have knowingly engaged in, directed, or pro- vided material support to conduct significant ac- tivities undermining cybersecurity described in paragraph (1);
                (B) a description of the conduct engaged in by each person identified;
                (C) an assessment of the extent to which a foreign government has provided material sup- port to the Government of North Korea or any person acting for or on behalf of that Govern- ment to conduct significant activities under- mining cybersecurity; and
@@ -352,13 +352,13 @@
           (1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Com- mittee on Intelligence of the Senate; and
           (2) the Committee on Foreign Affairs, the Com- mittee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representa- tives.   TITLE III—PROMOTION OF HUMAN RIGHTS
  SEC. 301. INFORMATION TECHNOLOGY. Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by adding at the end the following:
-     ‘‘(d) NFORMATION  T ECHNOLOGY  S TUDY.—Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive elec- tronic mass communications available to the people of North Korea.’’.
+     ‘‘(d) INFORMATION  T ECHNOLOGY  S TUDY.—Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive elec- tronic mass communications available to the people of North Korea.’’.
  SEC. 302. STRATEGY TO PROMOTE NORTH KOREAN HUMAN RIGHTS.
      (a) IN GENERAL .—Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with other appropriate Federal depart- ments and agencies, shall submit to the Committee on For- eign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that details a United States strategy to promote initiatives to enhance international awareness of and to address the human rights situation in North Korea. 
       (b) INFORMATION  .—The report required under sub- section (a) should include—
           (1) a list of countries that forcibly repatriate ref- ugees from North Korea; and
           (2) a list of countries where North Korean labor- ers work, including countries the governments of which have formal arrangements with the Government of North Korea or any person acting for or on behalf of that Government to employ North Korean workers.
-      (c) TRATEGY  .—The report required under subsection
+      (c) STRATEGY  .—The report required under subsection
 (a) should include—
           (1) a plan to enhance bilateral and multilateral outreach, including sustained engagement with the governments of partners and allies with overseas posts to routinely demarche or brief those governments on North Korea human rights issues, including forced labor, trafficking, and repatriation of citizens of North Korea;
           (2) public affairs and public diplomacy cam- paigns, including options to work with news organi- zations and media outlets to publish opinion pieces and secure public speaking opportunities for United States Government officials on issues related to the human rights situation in North Korea, including   forced labor, trafficking, and repatriation of citizens of North Korea; and

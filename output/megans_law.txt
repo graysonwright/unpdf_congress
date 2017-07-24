@@ -58,13 +58,13 @@
           (C) of section 111(5) of the Adam Walsh Child  Protection and Safety Act of 2006 (42 U.S.C. 16911(5)) shall apply with respect to a sex of- fense against a minor for purposes of this Act to the same extent and in the same manner as such limitations apply with respect to a sex offense for purposes of the Adam Walsh Child Protection and Safety Act of 2006.
  SEC. 4. ANGEL WATCH CENTER.
       (a) ESTABLISHMENT  .—Not later than 90 days after the date of the enactment of this Act, the Secretary of Home- land Security shall establish within the Child Exploitation Investigations Unit of U.S. Immigrations and Customs En- forcement a Center, to be known as the ‘‘Angel Watch Cen- ter’’, to carry out the activities specified in subsection (e).
-      (b) NCOMING  NOTIFICATION .—
+      (b) INCOMING  NOTIFICATION .—
           (1) IN GENERAL  .—The Center may receive in- coming notifications concerning individuals seeking to enter the United States who have committed of- fenses of a sexual nature.
           (2) NOTIFICATION .—Upon receiving an incoming notification under paragraph (1), the Center shall—
                (A) immediately share all information re- ceived relating to the individual with the De- partment of Justice; and  
                (B) share all relevant information relating to the individual with other Federal, State, and local agencies and entities, as appropriate.
           (3) C OLLABORATION  .—The Secretary of Home- land Security shall collaborate with the Attorney General to establish a process for the receipt, dissemi- nation, and categorization of information relating to individuals and specific offenses provided herein.
-      (c) EADERSHIP  .—The Center shall be headed by the Assistant Secretary of U.S. Immigration and Customs En- forcement, in collaboration with the Commissioner of U.S. Customs and Border Protection and in consultation with the Attorney General and the Secretary of State.
+      (c) LEADERSHIP  .—The Center shall be headed by the Assistant Secretary of U.S. Immigration and Customs En- forcement, in collaboration with the Commissioner of U.S. Customs and Border Protection and in consultation with the Attorney General and the Secretary of State.
       (d) MEMBERS  .—The Center shall consist of the fol- lowing:
           (1) The Assistant Secretary of U.S. Immigration and Customs Enforcement.
           (2) The Commissioner of U.S. Customs and Bor- der Protection.
@@ -125,7 +125,7 @@
           (3) receive incoming notifications concerning in- dividuals seeking to enter the United States who have committed offenses of a sexual nature and shall share the information received immediately with the De- partment of Homeland Security; and
           (4) perform such other functions at the Attorney General or the Director of the United States Marshals Service may direct.
       (b) CONSISTENT  NOTIFICATION .—In making notifica- tions under subsection (a)(1), the United States Marshals Service’s National Sex Offender Targeting Center shall, to the extent feasible and appropriate, ensure that the destina- tion country is consistently notified in advance about sex offenders under SORNA identified through their inclusion in sex offender registries of jurisdictions or the National Sex Offender Registry.
-      (c) NFORMATION   R EQUIRED .—For purposes of car- rying out this Act, the United States Marshals Service’s Na- tional Sex Offender Targeting Center shall—
+      (c) INFORMATION   R EQUIRED .—For purposes of car- rying out this Act, the United States Marshals Service’s Na- tional Sex Offender Targeting Center shall—
           (1) make the case management system or other system that provides access to a list of individuals who have provided advanced notice of international travel available to the Angel Watch Center;
           (2) provide the Angel Watch Center a determina- tion of compliance with title I of the Adam Walsh  Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.) for the list of individuals transmitted under section 4(e)(1)(C);
           (3) make available to the Angel Watch Center in- formation on travel by sex offenders in a timely man- ner; and
@@ -166,7 +166,7 @@
               (B) by inserting after paragraph (6) the fol- lowing:
          ‘‘(7) Information relating to intended travel of the sex offender outside the United States, including any anticipated dates and places of departure, ar- rival, or return, carrier and flight numbers for air travel, destination country and address or other con- tact information therein, means and purpose of trav- el, and any other itinerary or other travel-related in- formation required by the Attorney General.’’; and
          (2) by adding at the end the following:
-     ‘‘(c)IME AND M ANNER .—A sex offender shall provide and update information required under subsection (a), in-  cluding information relating to intended travel outside the United States required under paragraph (7) of that sub- section, in conformity with any time and manner require- ments prescribed by the Attorney General.’’.
+     ‘‘(c)TIME AND M ANNER .—A sex offender shall provide and update information required under subsection (a), in-  cluding information relating to intended travel outside the United States required under paragraph (7) of that sub- section, in conformity with any time and manner require- ments prescribed by the Attorney General.’’.
      (b) CONFORMING  A MENDMENTS TO   SECTION  2250 OF TITLE 18, U NITED S TATES C ODE.—Section 2250 of title 18, United States Code, is amended—
           (1) by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
           (2) by inserting after subsection (a) the fol- lowing:
@@ -181,18 +181,18 @@
      (a) AMENDMENT TO   PUBLIC  LAW 110–457.—Title II of Public Law 110–457 is amended by adding at the end the following:
  ‘‘SEC. 240. UNIQUE PASSPORT IDENTIFIERS FOR COVERED SEX OFFENDERS.
      ‘‘(a) N  GENERAL .—Immediately after receiving a written determination from the Angel Watch Center that an individual is a covered sex offender, through the process developed for that purpose under section 9 of the Inter- national Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, the Secretary of State shall take appropriate action under subsection (b).
-     ‘‘(b) UTHORITY  TO U SE UNIQUE  PASSPORT  DENTI - FIERS.—
+     ‘‘(b) AUTHORITY  TO U SE UNIQUE  PASSPORT  DENTI - FIERS.—
           ‘‘(1)N GENERAL  .—Except as provided under paragraph (2), the Secretary of State shall not issue  a passport to a covered sex offender unless the pass- port contains a unique identifier, and may revoke a passport previously issued without such an identifier of a covered sex offender.
-          ‘‘(2) UTHORITY TO REISSUE   .—Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 9 of the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
-      ‘‘(c)EFINED  TERMS  .—In this section—
+          ‘‘(2) AUTHORITY TO REISSUE   .—Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 9 of the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
+      ‘‘(c)DEFINED  TERMS  .—In this section—
           ‘‘(1) the term ‘covered sex offender’ means an in- dividual who—
                ‘‘(A) is a sex offender, as defined in section 4(f) of the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders; and  
                 ‘‘(B) is currently required to register under the sex offender registration program of any ju- risdiction;
            ‘‘(2) the term ‘unique identifier’ means any vis- ual designation affixed to a conspicuous location on the passport indicating that the individual is a cov- ered sex offender; and
            ‘‘(3) the term ‘passport’ means a passport book or passport card.
-      ‘‘(d) ROHIBITION  .—The Secretary of State, the Sec- retary of Homeland Security, and the Attorney General, and their agencies, officers, employees, and agents, shall not be liable to any person for any action taken under this sec- tion.
-      ‘‘(e) ISCLOSURE  .—In furtherance of this section, the Secretary of State may require a passport applicant to dis- close that they are a registered sex offender.
-      ‘‘(f) FFECTIVE  D ATE .—This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congres- sional committees under section 9 of the International Megan’s Law to Prevent Child Exploitation and Other Sex- ual Crimes Through Advanced Notification of Traveling Sex Offenders has been successfully implemented.’’. 
+      ‘‘(d) PROHIBITION  .—The Secretary of State, the Sec- retary of Homeland Security, and the Attorney General, and their agencies, officers, employees, and agents, shall not be liable to any person for any action taken under this sec- tion.
+      ‘‘(e) DISCLOSURE  .—In furtherance of this section, the Secretary of State may require a passport applicant to dis- close that they are a registered sex offender.
+      ‘‘(f) EFFECTIVE  D ATE .—This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congres- sional committees under section 9 of the International Megan’s Law to Prevent Child Exploitation and Other Sex- ual Crimes Through Advanced Notification of Traveling Sex Offenders has been successfully implemented.’’. 
  SEC. 9. IMPLEMENTATION PLAN.
      (a) IN  GENERAL .—Not later than 90 days after the date of enactment of this Act, the Secretary of Homeland Security, the Secretary of State, and the Attorney General shall develop a process by which to implement section 4(e)(5) and the provisions of section 240 of Public Law 110–457, as added by section 8 of this Act.
      (b) R EPORTING  R EQUIREMENT  .—Not later than 90 days after the date of enactment of this Act, the Secretary of Homeland Security, the Secretary of State, and the At- torney General shall jointly submit a report to, and shall consult with, the appropriate congressional committees on the process developed under subsection (a), which shall in- clude a description of the proposed process and a timeline and plan for implementation of that process, and shall identify the resources required to effectively implement that process.

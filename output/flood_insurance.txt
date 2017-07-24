@@ -69,10 +69,10 @@ tives of the United States of America in Congress assembled,
           (6) the term ‘‘Write Your Own Program’’ means the cooperative undertaking between the in- surance industry and the Federal Insurance and Mitigation Administration that allows participating property and casualty insurance companies to write and service standard flood insurance policies.
  SEC. 4. EXTENSION OF NATIONAL FLOOD INSURANCE PRO- GRAM.
      (a) FINANCING.—Section 1309(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)) is amended, in the first sentence, by striking ‘‘September 30, 2017’’ and inserting ‘‘September 30, 2027’’.
-     (b) ROGRAM  EXPIRATION .—Section 1319 of the Na- tional Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking ‘‘September 30, 2017’’ and inserting ‘‘September 30, 2027’’. TITLE I—ENHANCING THE SOL- VENCY AND SUSTAINABILITY OF THE NATIONAL FLOOD IN- SURANCE PROGRAM
+     (b) PROGRAM  EXPIRATION .—Section 1319 of the Na- tional Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking ‘‘September 30, 2017’’ and inserting ‘‘September 30, 2027’’. TITLE I—ENHANCING THE SOL- VENCY AND SUSTAINABILITY OF THE NATIONAL FLOOD IN- SURANCE PROGRAM
  SEC. 101. RISK TRANSFER. Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by striking subsection
 (e) and inserting the following:
-     ‘‘(e)ISK TRANSFER .—
+     ‘‘(e)RISK TRANSFER .—
          ‘‘(1) N GENERAL  .—The Administrator shall annually transfer a portion of the risk associated with the flood insurance program to the private rein- surance or capital markets—
                ‘‘(A) at rates and on terms determined by the Administrator to be reasonable and appro- priate; and
                ‘‘(B) in an amount sufficient to—
@@ -123,7 +123,7 @@ tives of the United States of America in Congress assembled,
           ‘‘(2) offer a reduction of the risk premium rate charged to a policyholder in an amount that is not less than 10 percent of that rate if the policyholder implements any mitigation method described in paragraph (1).’’.
      (c) COVERAGE FOR   COOPERATIVES  .—
           (1) IN GENERAL   .—Section 1306 of the Na- tional Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the fol- lowing:
-     ‘‘(e) OOPERATIVES  .—
+     ‘‘(e) COOPERATIVES  .—
           ‘‘(1) DEFINITION.—In this subsection, the term ‘cooperative building’ has the meaning given the term in section 1312(d).
           ‘‘(2) E QUAL  TREATMENT    WITH  CONDOMIN    - IUMS .—Notwithstanding any other provision of law, an owner of a share of a cooperative building shall be eligible to purchase flood insurance coverage under the national flood insurance program on the same terms as a condominium owner.’’.
           (2) PAYMENT OF CLAIMS   .—Section 1312 of the National Flood Insurance Act of 1968 (42 U.S.C. 4019) is amended—
@@ -170,8 +170,8 @@ tives of the United States of America in Congress assembled,
                ‘‘(C) that—
                     ‘‘(i) renews an existing flood insur- ance policy; or
                     ‘‘(ii) is required to purchase flood in- surance because of a revision of, or an up- date to, a floodplain area or flood risk zone that is identified, delineated, or established under section 1360.
-      ‘‘(b) OUCHERS  .—The Administrator shall provide a voucher to an eligible household in accordance with sub- section (c) to offset the cost of flood insurance for the eligible household for a year if the amount of the covered expenses of the eligible household for that year is greater than 40 percent of the total household income of the eligi- ble household for that year.
-      ‘‘(c)ALCULATION   .—
+      ‘‘(b) VOUCHERS  .—The Administrator shall provide a voucher to an eligible household in accordance with sub- section (c) to offset the cost of flood insurance for the eligible household for a year if the amount of the covered expenses of the eligible household for that year is greater than 40 percent of the total household income of the eligi- ble household for that year.
+      ‘‘(c)CALCULATION   .—
           ‘‘(1) An eligible household that has a total household income that is not greater than 80 per- cent of area median income shall receive a voucher in an amount that is equal to 100 percent of the amount that the eligible household is required to pay in flood insurance premiums and fees for the year in which the eligible household receives the voucher.
           ‘‘(2) An eligible household that has a total household income that is greater than 80 percent of area median income and not greater than 120 per- cent of area median income shall receive a voucher in an amount that is equal to 80 percent of the amount that the eligible household is required to pay in flood insurance premiums and fees for the year in which the eligible household receives the voucher.
           ‘‘(3) An eligible household that has a total household income that is greater than 121 percent of area median income and less than 165 percent of area median income shall receive a voucher in an amount that is equal to 60 percent of the amount that the eligible household is required to pay in flood insurance premiums and fees for the year in which the eligible household receives the voucher.’’.
@@ -250,7 +250,7 @@ tives of the United States of America in Congress assembled,
           (1) describes and details the specific concerns of the Administrator regarding the consequences of that amount not being obtained;
          (2) demonstrates how the consequences de- scribed in paragraph (1) would harm the long-term financial soundness of the Program; and
          (3) indicates the maximum attainable amount for that fiscal year.
-     (f) NVESTMENT  .—The Secretary of the Treasury shall invest such amounts of the Reserve Fund as the Sec- retary determines advisable in obligations issued or guar- anteed by the United States.
+     (f) INVESTMENT  .—The Secretary of the Treasury shall invest such amounts of the Reserve Fund as the Sec- retary determines advisable in obligations issued or guar- anteed by the United States.
  SEC. 306. RULE OF CONSTRUCTION. Nothing in this title may be construed to—
          (1) limit the National Flood Insurance Pro- gram, including the ability of a person to purchase flood insurance under the National Flood Insurance Program to satisfy the mandatory purchase require- ment; or
          (2) require a person to participate in the Pro- gram. TITLE IV—PROVIDING PRIVATE MARKET ACCESS, ACCOUNT- ABILITY, AND COMPETITION
@@ -278,7 +278,7 @@ tives of the United States of America in Congress assembled,
                (B) M ORTGAGE LOANS  .—Section 102(b) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(b)) is amended—
                    (i) by striking paragraphs (1) through
                (5) and inserting the following:
-          ‘‘(1) EGULATED LENDING INSTITUTIONS     .—
+          ‘‘(1) REGULATED LENDING INSTITUTIONS     .—
                ‘‘(A) N GENERAL   .—Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Ex- amination Council established under section 1004 of the Federal Financial Institutions Ex- amination Council Act of 1974 (12 U.S.C. 3303)) shall by regulation direct regulated lend- ing institutions not to make, increase, extend, or renew any loan secured by improved real es- tate or a mobile home located or to be located in an area that has been identified by the Ad- ministrator as an area having special flood haz- ards and in which flood insurance has been made available under the National Flood Insur- ance Act of 1968 (42 U.S.C. 4001 et seq.), un- less the building or mobile home and any per- sonal property securing the loan is covered for the term of the loan by flood insurance in an amount described in subparagraph (B).
                ‘‘(B) AMOUNT  .—The amount of flood in- surance required under subparagraph (A)—
                    ‘‘(i) in the case of Federal flood insur- ance, shall be not less than the lesser of—
@@ -289,32 +289,32 @@ tives of the United States of America in Congress assembled,
                         ‘‘(I) 80 percent of the purchase price of the property;
                         ‘‘(II) the maximum limit of Fed- eral flood insurance coverage made available with respect to the particular type of property; or
                         ‘‘(III) for multi-unit structures only, the outstanding principal bal- ance of the loan.
-          ‘‘(2) EDERAL AGENCY LENDERS     .—
+          ‘‘(2) FEDERAL AGENCY LENDERS     .—
                ‘‘(A) N GENERAL  .—
-                   ‘‘(i) NSURANCE REQUIRED    .—A Fed- eral agency lender may not make, increase, extend, or renew any loan secured by im- proved real estate or a mobile home located or to be located in an area that has been identified by the Administrator as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), unless the building or mobile home and any personal property securing the loan is covered for the term of the loan by flood insurance in accordance with paragraph (1).
-                   ‘‘(ii) EGULATIONS  .—
+                   ‘‘(i) INSURANCE REQUIRED    .—A Fed- eral agency lender may not make, increase, extend, or renew any loan secured by im- proved real estate or a mobile home located or to be located in an area that has been identified by the Administrator as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), unless the building or mobile home and any personal property securing the loan is covered for the term of the loan by flood insurance in accordance with paragraph (1).
+                   ‘‘(ii) REGULATIONS  .—
                         ‘‘(I)N GENERAL  .—Each Federal agency lender may issue any regula- tions necessary to carry out this para- graph.
-                        ‘‘(II) ONSISTENCY  .—Any regu- lations issued under subclause (I) shall be consistent with and substan- tially identical to any regulations issued under paragraph (1).
-               ‘‘(B) EQUIREMENT TO ACCEPT FLOOD IN     - SURANCE  .—Each Federal agency lender shall accept flood insurance as satisfaction of the flood insurance coverage requirement under subparagraph (A)(i) if the flood insurance cov- erage meets the requirements for coverage under that subparagraph.
+                        ‘‘(II) CONSISTENCY  .—Any regu- lations issued under subclause (I) shall be consistent with and substan- tially identical to any regulations issued under paragraph (1).
+               ‘‘(B) REQUIREMENT TO ACCEPT FLOOD IN     - SURANCE  .—Each Federal agency lender shall accept flood insurance as satisfaction of the flood insurance coverage requirement under subparagraph (A)(i) if the flood insurance cov- erage meets the requirements for coverage under that subparagraph.
           ‘‘(3) GOVERNMENT   -SPONSORED   ENTERPRISES FOR HOUSING   .—
                ‘‘(A) I MPLEMENTATION      OF   PROCE   - DURES .—
                    ‘‘(i) R EQUIREMENT  .—The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall implement procedures reasonably de- signed to ensure that, for any loan de- scribed in clause (ii) that is purchased or guaranteed by such entity, the building or mobile home and any personal property se- curing the loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1)(B).
-                   ‘‘(ii) ECURED   LOAN  .—A loan de- scribed in this clause is a loan secured by improved real estate or a mobile home lo- cated in an area—
+                   ‘‘(ii) SECURED   LOAN  .—A loan de- scribed in this clause is a loan secured by improved real estate or a mobile home lo- cated in an area—
                         ‘‘(I) that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Administrator as an area having special flood hazards; and
                         ‘‘(II) in which flood insurance is made available under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
               ‘‘(B) A CCEPTABLE   INSURANCE  .—Subject to subparagraph (C), the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1) if the flood insurance coverage provided meets the requirements for coverage under that paragraph and any requirements established by the Fed- eral National Mortgage Association or the Fed- eral Home Loan Corporation, respectively, re- lating to the financial strength of private insur- ance companies from which the Federal Na- tional Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance.
               ‘‘(C) R ELATION TO STATE LAW     .—A re- quirement described in subparagraph (B) may not affect or conflict with any State law, regula- tion, or procedure concerning the regulation of the business of insurance.
-          ‘‘(4) PPLICABILITY .—
+          ‘‘(4) APPLICABILITY .—
               ‘‘(A) E XISTING   COVERAGE  .—Except as provided in subparagraph (B), paragraph (1) shall apply on the date of enactment of the Rie- gle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4701 et seq.).
               ‘‘(B) N EW   COVERAGE  .—Paragraphs (2) and (3) shall apply only with respect to any loan made, increased, extended, or renewed after the expiration of the 1-year period begin- ning on the date of enactment of the Riegle Community Development and Regulatory Im- provement Act of 1994 (12 U.S.C. 4701 et seq.). Paragraph (1) shall apply with respect to any loan made, increased, extended, or renewed by any lender supervised by the Farm Credit Administration only after the expiration of the period under this subparagraph.
               ‘‘(C) C ONTINUED   EFFECT   OF  REGULA   - TIONS .—Notwithstanding any other provision of this subsection, the regulations to carry out paragraph (1), as in effect immediately before the date of enactment of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4701 et seq.), shall con- tinue to apply until the regulations issued to carry out paragraph (1), as amended by section 522(a) of such Act, take effect.
-          ‘‘(5) ULE OF CONSTRUCTION    .—
+          ‘‘(5) RULE OF CONSTRUCTION    .—
                ‘‘(A) N GENERAL   .—Subject to subpara- graph (B), nothing in this subsection shall be construed to supersede or limit the authority of a Federal entity for lending regulation, the Federal Housing Finance Agency, a Federal agency lender, the Federal National Mortgage Association, or the Federal Home Loan Mort- gage Corporation to establish requirements re- lating to the financial strength of private insur- ance companies from which the entity or agency will accept private flood insurance.
                ‘‘(B) RELATION TO STATE LAW     .—A re- quirement described in subparagraph (A) may not affect or conflict with any State law, regula- tion, or procedure concerning the regulation of the business of insurance.’’; and
                    (ii) by striking paragraph (7) and in- serting the following:
           ‘‘(7) DEFINITIONS.—In this section:
                ‘‘(A) FEDERAL FLOOD INSURANCE     .—The term ‘Federal flood insurance’ means an insur- ance policy made available under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
-               ‘‘(B) LOOD INSURANCE   .—The term ‘flood insurance’ means—
+               ‘‘(B) FLOOD INSURANCE   .—The term ‘flood insurance’ means—
                    ‘‘(i) Federal flood insurance; and
                    ‘‘(ii) private flood insurance.
                ‘‘(C) PRIVATE FLOOD INSURANCE     .—The term ‘private flood insurance’ means an insur- ance policy that—
@@ -325,7 +325,7 @@ tives of the United States of America in Congress assembled,
                   ‘‘(iii) provides flood insurance cov- erage that complies with the laws and reg- ulations of that State.
               ‘‘(D) TATE .—The term ‘State’ means any State of the United States, the District of Co- lumbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Vir- gin Islands, and American Samoa.’’.
           (2) EFFECT OF PRIVATE FLOOD INSURANCE COVERAGE ON CONTINUOUS COVERAGE REQUIRE         - MENTS .—Section 1308 of the National Flood Insur- ance Act of 1968 (42 U.S.C. 4015) is amended by adding at the end the following:
-     ‘‘(n) FFECT OF   PRIVATE F LOOD  NSURANCE   COV - ERAGE ON   CONTINUOUS   C OVERAGE  R EQUIREMENTS  .— For purposes of applying any statutory, regulatory, or ad- ministrative continuous coverage requirement, including under section 1307(g)(1), the Administrator shall consider any period during which a property was continuously cov- ered by private flood insurance to be a period of contin- uous coverage.’’.
+     ‘‘(n) EFFECT OF   PRIVATE F LOOD  NSURANCE   COV - ERAGE ON   CONTINUOUS   C OVERAGE  R EQUIREMENTS  .— For purposes of applying any statutory, regulatory, or ad- ministrative continuous coverage requirement, including under section 1307(g)(1), the Administrator shall consider any period during which a property was continuously cov- ered by private flood insurance to be a period of contin- uous coverage.’’.
      (b) APPLICABILITY OF  EXPANDED   P RIVATE F LOOD INSURANCE  O PTIONS .—The amendments made by sub- section (a) shall apply only with respect to a property that is described in subparagraphs (A) through (E) of section 1307(a)(2) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(a)(2)).
      (c) REPORT ON  LEVEL OF  PERCEIVED  ADVERSE  S E- LECTION .—Not later than 2 years after the date of enact- ment of this Act, the Administrator shall submit to Con- gress a report on the extent to which, of the properties that are required to satisfy the mandatory purchase re- quirement, the properties for which private flood insurance is purchased tend to be at a lower risk of flooding than the properties for which Federal flood insurance is pur- chased (commonly referred to as ‘‘adverse selection’’), by detailing risk classifications of private flood insurance policies.
  SEC. 402. PROVISION OF PRIVATE FLOOD INSURANCE BY WRITE YOUR OWN COMPANIES. The Administrator—
@@ -337,9 +337,9 @@ tives of the United States of America in Congress assembled,
  SEC. 404. FEES AND SURCHARGES FOR PRIVATE FLOOD IN- SURANCE POLICIES.
      (a) SURCHARGES  .—Section 1308A(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015a(a)) is amended—
           (1) by striking ‘‘The Administrator’’ and insert- ing the following:
-          ‘‘(1) OLLECTION ON NFIP POLICIES   .—The Ad- ministrator’’; and
+          ‘‘(1) COLLECTION ON NFIP POLICIES   .—The Ad- ministrator’’; and
           (2) by adding at the end the following:
-          ‘‘(2) OLLECTION ON PRIVATE POLICIES   .—
+          ‘‘(2) COLLECTION ON PRIVATE POLICIES   .—
                ‘‘(A) IN GENERAL  .—An insurance com- pany that issues a policy for private flood insur- ance shall impose and collect an annual sur- charge, in the amount provided in subsection
           (b), on a private flood insurance policy.
                ‘‘(B) N ADDITION TO INCREASED COST OF COMPLIANCE SURCHARGE     .—The surcharge im- posed under subparagraph (A) shall be in addi- tion to the surcharge imposed under section 1304(c) and any other assessments and sur- charges applied to such coverage.
@@ -368,7 +368,7 @@ tives of the United States of America in Congress assembled,
           (3) by inserting after subsection (b) the fol- lowing:
      ‘‘(c) IMPOSITION   AND    COLLECTION   OF    SUR - CHARGE .—
           ‘‘(1) NFIP POLICIES.—The Administrator shall impose a surcharge on each insured under the na- tional flood insurance program of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of subsection (b).
-          ‘‘(2) RIVATE POLICIES .—
+          ‘‘(2) PRIVATE POLICIES .—
               ‘‘(A) IN GENERAL   .—An insurance com- pany that issues a policy for private flood insur- ance shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of subsection (b).
               ‘‘(B) SURCHARGE PAYABLE TO ADMINIS      - TRATOR .—Any surcharge imposed under sub- paragraph (A) shall be payable to the Adminis- trator.
               ‘‘(C) INFORMATION  .—The Administrator may require the provision of such information as the Administrator decides is necessary to verify that a surcharge imposed under subpara- graph (A) has been imposed at the proper time and in the proper amount.
@@ -403,10 +403,10 @@ tives of the United States of America in Congress assembled,
  SEC. 504. PROTECTED AREAS. Section 100216(b) of the Biggert-Waters Flood In- surance Reform Act of 2012 (42 U.S.C. 4101b(b)) is amended by adding at the end the following:
           ‘‘(4) PROTECTED AREAS    .—The Administrator shall replace the Zone D designation, in areas pro- tected by flood control structures or non-structural flood mitigation features, with risk zones that are more appropriate for the level of protection provided by the structure or feature.’’.
  SEC. 505. COASTAL FLOOD MODELS. Section 100216(b) of the Biggert-Waters Flood In- surance Reform Act of 2012 (42 U.S.C. 4101b(b)), as amended by section 504, is amended by adding at the end the following:
-         ‘‘(5) OASTAL FLOOD MODELS   .—In updating maps under this section, the Administrator shall use the most current coastal flood models available to ensure technically and scientifically accurate mod- eling that better represents and communicates flood risk.’’. TITLE VI—ENHANCING NA- TIONAL FLOOD INSURANCE PROGRAM TRANSPARENCY AND ACCOUNTABILITY
+         ‘‘(5) COASTAL FLOOD MODELS   .—In updating maps under this section, the Administrator shall use the most current coastal flood models available to ensure technically and scientifically accurate mod- eling that better represents and communicates flood risk.’’. TITLE VI—ENHANCING NA- TIONAL FLOOD INSURANCE PROGRAM TRANSPARENCY AND ACCOUNTABILITY
  SEC. 601. DEADLINE FOR APPROVAL OF CLAIMS.
      (a) N  GENERAL .—Section 1312 of the National Flood Insurance Act of 1968 (42 U.S.C. 4019) is amended by adding at the end the following:
-     ‘‘(d)EADLINE FOR  APPROVAL OF C LAIMS.—
+     ‘‘(d)DEADLINE FOR  APPROVAL OF C LAIMS.—
          ‘‘(1) N GENERAL  .—The Administrator shall provide that, in the case of a claim for damage to or loss of property covered by flood insurance made available under this title—
                ‘‘(A) except as provided in paragraph (2), not later than 30 days after the date on which the claim is made—
                    ‘‘(i) a final determination regarding approval of the claim for payment or dis- approval of the claim shall be made; and
@@ -420,7 +420,7 @@ tives of the United States of America in Congress assembled,
      (b) APPLICABILITY .—The amendment made by sub- section (a) shall apply to any claim for damage to or loss of property covered by flood insurance made available under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) that is pending on, or made after, the date of enactment of this Act.
  SEC. 602. FLOOD INSURANCE TRANSPARENCY, ACCOUNT- ABILITY, AND REFORM.
      (a) R EPORTS AND   O THER  CLAIM -RELATED   DOCU - MENTS .—Section 1312 of the National Flood Insurance Act of 1968 (42 U.S.C. 4019), as amended by section 601, is amended by adding at the end the following:
-     ‘‘(e) INAL  ENGINEERING   REPORTS .—The Adminis- trator shall require that, in the case of any on-site inspec- tion of a property by an engineer for the purpose of assess- ing any claim for losses covered by a policy for flood insur- ance coverage provided under this title (referred to in this subsection as a ‘covered claim’), the final engineering re- port shall be provided to the insured under the policy, as follows:
+     ‘‘(e) FINAL  ENGINEERING   REPORTS .—The Adminis- trator shall require that, in the case of any on-site inspec- tion of a property by an engineer for the purpose of assess- ing any claim for losses covered by a policy for flood insur- ance coverage provided under this title (referred to in this subsection as a ‘covered claim’), the final engineering re- port shall be provided to the insured under the policy, as follows:
           ‘‘(1) TIMING.—The final engineering report may not be transmitted to any other person, em- ployer, agency, or entity, before it is transmitted to the insured.
           ‘‘(2) PROHIBITION ON ALTERATIONS    ; CERTIFI - CATION .—The final engineering report may not in- clude alterations by, or at the request of, anyone other than the responsible in charge for the report and shall include a certification, signed by the re- sponsible in charge for the report, that it does not contain any such alterations.
           ‘‘(3) TRANSMITTAL  .—The final engineering re- port shall be transmitted to the insured in a manner prescribed by the Administrator that provides rea- sonable assurance that it was transmitted directly to the insured by the responsible in charge.
@@ -428,11 +428,11 @@ tives of the United States of America in Congress assembled,
                ‘‘(A) is based on the on-site inspection;
                ‘‘(B) contains final conclusions with re- spect to an engineering issue or issues involved in the claim; and
                ‘‘(C) is signed by the responsible in charge or affixed with the seal of the responsible in charge, or both.
-      ‘‘(f)LAIMS  ADJUSTMENT    REPORTS  .—The Adminis- trator shall require that, in the case of any on-site inspec- tion of a property by a claims adjustor for the purpose of assessing any claim for losses covered by a policy for flood insurance coverage provided under this title (referred to in this subsection as a ‘covered claim’), any report shall be provided to the insured under the policy, as follows:
+      ‘‘(f)CLAIMS  ADJUSTMENT    REPORTS  .—The Adminis- trator shall require that, in the case of any on-site inspec- tion of a property by a claims adjustor for the purpose of assessing any claim for losses covered by a policy for flood insurance coverage provided under this title (referred to in this subsection as a ‘covered claim’), any report shall be provided to the insured under the policy, as follows:
            ‘‘(1) TIMING.—The report may not be trans- mitted to any other person, employer, agency, or en- tity, before it is transmitted to the insured.
-           ‘‘(2) ROHIBITION ON ALTERATIONS      ; CERTIFI- CATION .—The report may not include alterations by, or at the request of, anyone other than the preparer of the report and shall include a certification, signed by the preparer, that it does not contain any such alterations.
-           ‘‘(3) RANSMITTAL   .—The report shall be trans- mitted to the insured in a manner prescribed by the Administrator that provides reasonable assurance that it was transmitted directly to the insured by the preparer.
-           ‘‘(4) EPORTS COVERED    .—For purposes of this subsection, the term ‘report’—
+           ‘‘(2) PROHIBITION ON ALTERATIONS      ; CERTIFI- CATION .—The report may not include alterations by, or at the request of, anyone other than the preparer of the report and shall include a certification, signed by the preparer, that it does not contain any such alterations.
+           ‘‘(3) TRANSMITTAL   .—The report shall be trans- mitted to the insured in a manner prescribed by the Administrator that provides reasonable assurance that it was transmitted directly to the insured by the preparer.
+           ‘‘(4) REPORTS COVERED    .—For purposes of this subsection, the term ‘report’—
                ‘‘(A) means any report or document in connection with the covered claim that is based on the on-site inspection by the claims adjustor, including any adjustment report and field re- port;
                ‘‘(B) includes any draft, preliminary version, or copy of a report described in sub- paragraph (A) and any amendments or addi- tions to any such report; and
                ‘‘(C) does not include a final engineering report, as that term is defined for purposes of subsection (e).
@@ -460,7 +460,7 @@ tives of the United States of America in Congress assembled,
                     ‘‘(i) 90 days after the date of a final determination upon appeal denying the claim in whole or in part; or
                     ‘‘(ii) 2 years after the date of the oc- currence of the losses involved in the claim; and
           ‘‘(2) a court described in paragraph (1) shall have original exclusive jurisdiction to hear and deter- mine the action without regard to the amount in controversy.
-      ‘‘(c) RIVATE  RIGHTS OF   ACTION .—Nothing in this section, or in any regulation or policy implementing the national flood insurance program, shall be construed to preclude a private right of action under any Federal stat- ute by a policyholder against a private entity for fraud arising from the handing or disposition of a claim for losses under this title.’’.
+      ‘‘(c) PRIVATE  RIGHTS OF   ACTION .—Nothing in this section, or in any regulation or policy implementing the national flood insurance program, shall be construed to preclude a private right of action under any Federal stat- ute by a policyholder against a private entity for fraud arising from the handing or disposition of a claim for losses under this title.’’.
           (2) INDUSTRY PROGRAM WITH FEDERAL FINAN       - CIAL ASSISTANCE  .—Section 1333 of the National Flood Insurance Act of 1968 (42 U.S.C. 4053) is amended by striking ‘‘SEC . 1333.’’ and all that fol- lows and inserting the following:
      ‘‘SEC. 1333. (a) A  DJUSTMENT AND     PAYMENT OF CLAIMS .—The insurance companies and other insurers that form, associate, or otherwise join together in the pool under this part may adjust and pay all claims for proved and approved losses covered by flood insurance in accord- ance with the provisions of this title.
      ‘‘(b) JUDICIAL R EVIEW .—Upon the disallowance by any company or other insurer described in subsection (a) of a claim described in that subsection, or upon the refusal of the claimant to accept the amount allowed upon a claim described in that subsection—
@@ -484,17 +484,17 @@ tives of the United States of America in Congress assembled,
           ‘‘(3) the number of claims denied and the rea- sons cited for each denial; and
          ‘‘(4) the number of claim denials appealed, the number of claim denials upheld on appeal, and the number of claim denials overturned on appeal.’’.
      (f) ENGINEERING AND  L ITIGATION COSTS .—Section 1311 of the National Flood Insurance Act of 1968 (42 U.S.C. 4018) is amended by adding at the end the fol- lowing:
-     ‘‘(c) NGINEERING AND    LITIGATION  COSTS .—The Administrator shall—
+     ‘‘(c) ENGINEERING AND    LITIGATION  COSTS .—The Administrator shall—
          ‘‘(1) in order to ensure that taxpayer funds are being appropriately expended, establish clear guide- lines and standards to require that any engineering or litigation cost billed to the national flood insur- ance program by a Write Your Own company is jus- tified on a case-by-case basis, both by the entity that originally incurs the cost and by the Write Your Own company; and
          ‘‘(2) enforce compliance with the guidelines and standards established under paragraph (1).’’.
      (g) EARTH  M OVEMENT  .—Section 1306 of the Na- tional Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the following:
-     ‘‘(e) ARTH  M OVEMENT  .—A flood insurance claim filed under this title for damage to or loss of property may not be denied based on the earth movement exclusion in the Standard Flood Insurance Policy if the claim is filed as the result of a flood, including a claim for damage to or loss or property caused by earth movement that was caused by a flood.’’.
+     ‘‘(e) EARTH  M OVEMENT  .—A flood insurance claim filed under this title for damage to or loss of property may not be denied based on the earth movement exclusion in the Standard Flood Insurance Policy if the claim is filed as the result of a flood, including a claim for damage to or loss or property caused by earth movement that was caused by a flood.’’.
      (h) A PPEALS  P ROCESS .—Section 205 of the Bun- ning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 (42 U.S.C. 4011 note) is amended—
           (1) by striking ‘‘Not later than’’ and inserting
      ‘‘(a) N G ENERAL .—Not later than’’; and
           (2) by adding at the end the following:
-     ‘‘(b) EVIEW OF  A PPEALS .—
-          ‘‘(1) LARITY .—The Director shall ensure that the appeals process established under subsection (a) has clear rules, forms, and deadlines.
+     ‘‘(b) REVIEW OF  A PPEALS .—
+          ‘‘(1) CLARITY .—The Director shall ensure that the appeals process established under subsection (a) has clear rules, forms, and deadlines.
           ‘‘(2) NOTIFICATION UPON INITIAL DENIAL OF CLAIM .—The Director shall ensure that a claimant is provided with the rules, forms, and deadlines de- scribed in paragraph (1) at the time a claim is first denied in full or in part, including—
               ‘‘(A) the effective date of the denial;
               ‘‘(B) a justification for the denial, includ- ing supporting documentation;
