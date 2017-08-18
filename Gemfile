@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 ruby "2.4.0"
 
+gem "activesupport"
+gem "colorize"
 gem "ffi-aspell"
 gem "pdf-reader"
 gem "ruby-progressbar"

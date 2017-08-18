@@ -1,12 +1,13 @@
 require "pdf-reader"
 require "ruby-progressbar"
 
+require_relative "lib/processors/complete_first_words"
+require_relative "lib/processors/join_hyphenated_words.rb"
+require_relative "lib/processors/join_orphaned_characters.rb"
 require_relative "lib/processors/remove_blank_lines"
 require_relative "lib/processors/remove_headers"
 require_relative "lib/processors/remove_line_numbers"
 require_relative "lib/processors/separate_sections"
-require_relative "lib/processors/complete_first_words"
-require_relative "lib/processors/join_hyphenated_words.rb"
 
 INPUT_DIRECTORY = "examples"
 OUTPUT_DIRECTORY = "output"
@@ -21,7 +22,7 @@ input_files.each do |input_file|
   progress = ProgressBar.create(
     format: "%t:  |%w>%i| %c/%C pages, %e",
     starting_at: 0,
-    title: input_file,
+    title: "Parsing #{input_file}",
     total: pdf.page_count,
   )
 
@@ -30,12 +31,19 @@ input_files.each do |input_file|
     page.text
   end.join("\n")
 
+  print "Processing...\t"
+
   output = Processors::RemoveBlankLines.process(output)
   output = Processors::RemoveHeaders.process(output)
   output = Processors::RemoveLineNumbers.process(output)
   output = Processors::SeparateSections.process(output)
+  output = Processors::JoinHyphenatedWords.process(output)
+  output = Processors::JoinOrphanedCharacters.process(output)
   output = Processors::CompleteFirstWords.process(output)
   output = Processors::JoinHyphenatedWords.process(output)
+
+  puts "Done"
+  puts
 
   output_filename = input_file.
     gsub(INPUT_DIRECTORY, OUTPUT_DIRECTORY).

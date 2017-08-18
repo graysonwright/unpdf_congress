@@ -6,8 +6,8 @@
 >                  AMENDMENT:
 >          Strike out all after the enacting clause and insert:
  SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
-      (a) S HORT   TITLE .—This Act may be cited as the ‘‘North Korea Sanctions and Policy Enhancement Act of 2016’’.
-      (b) TABLE OF   C ONTENTS .—The table of contents for this Act is as follows:
+      (a) SHORT   TITLE .—This Act may be cited as the ‘‘North Korea Sanctions and Policy Enhancement Act of 2016’’.
+      (b) TABLE OF   CONTENTS .—The table of contents for this Act is as follows:
 >     Sec. 1. Short title; table of contents.
 >     Sec. 2. Findings; purposes.
 >     Sec. 3. Definitions.
@@ -48,7 +48,7 @@
 >    Sec. 405. Authority to consolidate reports.
 >    Sec. 406. Effective date.
  SEC. 2. FINDINGS; PURPOSES. 
-       (a) F INDINGS  .—Congress finds the following:
+       (a) FINDINGS  .—Congress finds the following:
              (1) The Government of North Korea—
                   (A) has repeatedly violated its commitments to the complete, verifiable, and irreversible dismantlement of its nuclear weapons programs; and
                   (B) has willfully violated multiple United  Nations Security Council resolutions calling for North Korea to cease development, testing, and production of weapons of mass destruction.
@@ -92,7 +92,7 @@
           (3) to ease the suffering of the people of North Korea; and  
           (4) to reaffirm the purposes set forth in section 4 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7802).
  SEC. 3. DEFINITIONS. In this Act:
-          (1) A PPLICABLE EXECUTIVE ORDER    .—The term ‘‘applicable Executive order’’ means—
+          (1) APPLICABLE EXECUTIVE ORDER    .—The term ‘‘applicable Executive order’’ means—
                (A) Executive Order 13382 (50 U.S.C. 1701 note; relating to blocking property of weapons of mass destruction proliferators and their supporters), Executive Order 13466 (50 U.S.C. 1701 note; relating to continuing certain restrictions with respect to North Korea and North Korean nationals), Executive Order 13551 (50 U.S.C. 1701 note; relating to blocking property of certain persons with respect to North Korea), Executive Order 13570 (50 U.S.C. 1701 note; relating to prohibiting certain transactions with respect to North Korea), Executive Order 13619 (50 U.S.C. 1701 note; relating to blocking property of persons threatening the peace, security, or stability of Burma), Executive Order 13687 (50 U.S.C. 1701 note; relating to imposing additional sanctions with respect to North Korea), or Executive Order 13694 (50 U.S.C. 1701 note; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), to the extent that such Executive order—
                    (i) authorizes the imposition of sanctions on persons for conduct with respect to North Korea;
                    (ii) prohibits transactions or activities involving the Government of North Korea; or
@@ -101,25 +101,25 @@
                    (i) authorizes the imposition of sanctions on persons for conduct with respect to North Korea;
                    (ii) prohibits transactions or activities involving the Government of North Korea; or
                    (iii) otherwise imposes sanctions with respect to North Korea.   
-          (2) A PPLICABLE   UNITED  NATIONS   SECURITY COUNCIL RESOLUTION   .—The term ‘‘applicable United Nations Security Council resolution’’ means—
+          (2) APPLICABLE   UNITED  NATIONS   SECURITY COUNCIL RESOLUTION   .—The term ‘‘applicable United Nations Security Council resolution’’ means—
                (A) United Nations Security Council Resolution 1695 (2006), 1718 (2006), 1874 (2009), 2087 (2013), or 2094 (2013); and
                (B) any United Nations Security Council resolution adopted on or after the date of the enactment of this Act that—
                    (i) authorizes the imposition of sanctions on persons for conduct with respect to North Korea;
                    (ii) prohibits transactions or activities involving the Government of North Korea; or
                    (iii) otherwise imposes sanctions with respect to North Korea.
-          (3) A  PPROPRIATE   CONGRESSIONAL    COMMITTEES .—The term ‘‘appropriate congressional committees’’ means—
+          (3) APPROPRIATE   CONGRESSIONAL    COMMITTEES .—The term ‘‘appropriate congressional committees’’ means—
                (A) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
                (B) the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.
-          (4) D  ESIGNATED   PERSON .—The term ‘‘designated person’’ means a person designated under subsection (a) or (b) of section 104 for purposes of applying 1 or more of the sanctions described in title I or II with respect to the person.
+          (4) DESIGNATED   PERSON .—The term ‘‘designated person’’ means a person designated under subsection (a) or (b) of section 104 for purposes of applying 1 or more of the sanctions described in title I or II with respect to the person.
           (5) GOVERNMENT OF NORTH KOREA     .—The term ‘‘Government of North Korea’’ means the Government of North Korea and its agencies, instrumentalities, and controlled entities.
           (6) HUMANITARIAN ASSISTANCE   .—The term ‘‘humanitarian assistance’’ means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies, clothing, and shelter.
           (7) INTELLIGENCE COMMUNITY   .—The term ‘‘intelligence community’’ has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
-          (8) L  UXURY    GOODS .—The term ‘‘luxury goods’’—
+          (8) LUXURY    GOODS .—The term ‘‘luxury goods’’—
                (A) has the meaning given such term in section 746.4(b)(1) of title 15, Code of Federal Regulations; and  
                (B) includes the items listed in Supplement No. 1 to part 746 of such title, and any similar items.
-          (9) M ONETARY INSTRUMENTS   .—The term ‘‘monetary instruments’’ has the meaning given such term in section 5312(a) of title 31, United States Code.
-          (10) N ORTH KOREA  .—The term ‘‘North Korea’’ means the Democratic People’s Republic of Korea.
-          (11) N ORTH KOREAN FINANCIAL INSTITUTION    .— The term ‘‘North Korean financial institution’’ means any financial institution that—
+          (9) MONETARY INSTRUMENTS   .—The term ‘‘monetary instruments’’ has the meaning given such term in section 5312(a) of title 31, United States Code.
+          (10) NORTH KOREA  .—The term ‘‘North Korea’’ means the Democratic People’s Republic of Korea.
+          (11) NORTH KOREAN FINANCIAL INSTITUTION    .— The term ‘‘North Korean financial institution’’ means any financial institution that—
                (A) is organized under the laws of North Korea or any jurisdiction within North Korea (including a foreign branch of such an institution);
                (B) is located in North Korea, except for a financial institution that is excluded by the President in accordance with section 208(c);
                (C) is owned or controlled by the Government of North Korea, regardless of location; or
@@ -131,8 +131,8 @@
                (B) significant destructive malware attacks;
                (C) significant denial of service activities; and
                (D) such other significant activities described in regulations promulgated to implement section 104.
-          (13) S OUTH KOREA  .—The term ‘‘South Korea’’ means the Republic of Korea.
-          (14) U  NITED   STATES   PERSON  .—The term ‘‘United States person’’ means—
+          (13) SOUTH KOREA  .—The term ‘‘South Korea’’ means the Republic of Korea.
+          (14) UNITED   STATES   PERSON  .—The term ‘‘United States person’’ means—
                (A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
                (B) an entity organized under the laws of the United States or of any jurisdiction within   the United States, including a foreign branch of such an entity. TITLE I—INVESTIGATIONS, PROHIBITED CONDUCT, AND PENALTIES
  SEC. 101. STATEMENT OF POLICY. In order to achieve the peaceful disarmament of North Korea, Congress finds that it is necessary—
@@ -147,12 +147,12 @@
            (1) to investigate the conduct described in subsections (a) and (b) of section 104; and
            (2) to coordinate and ensure the effective enforcement of this Act. 
  SEC. 103. REPORTING REQUIREMENTS.
-     (a) P RESIDENTIAL  BRIEFINGS TO   CONGRESS .—Not later than 180 days after the date of the enactment of this Act, and periodically thereafter, the President shall provide a briefing to the appropriate congressional committees on efforts to implement this Act.
-     (b) REPORT  FROM  SECRETARY OF  S TATE.—Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall conduct, coordinate, and submit to Congress a comprehensive report on United States policy towards North Korea that—
+     (a) PRESIDENTIAL  BRIEFINGS TO   CONGRESS .—Not later than 180 days after the date of the enactment of this Act, and periodically thereafter, the President shall provide a briefing to the appropriate congressional committees on efforts to implement this Act.
+     (b) REPORT  FROM  SECRETARY OF  STATE.—Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall conduct, coordinate, and submit to Congress a comprehensive report on United States policy towards North Korea that—
           (1) is based on a full and complete interagency review of current policies and possible alternatives, including with respect to North Korea’s weapons of mass destruction and missile programs, human rights atrocities, and significant activities undermining cybersecurity; and
           (2) includes recommendations for such legislative or administrative action as the Secretary considers appropriate based on the results of the review.
  SEC. 104. DESIGNATION OF PERSONS.
-     (a) M ANDATORY  DESIGNATIONS .—Except as provided in section 208, the President shall designate under this subsection any person that the President determines—
+     (a) MANDATORY  DESIGNATIONS .—Except as provided in section 208, the President shall designate under this subsection any person that the President determines—
           (1) knowingly, directly or indirectly, imports, exports, or reexports to, into, or from North Korea any goods, services, or technology controlled for export by the United States because of the use of such goods, services, or technology for weapons of mass destruction or delivery systems for such weapons and materially contributes to the use, development, production, possession, or acquisition by any person of a nuclear, radiological, chemical, or biological weapon or any device or system designed in whole or in part to deliver such a weapon;
           (2) knowingly, directly or indirectly, provides training, advice, or other services or assistance, or engages in significant financial transactions, relating to the manufacture, maintenance, or use of any such weapon, device, or system to be imported, exported, or reexported to, into, or from North Korea;
           (3) knowingly, directly or indirectly, imports, exports, or reexports luxury goods to or into North Korea;
@@ -163,7 +163,7 @@
           (8) knowingly, directly or indirectly, sells, supplies, or transfers to or from the Government of North Korea or any person acting for or on behalf of that Government, a significant amount of precious metal, graphite, raw or semifinished metals or aluminum, steel, coal, or software, for use by or in industrial processes directly related to weapons of mass destruction and delivery systems for such weapons, other proliferation activities, the Korean Workers’ Party, armed forces, internal security, or intelligence activities, or the operation and maintenance of political prison camps or forced labor camps, including outside of North Korea;  
           (9) knowingly, directly or indirectly, imports, exports, or reexports to, into, or from North Korea any arms or related materiel; or
           (10) knowingly attempts to engage in any of the conduct described in paragraphs (1) through (9).
-     (b) ADDITIONAL D ISCRETIONARY  DESIGNATIONS .—
+     (b) ADDITIONAL DISCRETIONARY  DESIGNATIONS .—
           (1) PROHIBITED CONDUCT DESCRIBED    .—Except as provided in section 208, the President may designate under this subsection any person that the President determines—
               (A) knowingly engages in, contributes to, assists, sponsors, or provides financial, material or technological support for, or goods and services in support of, any person designated pursuant to an applicable United Nations Security Council resolution;
               (B) knowingly contributed to—
@@ -171,7 +171,7 @@
                    (ii) the misappropriation, theft, or embezzlement of public funds by, or for the benefit of, an official of the Government of North Korea or any person acting for or on behalf of that official; or 
                     (iii) the use of any proceeds of any activity described in clause (i) or (ii); or
                (C) knowingly and materially assisted, sponsored, or provided significant financial, material, or technological support for, or goods or services to or in support of, the activities described in subparagraph (A) or (B).
-          (2) E FFECT OF DESIGNATION   .—With respect to any person designated under this subsection, the President may—
+          (2) EFFECT OF DESIGNATION   .—With respect to any person designated under this subsection, the President may—
                (A) apply the sanctions described in section 204, 205(c), or 206 to the person to the same extent and in the same manner as if the person were designated under subsection (a);
                (B) apply any applicable special measures described in section 5318A of title 31, United States Code;
                (C) prohibit any transactions in foreign exchange—
@@ -180,16 +180,16 @@
                (D) prohibit any transfers of credit or payments between financial institutions or by,  through, or to any financial institution, to the extent that such transfers or payments—
                    (i) are subject to the jurisdiction of the United States; and
                    (ii) involve any interest of such person.
-      (c) ASSET B LOCKING .—The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a designated person, the Government of North Korea, or the Workers’ Party of Korea, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-      (d) APPLICATION TO   SUBSIDIARIES AND   A GENTS .— The designation of a person under subsection (a) or (b) and the blocking of property and interests in property under subsection (c) shall apply with respect to a person who is determined to be owned or controlled by, or to have acted or purported to have acted for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this section.
+      (c) ASSET BLOCKING .—The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a designated person, the Government of North Korea, or the Workers’ Party of Korea, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+      (d) APPLICATION TO   SUBSIDIARIES AND   AGENTS .— The designation of a person under subsection (a) or (b) and the blocking of property and interests in property under subsection (c) shall apply with respect to a person who is determined to be owned or controlled by, or to have acted or purported to have acted for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this section.
       (e) TRANSACTION   LICENSING .—The President shall deny or revoke any license for any transaction that the  President determines to lack sufficient financial controls to ensure that such transaction will not facilitate any activity described in subsection (a) or (b).
      (f) PENALTIES .—The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to any person who violates, attempts to violate, conspires to violate, or causes a violation of any prohibition of this section, or an order or regulation prescribed under this section, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of such Act (50 U.S.C. 1705(a)).
  SEC. 105. FORFEITURE OF PROPERTY.
-     (a) A MENDMENT TO    P ROPERTY  S UBJECT TO   FORFEITURE .—Section 981(a)(1) of title 18, United States Code, is amended by adding at the end the following:
+     (a) AMENDMENT TO    PROPERTY  SUBJECT TO   FORFEITURE .—Section 981(a)(1) of title 18, United States Code, is amended by adding at the end the following:
           ‘‘(I) Any property, real or personal, that is involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a prohibition imposed pursuant to section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016.’’.
-     (b) A MENDMENT    TO  D EFINITION OF   CIVIL  FORFEITURE   STATUTE .—Section 983(i)(2)(D) of title 18, United States Code, is amended to read as follows: 
+     (b) AMENDMENT    TO  DEFINITION OF   CIVIL  FORFEITURE   STATUTE .—Section 983(i)(2)(D) of title 18, United States Code, is amended to read as follows: 
              ‘‘(D) the Trading with the Enemy Act (50 U.S.C. 4301 et seq.), the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), or the North Korea Sanctions Enforcement Act of 2016; or’’.
-     (c) AMENDMENT TO   DEFINITION OF SPECIFIED U NLAWFUL  ACTIVITY.—Section 1956(c)(7)(D) of title 18, United States Code, is amended—
+     (c) AMENDMENT TO   DEFINITION OF SPECIFIED UNLAWFUL  ACTIVITY.—Section 1956(c)(7)(D) of title 18, United States Code, is amended—
          (1) by striking ‘‘or section 92 of’’ and inserting ‘‘section 92 of’’; and
          (2) by adding at the end the following: ‘‘, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 (relating to prohibited activities with respect to North Korea);’’. TITLE II—SANCTIONS AGAINST NORTH KOREAN PROLIFERATION, HUMAN RIGHTS ABUSES, AND ILLICIT ACTIVITIES
  SEC. 201. DETERMINATIONS WITH RESPECT TO NORTH KOREA AS A JURISDICTION OF PRIMARY MONEY LAUNDERING CONCERN.
@@ -220,7 +220,7 @@
               (C) called upon United Nations member states to prohibit North Korean financial institutions from establishing or maintaining correspondent relationships with financial institutions in their respective jurisdictions to prevent the provision of financial services if such member states have information that provides reasonable grounds to believe that such activities could contribute to—
                   (i) activities prohibited by an applicable United Nations Security Council resolution; or
                   (ii) the evasion of such prohibitions.
-     (b) SENSE OF C ONGRESS  REGARDING THE  D ESIGNATION OF NORTH  K OREA AS A J URISDICTION OF PRIMARY MONEY  LAUNDERING  CONCERN .—Congress— 
+     (b) SENSE OF CONGRESS  REGARDING THE  DESIGNATION OF NORTH  KOREA AS A JURISDICTION OF PRIMARY MONEY  LAUNDERING  CONCERN .—Congress— 
           (1) acknowledges the efforts of the United Nations Security Council to impose limitations on, and to require the enhanced monitoring of, transactions involving North Korean financial institutions that could contribute to sanctioned activities;
           (2) urges the President, in the strongest terms—
               (A) to immediately designate North Korea as a jurisdiction of primary money laundering concern; and
@@ -228,12 +228,12 @@
           (3) urges the President to seek the prompt implementation by other countries of enhanced monitoring and due diligence to prevent North Korea’s misuse of the international financial system, including by sharing information about activities, transactions, and property that could contribute to—
               (A) activities sanctioned by applicable United Nations Security Council resolutions; or
               (B) the evasion of such sanctions.
-     (c) DETERMINATIONS  R EGARDING N ORTH K OREA .—
+     (c) DETERMINATIONS  REGARDING NORTH KOREA .—
           (1) N GENERAL  .—Not later than 180 days after the date of the enactment of this Act, the Secretary of  the Treasury, in consultation with the Secretary of State and the Attorney General, and in accordance with section 5318A of title 31, United States Code, shall determine whether reasonable grounds exist for concluding that North Korea is a jurisdiction of primary money laundering concern.
           (2) ENHANCED DUE DILIGENCE AND REPORTING REQUIREMENTS   .—If the Secretary of the Treasury determines under paragraph (1) that reasonable grounds exist for concluding that North Korea is a jurisdiction of primary money laundering concern, the Secretary, in consultation with the Federal functional regulators (as defined in section 509 of the GrammLeachBliley Act (15 U.S.C. 6809)), shall impose 1 or more of the special measures described in section 5318A(b) of title 31, United States Code, with respect to the jurisdiction of North Korea.
           (3) REPORT REQUIRED  .—
                (A) IN GENERAL  .—Not later than 90 days after the date on which the Secretary of the Treasury makes a determination under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report that contains the reasons for such determination.  
-              (B) F  ORM .—The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
+              (B) FORM .—The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
  SEC. 202. ENSURING THE CONSISTENT ENFORCEMENT OF UNITED NATIONS SECURITY COUNCIL RESOLUTIONS AND FINANCIAL RESTRICTIONS ON NORTH KOREA.
      (a) FINDINGS .—Congress makes the following findings:
           (1) All member states of the United Nations are obligated to implement and enforce applicable United Nations Security Council resolutions fully and promptly, including by blocking the property of, and ensuring that any property is prevented from being made available to, persons designated for the blocking of property by the Security Council under applicable United Nations Security Council resolutions.
@@ -259,19 +259,19 @@
           (4) the blocking of any property derived from illicit activity, or from the misappropriation, theft, or embezzlement of public funds by, or for the benefit of, officials of the Government of North Korea;
           (5) the blocking of any property involved in significant activities undermining cybersecurity by the Government of North Korea, directly or indirectly, against United States persons, or the theft of intellectual property by the Government of North Korea, directly or indirectly from United States persons; and
           (6) the blocking of any property of persons directly or indirectly involved in censorship or human rights abuses by the Government of North Korea.
-     (c) STRATEGY TO   IMPROVE   NTERNATIONAL   IMPLEMENTATION  AND   E NFORCEMENT   OF   UNITED   NATIONS NORTH  K OREA SPECIFIC S ANCTIONS.—The President shall direct the Secretary of State, in coordination with other Federal departments and agencies, as appropriate, to develop a strategy to improve international implementation and enforcement of United Nations North Korea-specific sanctions. The strategy should include elements—
+     (c) STRATEGY TO   IMPROVE   NTERNATIONAL   IMPLEMENTATION  AND   ENFORCEMENT   OF   UNITED   NATIONS NORTH  KOREA SPECIFIC SANCTIONS.—The President shall direct the Secretary of State, in coordination with other Federal departments and agencies, as appropriate, to develop a strategy to improve international implementation and enforcement of United Nations North Korea-specific sanctions. The strategy should include elements—
           (1) to increase the number of countries submitting reports to the United Nations Panel of Experts established pursuant to United Nations Security Council Resolution 1874 (2009), including developing a list of targeted countries where effective implementation and enforcement of United Nations sanctions would reduce the threat from North Korea;
           (2) to encourage member states of the United Nations to cooperate and share information with the panel in order to help facilitate investigations;
           (3) to expand cooperation with the Panel of Experts;
           (4) to provide technical assistance to member states to implement United Nations sanctions, including developing the capacity to enforce sanctions through improved export control regulations, border security, and customs systems;
           (5) to harness existing United States Government initiatives and assistance programs, as appropriate, to improve sanctions implementation and enforcement; and  
           (6) to increase outreach to the people of North Korea, and to support the engagement of independent, non-governmental journalistic, humanitarian, and other institutions in North Korea.
-     (d) REPORT R EQUIRED .—Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that describes the actions undertaken to implement the strategy required by subsection (c).
+     (d) REPORT REQUIRED .—Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that describes the actions undertaken to implement the strategy required by subsection (c).
  SEC. 203. PROLIFERATION PREVENTION SANCTIONS.
      (a) EXPORT OF  CERTAIN  GOODS OR  TECHNOLOGY  .— A validated license shall be required for the export to North Korea of any goods or technology otherwise covered under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. 4605(j)). No defense exports may be approved for the Government of North Korea.
-     (b) T RANSACTIONS  IN  LETHAL   MILITARY  E QUIPMENT .—
+     (b) TRANSACTIONS  IN  LETHAL   MILITARY  EQUIPMENT .—
           (1) N GENERAL .—The President shall withhold assistance under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to the government of any country that provides lethal military equipment to the Government of North Korea.  
-          (2) A  PPLICABILITY.—The prohibition under paragraph (1) with respect to a government shall terminate on the date that is 1 year after the date on which the prohibition under paragraph (1) is applied to that government.
+          (2) APPLICABILITY.—The prohibition under paragraph (1) with respect to a government shall terminate on the date that is 1 year after the date on which the prohibition under paragraph (1) is applied to that government.
       (c) WAIVER.—Notwithstanding any other provision of law, the Secretary of State may waive the prohibitions under this section with respect to a country if the Secretary—
           (1) determines that such waiver is in the national interest of the United States; and
           (2) submits a written report to the appropriate congressional committees that describes—
@@ -279,22 +279,22 @@
                (B) why such waiver is in the national interest of the United States.
       (d) EXCEPTION .—The prohibitions under this section shall not apply to the provision of assistance for human rights, democracy, rule of law, or emergency humanitarian purposes.
  SEC. 204. PROCUREMENT SANCTIONS.
-      (a) N G ENERAL .—Except as provided in this section, the head of an executive agency may not procure, or enter  into any contract for the procurement of, any goods or services from any person designated under section 104(a).
-     (b) FEDERAL  ACQUISITION R EGULATION .—
+      (a) N GENERAL .—Except as provided in this section, the head of an executive agency may not procure, or enter  into any contract for the procurement of, any goods or services from any person designated under section 104(a).
+     (b) FEDERAL  ACQUISITION REGULATION .—
           (1) N GENERAL  .—The Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41, United States Code, shall be revised to require that each person that is a prospective contractor submit a certification that such person does not engage in any activity described in section 104(a).
-          (2) A  PPLICABILITY.—The revision required under paragraph (1) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after the date of the enactment of this Act.
+          (2) APPLICABILITY.—The revision required under paragraph (1) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after the date of the enactment of this Act.
      (c) REMEDIES .—
           (1) INCLUSION ON LIST .—The Administrator of General Services shall include, on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation, each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subsection (b).  
-          (2) C ONTRACT TERMINATION   ; SUSPENSION .—If the head of an executive agency determines that a person has submitted a false certification under subsection (b) after the date on which the Federal Acquisition Regulation is revised to implement the requirements of this section, the head of such executive agency shall—
+          (2) CONTRACT TERMINATION   ; SUSPENSION .—If the head of an executive agency determines that a person has submitted a false certification under subsection (b) after the date on which the Federal Acquisition Regulation is revised to implement the requirements of this section, the head of such executive agency shall—
                (A) terminate any contract with such person; and
                (B) debar or suspend such person from eligibility for Federal contracts for a period of not longer than 2 years.
           (3) APPLICABLE PROCEDURES    .—Any debarment or suspension under paragraph (2)(B) shall be subject to the procedures that apply to debarment and suspension under subpart 9.4 of the Federal Acquisition Regulation.
-     (d) C  LARIFICATION   REGARDING    CERTAIN   PRODUCTS .—The remedies specified in subsection (c) shall not apply with respect to the procurement of any eligible product (as defined in section 308(4) of the Trade Agreements Act of 1979 (19 U.S.C. 2518(4)) of any foreign country or instrumentality designated under section 301(b) of such Act (19 U.S.C. 2511(b)).  
-     (e) R ULE OF  CONSTRUCTION  .—Nothing in this subsection may be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under subsection (b).
-     (f) EXECUTIVE A GENCY D EFINED .—In this section, the term ‘‘executive agency’’ has the meaning given such term in section 133 of title 41, United States Code.
+     (d) CLARIFICATION   REGARDING    CERTAIN   PRODUCTS .—The remedies specified in subsection (c) shall not apply with respect to the procurement of any eligible product (as defined in section 308(4) of the Trade Agreements Act of 1979 (19 U.S.C. 2518(4)) of any foreign country or instrumentality designated under section 301(b) of such Act (19 U.S.C. 2511(b)).  
+     (e) RULE OF  CONSTRUCTION  .—Nothing in this subsection may be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under subsection (b).
+     (f) EXECUTIVE AGENCY DEFINED .—In this section, the term ‘‘executive agency’’ has the meaning given such term in section 133 of title 41, United States Code.
  SEC. 205. ENHANCED INSPECTION AUTHORITIES.
-     (a) R EPORT  R EQUIRED .—Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the President shall submit to the appropriate congressional committees a report that identifies foreign ports and airports at which inspections of ships, aircraft, and conveyances originating in North Korea, carrying North Korean property, or operated by the Government of North Korea are not sufficient to effectively prevent the facilitation of any of the activities described in section 104(a).
-     (b) E  NHANCED   C USTOMS   INSPECTION   R EQUIREMENTS .—The Secretary of Homeland Security may require enhanced inspections of any goods entering the United States that have been transported through a port or airport identified by the President under subsection (a).
+     (a) REPORT  REQUIRED .—Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the President shall submit to the appropriate congressional committees a report that identifies foreign ports and airports at which inspections of ships, aircraft, and conveyances originating in North Korea, carrying North Korean property, or operated by the Government of North Korea are not sufficient to effectively prevent the facilitation of any of the activities described in section 104(a).
+     (b) ENHANCED   CUSTOMS   INSPECTION   REQUIREMENTS .—The Secretary of Homeland Security may require enhanced inspections of any goods entering the United States that have been transported through a port or airport identified by the President under subsection (a).
      (c) SEIZURE AND  FORFEITURE  .—A vessel, aircraft, or conveyance used to facilitate any of the activities described  in section 104(a) under the jurisdiction of the United States may be seized and forfeited under—
           (1) chapter 46 of title 18, United States Code; or
           (2) title V of the Tariff Act of 1930 (19 U.S.C. 1501 et seq.).
@@ -312,19 +312,19 @@
           (1) Activities subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
           (2) Any transaction necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or under the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or under other international agreements.
           (3) Any activities incidental to the POW/MIA accounting mission in North Korea, including activities by the Defense POW/MIA Accounting Agency and other governmental or nongovernmental organizations tasked with identifying or recovering the remains of members of the United States Armed Forces in North Korea.
-     (b) HUMANITARIAN  W AIVER.— 
+     (b) HUMANITARIAN  WAIVER.— 
           (1) IN GENERAL .—The President may waive, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 104, 204, 205, 206, 209(b), or 304(b) if the President submits to the appropriate congressional committees a written determination that the waiver is necessary for humanitarian assistance or to carry out the humanitarian purposes set forth section 4 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7802).
           (2) CONTENT OF WRITTEN DETERMINATION      .—A written determination submitted under paragraph (1) with respect to a waiver shall include a description of all notification and accountability controls that have been employed in order to ensure that the activities covered by the waiver are humanitarian assistance or are carried out for the purposes set forth in section 4 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7802) and do not entail any activities in North Korea or dealings with the Government of North Korea not reasonably related to humanitarian assistance or such purposes.
-          (3) C LARIFICATION OF PERMITTED ACTIVITIES UNDER WAIVER   .—An internationally recognized humanitarian organization shall not be subject to sanctions under section 104, 204, 205, 206, 209(b), or 304(b) for—
+          (3) CLARIFICATION OF PERMITTED ACTIVITIES UNDER WAIVER   .—An internationally recognized humanitarian organization shall not be subject to sanctions under section 104, 204, 205, 206, 209(b), or 304(b) for—
                (A) engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes pursuant to a waiver issued under paragraph (1);
                (B) transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes pursuant to such a waiver; or
                (C) having merely incidental contact, in the course of providing humanitarian assistance or aid for humanitarian purposes pursuant to such a waiver, with individuals who are under the control of a foreign person subject to sanctions under this Act.
       (c) WAIVER.—The President may waive, on a case-by-case basis, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 104, 201(c)(2), 204, 205, 206, 209(b), or 304(b) if the President submits to the appropriate congressional committees a written determination that the waiver—
           (1) is important to the national security interests of the United States; or  
           (2) will further the enforcement of this Act or is for an important law enforcement purpose.
-     (d) FINANCIAL  SERVICES FOR   H UMANITARIAN AND CONSULAR  A CTIVITIE.—The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
+     (d) FINANCIAL  SERVICES FOR   HUMANITARIAN AND CONSULAR  A CTIVITIE.—The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
  SEC. 209. REPORT ON AND IMPOSITION OF SANCTIONS TO ADDRESS PERSONS RESPONSIBLE FOR KNOWINGLY ENGAGING IN SIGNIFICANT ACTIVITIES UNDERMINING CYBERSECURITY.
-     (a) REPORT R EQUIRED .—
+     (a) REPORT REQUIRED .—
           (1) N GENERAL .—The President shall submit to the appropriate congressional committees a report that describes significant activities undermining cybersecurity aimed against the United States Government or any United States person and conducted by the Government of North Korea, or a person owned or controlled, directly or indirectly, by the Government of North Korea or any person acting for or on behalf of that Government.
           (2) INFORMATION  .—The report required under paragraph (1) shall include— 
                (A) the identity and nationality of persons that have knowingly engaged in, directed, or provided material support to conduct significant activities undermining cybersecurity described in paragraph (1);
@@ -332,23 +332,23 @@
                (C) an assessment of the extent to which a foreign government has provided material support to the Government of North Korea or any person acting for or on behalf of that Government to conduct significant activities undermining cybersecurity; and
                (D) a United States strategy to counter North Korea’s efforts to conduct significant activities undermining cybersecurity against the United States, that includes efforts to engage foreign governments to halt the capability of the Government of North Korea and persons acting for or on behalf of that Government to conduct significant activities undermining cybersecurity.
           (3) SUBMISSION AND FORM   .—
-               (A) S  UBMISSION .—The report required under paragraph (1) shall be submitted not later   than 90 days after the date of the enactment of this Act, and every 180 days thereafter.
-               (B) F ORM .—The report required under paragraph (1) shall be submitted in an unclassified form, but may include a classified annex.
-      (b) DESIGNATION OF  P ERSONS .—The President shall designate under section 104(a) any person identified in the report required under subsection (a)(1) that knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea.
+               (A) SUBMISSION .—The report required under paragraph (1) shall be submitted not later   than 90 days after the date of the enactment of this Act, and every 180 days thereafter.
+               (B) FORM .—The report required under paragraph (1) shall be submitted in an unclassified form, but may include a classified annex.
+      (b) DESIGNATION OF  PERSONS .—The President shall designate under section 104(a) any person identified in the report required under subsection (a)(1) that knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea.
  SEC. 210. CODIFICATION OF SANCTIONS WITH RESPECT TO NORTH KOREAN ACTIVITIES UNDERMINING CYBERSECURITY.
       (a) N  GENERAL  .—United States sanctions with respect to activities of the Government of North Korea, persons acting for or on behalf of that Government, or persons located in North Korea that undermine cybersecurity provided for in Executive Order 13687 (50 U.S.C. 1701 note; relating to imposing additional sanctions with respect to North Korea) or Executive Order 13694 (50 U.S.C. 1701 note; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), as such Executive Orders are in effect on the day before  the date of the enactment of this Act, shall remain in effect until the date that is 30 days after the date on which the President submits to Congress a certification that the Government of North Korea, persons acting for or on behalf of that Government, and persons owned or controlled, directly or indirectly, by that Government or persons acting for or on behalf of that Government, are no longer engaged in the illicit activities described in such Executive Orders, including actions in violation of United Nations Security Council Resolutions 1718 (2006), 1874 (2009), 2087 (2013), and 2094 (2013).
-      (b) RULE OF C ONSTRUCTION .—Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+      (b) RULE OF CONSTRUCTION .—Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
  SEC. 211. SENSE OF CONGRESS ON TRILATERAL COOPERATION BETWEEN THE UNITED STATES, SOUTH KOREA, AND JAPAN.
-      (a) N G ENERAL .—It is the sense of Congress that the President—
+      (a) N GENERAL .—It is the sense of Congress that the President—
           (1) should seek to strengthen high-level trilateral mechanisms for discussion and coordination of policy toward North Korea between the Government of the United States, the Government of South Korea, and the Government of Japan; 
           (2) should ensure that the mechanisms specifically address North Korea’s nuclear, ballistic, and conventional weapons programs, its human rights record, and cybersecurity threats posed by North Korea;
           (3) should ensure that representatives of the United States, South Korea, and Japan meet on a regular basis and include representatives of the United States Department of State, the United States Department of Defense, the United States intelligence community, and representatives of counterpart agencies in South Korea and Japan; and
           (4) should continue to brief the relevant congressional committees regularly on the status of such discussions.
-      (b) RELEVANT  C OMMITTEES  .—The relevant committees referred to in subsection (a)(4) shall include—
+      (b) RELEVANT  COMMITTEES  .—The relevant committees referred to in subsection (a)(4) shall include—
           (1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
           (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.   TITLE III—PROMOTION OF HUMAN RIGHTS
  SEC. 301. INFORMATION TECHNOLOGY. Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by adding at the end the following:
-     ‘‘(d) INFORMATION  T ECHNOLOGY  S TUDY.—Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive electronic mass communications available to the people of North Korea.’’.
+     ‘‘(d) INFORMATION  TECHNOLOGY  STUDY.—Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive electronic mass communications available to the people of North Korea.’’.
  SEC. 302. STRATEGY TO PROMOTE NORTH KOREAN HUMAN RIGHTS.
      (a) IN GENERAL .—Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with other appropriate Federal departments and agencies, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that details a United States strategy to promote initiatives to enhance international awareness of and to address the human rights situation in North Korea. 
       (b) INFORMATION  .—The report required under subsection (a) should include—
@@ -374,21 +374,21 @@
           (1) IN GENERAL .—The Secretary of State shall submit to the appropriate congressional committees a report that—
               (A) identifies each person the Secretary determines to be responsible for serious human rights abuses or censorship in North Korea and describes the conduct of that person; and
               (B) describes serious human rights abuses or censorship undertaken by the Government of North Korea or any person acting for or on behalf of that Government in the most recent year ending before the submission of the report.
-          (2) C ONSIDERATION .—In preparing the report required under paragraph (1), the Secretary of State shall—
+          (2) CONSIDERATION .—In preparing the report required under paragraph (1), the Secretary of State shall—
                (A) give due consideration to the findings of the United Nations Commission of Inquiry on Human Rights in North Korea; and
                (B) make specific findings with respect to the responsibility of Kim Jong Un, and of each individual who is a member of the National Defense Commission of North Korea or the Organization and Guidance Department of the Workers’ Party of Korea, for serious human rights abuses and censorship.
           (3) SUBMISSION AND FORM  .—
-               (A) S UBMISSION  .—The report required under paragraph (1) shall be submitted not later than 120 days after the date of the enactment of this Act, and every 180 days thereafter for a period not to exceed 3 years, and shall be included in each human rights report required under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)). 
-               (B) F ORM .—The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+               (A) SUBMISSION  .—The report required under paragraph (1) shall be submitted not later than 120 days after the date of the enactment of this Act, and every 180 days thereafter for a period not to exceed 3 years, and shall be included in each human rights report required under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)). 
+               (B) FORM .—The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
                (C) PUBLIC AVAILABILITY  .—The Secretary of State shall publish the unclassified part of the report required under paragraph (1) on the website of the Department of State.
-     (b) D ESIGNATION OF  P ERSONS .—The President shall designate under section 104(a) any person listed in the report required under subsection (a)(1) that—
+     (b) DESIGNATION OF  PERSONS .—The President shall designate under section 104(a) any person listed in the report required under subsection (a)(1) that—
           (1) knowingly engages in, is responsible for, or facilitates censorship by the Government of North Korea; or
           (2) knowingly engages in, is responsible for, or facilitates serious human rights abuses by the Government of North Korea.
      (c) SENSE OF  CONGRESS  .—It is the sense of Congress that the President should—
           (1) seek the prompt adoption by the United Nations Security Council of a resolution calling for the blocking of the assets of all persons responsible for severe human rights abuses or censorship in North Korea; and
           (2) fully cooperate with the prosecution of any individual listed in the report required under subsection (a)(1) before any international tribunal that may be established to prosecute persons responsible for severe human rights abuses or censorship in North Korea. TITLE IV—GENERAL AUTHORITIES
  SEC. 401. SUSPENSION OF SANCTIONS AND OTHER MEASURES.
-     (a) N G ENERAL .—Any sanction or other measure required under title I, II, or III (or any amendment made by such titles) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
+     (a) N GENERAL .—Any sanction or other measure required under title I, II, or III (or any amendment made by such titles) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
           (1) verifiably ceasing its counterfeiting of United States currency, including the surrender or destruction of specialized materials and equipment used or particularly suitable for counterfeiting;
           (2) taking steps toward financial transparency to comply with generally accepted protocols to cease and prevent the laundering of monetary instruments;
           (3) taking steps toward verification of its compliance with applicable United Nations Security Council resolutions;  
@@ -397,7 +397,7 @@
                (B) detained in violation of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the ‘‘Korean War Armistice Agreement’’);
           (5) accepting and beginning to abide by internationally recognized standards for the distribution and monitoring of humanitarian aid; and
           (6) taking verified steps to improve living conditions in its political prison camps.
-      (b) RENEWAL OF   S USPENSION .—The suspension described in subsection (a) may be renewed for additional, consecutive 180-day periods after the President certifies to the appropriate congressional committees that the Government of North Korea has continued to comply with the conditions described in subsection (a) during the previous year.
+      (b) RENEWAL OF   SUSPENSION .—The suspension described in subsection (a) may be renewed for additional, consecutive 180-day periods after the President certifies to the appropriate congressional committees that the Government of North Korea has continued to comply with the conditions described in subsection (a) during the previous year.
  SEC. 402. TERMINATION OF SANCTIONS AND OTHER MEASURES. Any sanction or other measure required under title I, II, or III (or any amendment made by such titles) shall terminate on the date on which the President determines  and certifies to the appropriate congressional committees that the Government of North Korea has—
           (1) met the requirements set forth in section 401; and
           (2) made significant progress toward—
@@ -409,12 +409,12 @@
                     (i) abducted or unlawfully held captive by the Government of North Korea; or
                     (ii) detained in violation of the Agreement Concerning a Military Armistice in  Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the ‘‘Korean War Armistice Agreement’’).
  SEC. 403. AUTHORIZATION OF APPROPRIATIONS.
-     (a) IN G ENERAL .—There are authorized to be appropriated for each of fiscal years 2017 through 2021—
+     (a) IN GENERAL .—There are authorized to be appropriated for each of fiscal years 2017 through 2021—
           (1) $3,000,000 to carry out section 103 of the North Korea Human Rights Act of 2004 (22 U.S.C. 7813);
           (2) $3,000,000 to carry out subsections (a), (b), and (c) of section 104 of that Act (22 U.S.C. 7814);
           (3) $2,000,000 to carry out subsection (d) of such section 104, as add by section 301 of this Act; and
           (4) $2,000,000 to carry out section 203 of the North Korea Human Rights Act of 2004 (22 U.S.C. 7833).
-     (b) AVAILABILITY OF F UNDS .—Amounts appropriated for each fiscal year pursuant to subsection (a) shall remain available until expended.
+     (b) AVAILABILITY OF FUNDS .—Amounts appropriated for each fiscal year pursuant to subsection (a) shall remain available until expended.
  SEC. 404. RULEMAKING.
      (a) IN GENERAL .—The President is authorized to promulgate such rules and regulations as may be necessary to carry out the provisions of this Act (which may include regulatory exceptions), including under section 205 of the   International Emergency Economic Powers Act (50 U.S.C. 1704).
       (b) RULE OF  CONSTRUCTION  .—Nothing in this Act, or in any amendment made by this Act, may be construed to limit the authority of the President to designate or sanction persons pursuant to an applicable Executive order or otherwise pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).

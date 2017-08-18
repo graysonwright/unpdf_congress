@@ -12,10 +12,10 @@
 >     investments, and for other purposes.
      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
  SECTION 1. SHORT TITLE.
-     (a) SHORT T ITLE.—This Act may be cited as the ‘‘Modernization of Derivatives Tax Act of 2017’’.
-     (b) AMENDMENT OF   1986 C ODE.—Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+     (a) SHORT TITLE.—This Act may be cited as the ‘‘Modernization of Derivatives Tax Act of 2017’’.
+     (b) AMENDMENT OF   1986 CODE.—Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
  SEC. 2. MODERNIZATION OF TAX TREATMENT OF CERTAIN DERIVATIVES.
-     (a) IN  G ENERAL .—Subchapter E of chapter 1 is amended by adding at the end the following new part:
+     (a) IN  GENERAL .—Subchapter E of chapter 1 is amended by adding at the end the following new part:
    ‘‘PART IV—TAX TREATMENT OF DERIVATIVES AND SIMILAR CONTRACTS
 >     ‘‘Subpart B. Similar contracts
                 ‘‘Subpart A—Derivatives
@@ -23,10 +23,10 @@
 >     ‘‘Sec. 492. Investment hedging units.
 >     ‘‘Sec. 493. Derivative defined.
  ‘‘SEC. 491. RULES FOR TREATMENT OF DERIVATIVES.
-     ‘‘(a) IN G ENERAL  .—For purposes of this title, if there is a taxable event with respect to a derivative or an underlying investment—
+     ‘‘(a) IN GENERAL  .—For purposes of this title, if there is a taxable event with respect to a derivative or an underlying investment—
           ‘‘(1) notwithstanding any other provision of this title, except as provided in subsection (b)(3)(A) or section 1032, gain or loss shall be recognized and taken into account in the taxable year in which the taxable event occurs, and
           ‘‘(2) proper adjustment shall be made in the amount of any subsequent gain or loss for gain or loss taken into account by reason of paragraph (1).
-     ‘‘(b) RULES  RELATING TO  G AIN OR LOSS .—Notwithstanding any other provision of this title—
+     ‘‘(b) RULES  RELATING TO  GAIN OR LOSS .—Notwithstanding any other provision of this title—
           ‘‘(1) CHARACTER AND SOURCE OF GAIN OR LOSS .—
               ‘‘(A) CHARACTER  .—Except as provided in paragraph (3)(B), any item of income, deduction, gain, or loss taken into account under subsection (a) with respect to a taxable event shall be treated as—
                    ‘‘(i) ordinary income or loss, and
@@ -47,8 +47,8 @@
                    ‘‘(ii) notwithstanding paragraph (1), built-in gain (if any) with respect to the underlying investment shall be treated as long-term or short-term capital gain if the built-in gain would have been so treated if the investment were sold or exchanged at its fair market value immediately before the time the built-in gain is determined under subparagraph (D).
                ‘‘(B) IDENTIFICATION  .—For purposes of this paragraph, the determination of which portions of an underlying investment have been deemed sold or exchanged in a taxable event shall be made in the same manner as if there had been an actual sale or exchange.
                ‘‘(C) B UILTIN  LOSS .—For purposes of this section, the term ‘built-in loss’ means, with respect to any derivative or underlying investment in an investment hedging unit, any loss which would have been recognized and taken into account under subsection (a) if the derivative were terminated or transferred, or the underlying investment were sold or exchanged, at its fair market value as of the later of the time that the investment hedging unit was established or the time the derivative or the underlying investment became part of the investment hedging unit.
-               ‘‘(D) B UILT IN GAIN  .—For purposes of this section, the term ‘built-in gain’ means, with respect to any underlying investment in an investment hedging unit, any gain which would have been recognized and taken into account under subsection (a) if the underlying investment were sold or exchanged at its fair market value as of the later of the time that the investment hedging unit was established or the time the underlying investment became part of the investment hedging unit.
-     ‘‘(c) TAXABLE  E VENT .—For purposes of this part, the term ‘taxable event’ means—
+               ‘‘(D) BUILT IN GAIN  .—For purposes of this section, the term ‘built-in gain’ means, with respect to any underlying investment in an investment hedging unit, any gain which would have been recognized and taken into account under subsection (a) if the underlying investment were sold or exchanged at its fair market value as of the later of the time that the investment hedging unit was established or the time the underlying investment became part of the investment hedging unit.
+     ‘‘(c) TAXABLE  EVENT .—For purposes of this part, the term ‘taxable event’ means—
           ‘‘(1) with respect to any derivative which is not part of an investment hedging unit—
                ‘‘(A) the termination or transfer of such derivative, and
                ‘‘(B) the close of any taxable year if the taxpayer has rights or obligations with respect to such derivative at such time, and
@@ -61,15 +61,15 @@
                   ‘‘(i) an investment hedging unit with respect to which an election is in effect under section 492(b), the close of each business day, and
                   ‘‘(ii) any other investment hedging unit, the close of any taxable year if the applicable hedging period with respect to such unit includes such close.
           ‘‘(3) TERMINATION OR TRANSFER    .—For purposes of this part, the term ‘termination or transfer’ includes, with respect to any derivative, any termination or transfer by offsetting, by taking or making delivery, by exercise or being exercised, by assignment or being assigned, by lapse, by sale or other disposition, by assumption, or otherwise.
-     ‘‘(d) TREATMENT OF   P AYMENTS  W ITH RESPECT TO CERTAIN  DERIVATIVES .—Notwithstanding any other provision of this title—
+     ‘‘(d) TREATMENT OF   PAYMENTS  WITH RESPECT TO CERTAIN  DERIVATIVES .—Notwithstanding any other provision of this title—
           ‘‘(1)N GENERAL  .—Except as provided in regulations prescribed by the Secretary, in the case of a payment pursuant to a derivative (other than an option)—
               ‘‘(A) any item of income, deduction, gain, or loss with respect to the payment shall be taken into account for purposes of this title at the time of the payment, and
               ‘‘(B) proper adjustment shall be made in the amount of any subsequent gain or loss for items taken into account by reason of subparagraph (A). This paragraph shall not apply to a payment in connection with a taxable event.
          ‘‘(2) RULES RELATING TO CHARACTER AND SOURCE OF GAIN OR LOSS .—In the case of any item of income, deduction, gain, or loss with respect to payments described in paragraph (1)—
               ‘‘(A) the rules of subsection (b)(1)(A) shall apply in determining the character of such item, and
               ‘‘(B) except as provided in section 871(m), the rule of subsection (b)(1)(B) shall apply in determining the source of such item.
-     ‘‘(e) SUSPENSION OF  HOLDING  PERIOD  W HILE UNDERLYING  NVESTMENT   P ART OF H EDGING  UNIT.—For purposes of section 1222, in the case of any underlying investment which is part of an investment hedging unit, the holding period for such investment shall not include any period during which the underlying investment is part of such unit.
-     ‘‘(f) A PPLICABLE   F INANCIAL   STATEMENT  .—For purposes of this part, the term ‘applicable financial statement’ means—
+     ‘‘(e) SUSPENSION OF  HOLDING  PERIOD  WHILE UNDERLYING  NVESTMENT   PART OF HEDGING  UNIT.—For purposes of section 1222, in the case of any underlying investment which is part of an investment hedging unit, the holding period for such investment shall not include any period during which the underlying investment is part of such unit.
+     ‘‘(f) APPLICABLE   FINANCIAL   STATEMENT  .—For purposes of this part, the term ‘applicable financial statement’ means—
           ‘‘(1) a financial statement which is certified as being prepared in accordance with generally accepted accounting principles and which is—
                ‘‘(A) a 10-K (or successor form), or annual statement to shareholders, required to be filed by the taxpayer with the United States Securities and Exchange Commission,
                ‘‘(B) an audited financial statement of the taxpayer which is used for—
@@ -81,7 +81,7 @@
           ‘‘(3) a financial statement filed by the taxpayer with any other regulatory or governmental body specified by the Secretary, but only if there is no statement of the taxpayer described in paragraph
      (1) or (2).
  ‘‘SEC. 492. INVESTMENT HEDGING UNITS.
-     ‘‘(a) INVESTMENT   HEDGING  U NIT.—For purposes of this part—
+     ‘‘(a) INVESTMENT   HEDGING  UNIT.—For purposes of this part—
           ‘‘(1) N GENERAL .—Except as provided in subsection (b)—
               ‘‘(A) a taxpayer shall be treated as having an investment hedging unit with respect to an underlying investment during any applicable hedging period with respect to the underlying investment, and
                ‘‘(B) subject to paragraph (3), such investment hedging unit shall at any time during the applicable hedging period consist of the following held by the taxpayer at such time:
@@ -93,7 +93,7 @@
               ‘‘(B) ending with the time none of such derivatives and portions are so described.
           ‘‘(3) IMITATION ON COMBINATION OF DERIVATIVES IN DETERMINING DELTA     .—For purposes of paragraph (1)(B), the determination of which derivatives with respect to an underlying investment have a delta within the range described in paragraph
      (1)(B)(i), and the portion of the underlying investment with respect to which such derivatives have such delta, shall be made in the manner which results in the largest portion of such underlying investment being so described.
-     ‘‘(b) ELECTION  W ITH RESPECT TO  ITEMS INCLUDED ININVESTMENT   H EDGING U NIT.—
+     ‘‘(b) ELECTION  WITH RESPECT TO  ITEMS INCLUDED ININVESTMENT   HEDGING UNIT.—
           ‘‘(1)N GENERAL  .—A taxpayer may elect with respect to any underlying investment to treat for purposes of this part all derivatives with respect to such underlying investment, and all of such underlying investment, as part of an investment hedging unit.
           ‘‘(2) ELECTION .—Any election under this subsection with respect to an underlying investment—
                ‘‘(A) shall apply to all derivatives with respect to the underlying investment, and all of the underlying investment, held at any time after the election is made (including during any period such derivatives or underlying investment are not held simultaneously), and
@@ -102,11 +102,11 @@
                ‘‘(A) N GENERAL  .—If a taxpayer—
                    ‘‘(i) does not have an election in effect under paragraph (1) with respect to an underlying investment, and
                    ‘‘(ii) fails to meet the requirements of subsection (c) for testing and identifying derivatives with respect to the underlying investment, the taxpayer shall be treated as having made the election under paragraph (1).
-               ‘‘(B) T REATMENT    OF  ELECTION  .—For purposes of paragraph (2), a deemed election under this paragraph—
+               ‘‘(B) TREATMENT    OF  ELECTION  .—For purposes of paragraph (2), a deemed election under this paragraph—
                    ‘‘(i) shall be treated as made as of the first time the taxpayer fails to meet the requirements of subsection (c) with respect to the underlying investment, and
                   ‘‘(ii) notwithstanding paragraph
               (2)(B), may be revoked with the consent of the Secretary.
-     ‘‘(c) DEFINITIONS AND   RULES  R ELATING TO  TAXPAYERS IDENTIFYING  INVESTMENT   HEDGING  U NITS.—In the case of a taxpayer with respect to which an election is not in effect under subsection (b) with respect to an underlying investment—
+     ‘‘(c) DEFINITIONS AND   RULES  RELATING TO  TAXPAYERS IDENTIFYING  INVESTMENT   HEDGING  UNITS.—In the case of a taxpayer with respect to which an election is not in effect under subsection (b) with respect to an underlying investment—
           ‘‘(1)N GENERAL  .—The taxpayer shall, at the times described in paragraph (3), test the derivatives with respect to the underlying investment and make the identifications described in paragraph (2).
           ‘‘(2)IDENTIFICATION .—
               ‘‘(A) IN GENERAL  .—The taxpayer shall identify the following with respect to an underlying investment:
@@ -133,8 +133,8 @@
           ‘‘(3) TIME FOR MAKING DETERMINATION    .—The delta with respect to any derivative and underlying investment shall be determined as of any date the taxpayer is required to make the identifications described in subsection (c).
           ‘‘(4) MULTIPLE UNDERLYING INVESTMENTS     .—
               ‘‘(A) N GENERAL  .—Except as provided in subparagraph (B), if the value of a derivative is determined by reference to more than 1 underlying investment, the delta shall be determined separately with respect to each underlying investment.
-              ‘‘(B) M ETHODS FOR CERTAIN COMBINATIONS  OF  UNDERLYING   INVESTMENTS   .—The Secretary may by regulations provide methods for determining the delta of any derivative with respect to certain combinations of 2 or more underlying investments.
-     ‘‘(e) OTHER  D EFINITIONS AND   RULES .—For purposes of this part—
+              ‘‘(B) METHODS FOR CERTAIN COMBINATIONS  OF  UNDERLYING   INVESTMENTS   .—The Secretary may by regulations provide methods for determining the delta of any derivative with respect to certain combinations of 2 or more underlying investments.
+     ‘‘(e) OTHER  DEFINITIONS AND   RULES .—For purposes of this part—
           ‘‘(1) UNDERLYING INVESTMENT    .—
               ‘‘(A) N GENERAL   .—The term ‘underlying investment’ means, with respect to any derivative, any item—
                    ‘‘(i) which is described in any of the paragraphs (1) through (8) of section 493(a) (or any item substantially the same as any such item), and
@@ -144,8 +144,8 @@
                ‘‘(A) in the case of a taxpayer with an election in effect under subsection (b) with respect to the underlying investment, as of the date the election takes effect, and
                ‘‘(B) in the case of any other taxpayer, as of the beginning of each applicable hedging period with respect to the underlying investment.
           ‘‘(3) RELATED PARTIES  , ETC.—For purposes of this section—
-               ‘‘(A) A TTRIBUTION  BETWEEN    RELATED PERSONS  .—Any derivative or underlying investment held by a related party (within the meaning of subsection (f)) with respect to the taxpayer shall be treated as held by the taxpayer.
-               ‘‘(B) C  ERTAIN   FLOWTHROUGH     ENTITIES .—If part or all of the income, gain, loss, or expense with respect to a derivative or underlying investment held by a partnership, trust, or other entity would properly be taken into account for purposes of this chapter by the taxpayer, then, except to the extent otherwise provided in regulations, such derivative or investment shall be treated as held by the taxpayer.
+               ‘‘(A) ATTRIBUTION  BETWEEN    RELATED PERSONS  .—Any derivative or underlying investment held by a related party (within the meaning of subsection (f)) with respect to the taxpayer shall be treated as held by the taxpayer.
+               ‘‘(B) CERTAIN   FLOWTHROUGH     ENTITIES .—If part or all of the income, gain, loss, or expense with respect to a derivative or underlying investment held by a partnership, trust, or other entity would properly be taken into account for purposes of this chapter by the taxpayer, then, except to the extent otherwise provided in regulations, such derivative or investment shall be treated as held by the taxpayer.
      ‘‘(f) RELATED   PARTY .—For purposes of this section—
           ‘‘(1) N GENERAL  .—A person is a related party to the taxpayer if, with respect to any period during which a derivative or underlying investment is held by such person, such person—
                ‘‘(A) is the taxpayer’s spouse,
@@ -185,7 +185,7 @@
                    ‘‘(ii) OPTION   OF   CASH   SETTLEMENT .—For purposes of clause (i), a contract provides an option of cash settlement if the contract settles in (or could be settled in) cash or property other than the underlying real property.
           ‘‘(2) HEDGING TRANSACTIONS    .—
                ‘‘(A) IN GENERAL  .—For purposes of this part, the term ‘derivative’ shall not include any contract which is part of a hedging transaction (as defined in section 1221(b)).
-               ‘‘(B) S ECTION    988  HEDGING   TRANSACTIONS .—For exception for section 988 hedging transactions, see section 988(d)(1).
+               ‘‘(B) SECTION    988  HEDGING   TRANSACTIONS .—For exception for section 988 hedging transactions, see section 988(d)(1).
           ‘‘(3) SECURITIES LENDING   ,SALE-REPURCHASE  , AND SIMILAR FINANCING TRANSACTIONS       .—To the extent provided by the Secretary, for purposes of this part, the term ‘derivative’ shall not include the right to the return of the same or substantially identical securities transferred in a securities lending transaction, sale-repurchase transaction, or similar financing transaction.
           ‘‘(4) OPTIONS RECEIVED IN CONNECTION WITH THE PERFORMANCE OF SERVICES     .—For purposes of this part, the term ‘derivative’ shall not include any option described in section 83(e)(3) received in connection with the performance of services.
           ‘‘(5) INSURANCE CONTRACTS     ,ANNUITIES  ,AND ENDOWMENTS   .—For purposes of this part, the term ‘derivative’ shall not include any insurance, annuity, or endowment contract issued by an insurance company to which subchapter L applies (or issued by any foreign corporation to which such subchapter would apply if such foreign corporation were a domestic corporation).
@@ -193,12 +193,12 @@
           ‘‘(7) COMMODITIES USED IN NORMAL COURSE OF TRADE OR BUSINESS   .—For purposes of this part, the term ‘derivative’ shall not include any contract with respect to any commodity if—
                ‘‘(A) such contract requires physical delivery with the option of cash settlement only in unusual and exceptional circumstances, and
                ‘‘(B) such commodity is used (and is used in quantities with respect to which such derivative relates) in the normal course of the taxpayer’s trade or business (or, in the case of an individual, for personal consumption).
-     ‘‘(c) CONTRACTS  W ITH  E MBEDDED   D ERIVATIVE COMPONENTS  .—
+     ‘‘(c) CONTRACTS  WITH  EMBEDDED   DERIVATIVE COMPONENTS  .—
          ‘‘(1) N GENERAL .—If a contract has derivative and nonderivative components, then each derivative component shall be treated as a derivative for purposes of this part. If the derivative component cannot be separately valued, then the entire contract shall be treated as a derivative for purposes of this part.
          ‘‘(2) EXCEPTION FOR CERTAIN EMBEDDED DERIVATIVE COMPONENTS OF DEBT INSTRUMENTS    .—A debt instrument shall not be treated as having a derivative component merely because—
               ‘‘(A) such debt instrument is denominated in a nonfunctional currency (as defined in section 988(c)(1)(C)(ii)), or
               ‘‘(B) payments with respect to such debt instrument are determined by reference to the value of a nonfunctional currency (as so defined).
-     ‘‘(d) TREATMENT OF    AMERICAN  D EPOSITORY  RECEIPTS AND  SIMILAR INSTRUMENTS  .—Except as otherwise provided by the Secretary, for purposes of this part, American depository receipts (and similar instruments) with respect to shares of stock in foreign corporations shall be treated as shares of stock in such foreign corporations. ‘‘Subpart B—Similar Contracts
+     ‘‘(d) TREATMENT OF    AMERICAN  DEPOSITORY  RECEIPTS AND  SIMILAR INSTRUMENTS  .—Except as otherwise provided by the Secretary, for purposes of this part, American depository receipts (and similar instruments) with respect to shares of stock in foreign corporations shall be treated as shares of stock in such foreign corporations. ‘‘Subpart B—Similar Contracts
 >     ‘‘Sec. 494. Tax treatment of contracts similar to derivatives.
  ‘‘SEC. 494. TAX TREATMENT OF CONTRACTS SIMILAR TO DERIVATIVES.
       ‘‘(a) N  GENERAL  .—For purposes of this title, if there is a taxable transaction with respect to any applicable property interest, then, notwithstanding any other provision of this title other than section 1032, gain or loss attributable to the taxable transaction shall be considered gain or loss from the sale or exchange of property which has the same character as the property to which the applicable property interest relates has (or would have) in the hands of the taxpayer.
@@ -210,15 +210,15 @@
               ‘‘(A) any termination or transfer (as defined in section 491(c)(3)) of such interest, or
               ‘‘(B) any payment in fulfillment or partial fulfillment of such interest.’’.
  SEC. 3. COORDINATION OF NEW RULES WITH EXISTING RULES.
-     (a) COORDINATION  W ITH RULES FOR  D EALERS AND TRADERS .—
-         (1) D ERIVATIVES NOT TREATED AS SECURITIES.—Section 475(c)(2) is amended—
+     (a) COORDINATION  WITH RULES FOR  DEALERS AND TRADERS .—
+         (1) DERIVATIVES NOT TREATED AS SECURITIES.—Section 475(c)(2) is amended—
               (A) by adding ‘‘and’’ at the end of subparagraph (C),
               (B) by striking subparagraphs (D) and (E) and by redesignating subparagraph (F) as subparagraph (D),
               (C) by striking ‘‘subparagraph (A), (B),
          (C), (D), or (E)’’ in subparagraph (D)(i), as so redesignated, and inserting ‘‘subparagraph (A),
          (B), or (C)’’, and
                (D) by amending the last sentence to read as follows: ‘‘Such term shall not include any derivative to which section 491(a) applies.’’
-          (2) D ERIVATIVES NOT TREATED AS COMMODITIES.—Section 475(e)(2) is amended—
+          (2) DERIVATIVES NOT TREATED AS COMMODITIES.—Section 475(e)(2) is amended—
                (A) by adding ‘‘and’’ at the end of subparagraph (A),
                (B) by striking subparagraphs (B) and (C) and by redesignating subparagraph (D) as subparagraph (B), and
                (C) by striking ‘‘subparagraph (A), (B) or
@@ -234,7 +234,7 @@
      (b) COORDINATION  W ITHS TRADDLE  RULES .—
          (1) IN GENERAL .—Section 1092 is amended to read as follows:
  ‘‘SEC. 1092. STRADDLES.
-     ‘‘(a) RECOGNITION OF  L OSS IN  CASE OF  STRADDLES, ETC.—
+     ‘‘(a) RECOGNITION OF  LOSS IN  CASE OF  STRADDLES, ETC.—
          ‘‘(1) LIMITATION ON RECOGNITION OF LOSS  .—
               ‘‘(A) N GENERAL .—Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
               ‘‘(B) CARRYOVER   OF  LOSS .—Any loss which may not be taken into account under subparagraph (A) for any taxable year shall, subject to the limitations under subparagraph
@@ -243,7 +243,7 @@
               ‘‘(A) N GENERAL  .—The term ‘unrecognized gain’ means—
                    ‘‘(i) in the case of any position held by the taxpayer as of the close of the taxable year, the amount of gain which would be taken into account with respect to such position if such position were sold on the last business day of such taxable year at its fair market value, and
                    ‘‘(ii) in the case of any position with respect to which, as of the close of the taxable year, gain has been realized but not recognized, the amount of gain so realized.
-               ‘‘(B) R EPORTING   OF  GAIN .—Each taxpayer shall disclose to the Secretary, at such time and in such manner and form as the Secretary may prescribe by regulations—
+               ‘‘(B) REPORTING   OF  GAIN .—Each taxpayer shall disclose to the Secretary, at such time and in such manner and form as the Secretary may prescribe by regulations—
                    ‘‘(i) each position (whether or not part of a straddle) with respect to which, as of the close of the taxable year, there is unrecognized gain, and
                    ‘‘(ii) the amount of such unrecognized gain. The Secretary may waive the requirement to report under this subparagraph with respect to any position if such reporting is not required to carry out the purposes of this section.
           ‘‘(3) SPECIAL RULES FOR PHYSICALLY SETTLED POSITIONS  .—For purposes of this subsection, if a taxpayer settles a position which is part of a straddle by delivering property to which the position relates (and such position, if terminated, would result in a realization of a loss), then such taxpayer shall be treated as if such taxpayer—
@@ -251,17 +251,17 @@
                ‘‘(B) sold the property so delivered by the taxpayer at its fair market value.
      ‘‘(b) REGULATIONS  .—The Secretary shall prescribe such regulations with respect to gain or loss on positions which are a part of a straddle as may be appropriate to carry out the purposes of this section and section 263(g). To the extent consistent with such purposes, such regulations shall include rules applying the principles of subsections (a) and (d) of section 1091 and of subsections
 (b) and (d) of section 1233 (as in effect before their repeal).
-     ‘‘(c) DEFINITIONS AND  RULES  R ELATING TO  STRADDLES .—For purposes of this section—
+     ‘‘(c) DEFINITIONS AND  RULES  RELATING TO  STRADDLES .—For purposes of this section—
           ‘‘(1) STRADDLE DEFINED   .—The term ‘straddle’ means offsetting positions with respect to applicable property.
-          ‘‘(2) O FFSETTING   POSITIONS .—A taxpayer holds offsetting positions with respect to applicable property if the taxpayer holds any position which by itself, or in combination with 1 or more other positions held by the taxpayer, has a delta with respect to any other position held by the taxpayer which is within the range beginning with minus 0.7 and ending with minus 1.0. For purposes of this paragraph, positions shall be taken into account whether or not they are in the same applicable property.
+          ‘‘(2) OFFSETTING   POSITIONS .—A taxpayer holds offsetting positions with respect to applicable property if the taxpayer holds any position which by itself, or in combination with 1 or more other positions held by the taxpayer, has a delta with respect to any other position held by the taxpayer which is within the range beginning with minus 0.7 and ending with minus 1.0. For purposes of this paragraph, positions shall be taken into account whether or not they are in the same applicable property.
           ‘‘(3) DELTA .—
-              ‘‘(A) I N  GENERAL  .—The term ‘delta’ means, with respect to any positions in applicable property, the ratio of the expected change in the fair market value of 1 position to any change in the fair market value of another position.
-              ‘‘(B) M ETHOD OF DETERMINATION     .—The delta with respect to any position in applicable property with respect to another position in applicable property (or any combination of such positions) shall be determined—
+              ‘‘(A) IN  GENERAL  .—The term ‘delta’ means, with respect to any positions in applicable property, the ratio of the expected change in the fair market value of 1 position to any change in the fair market value of another position.
+              ‘‘(B) METHOD OF DETERMINATION     .—The delta with respect to any position in applicable property with respect to another position in applicable property (or any combination of such positions) shall be determined—
                    ‘‘(i) in a commercially reasonable manner, and
                    ‘‘(ii) except as provided by the Secretary, in a manner which is consistent with the manner used by the taxpayer or the taxpayer’s broker for purposes of an applicable financial statement.
-              ‘‘(C) T IMING OF DELTA DETERMINATION AND OTHER SPECIAL RULES    .—Rules similar to the rules of paragraphs (3) and (4) of section 492(d) shall apply for purposes of this paragraph.
+              ‘‘(C) TIMING OF DELTA DETERMINATION AND OTHER SPECIAL RULES    .—Rules similar to the rules of paragraphs (3) and (4) of section 492(d) shall apply for purposes of this paragraph.
           ‘‘(4) APPLICABLE PROPERTY AND POSITION DEFINED .—
-              ‘‘(A) A PPLICABLE PROPERTY   .—The term ‘applicable property’ means any item which is—
+              ‘‘(A) APPLICABLE PROPERTY   .—The term ‘applicable property’ means any item which is—
                    ‘‘(i) described in paragraph (1), (2),
               (3), (5), (6), (7), or (8) of section 493(a) (or any item substantially the same as any such item), and
                    ‘‘(ii) of a type which is actively traded.
@@ -270,23 +270,23 @@
                    ‘‘(ii) DERIVATIVES EXCLUDED   .—Such term shall not include a derivative (as defined in section 493).
           ‘‘(5) POSITIONS HELD BY RELATED PERSONS      , ETC .—
                ‘‘(A) N GENERAL  .—In determining whether 2 or more positions are offsetting, the taxpayer shall be treated as holding any position held by a related party (within the meaning of section 492(f)).
-               ‘‘(B) C ERTAIN    FLOWTHROUGH     ENTITIES.—If part or all of the gain or loss with respect to a position held by a partnership, trust, or other entity would properly be taken into account for purposes of this chapter by a taxpayer, then, except to the extent otherwise provided in regulations, such position shall be treated as held by the taxpayer.
-          ‘‘(6) S PECIAL  RULES   FOR  FOREIGN   CURRENCY  .—
+               ‘‘(B) CERTAIN    FLOWTHROUGH     ENTITIES.—If part or all of the gain or loss with respect to a position held by a partnership, trust, or other entity would properly be taken into account for purposes of this chapter by a taxpayer, then, except to the extent otherwise provided in regulations, such position shall be treated as held by the taxpayer.
+          ‘‘(6) SPECIAL  RULES   FOR  FOREIGN   CURRENCY  .—
                ‘‘(A) POSITION TO INCLUDE INTEREST IN CERTAIN DEBT   .—For purposes of paragraph
           (4)(B)(i), an obligor’s interest in a nonfunctional currency denominated debt obligation is treated as a position in the nonfunctional currency.
               ‘‘(B) ACTIVELY TRADED REQUIREMENT    .— For purposes of paragraph (4)(A)(ii), foreign currency for which there is an active interbank market is presumed to be actively traded.
-     ‘‘(d) EXCEPTION FOR   HEDGING  T RANSACTIONS AND INVESTMENT   H EDGING  UNITS .—This section shall not apply in the case of—
+     ‘‘(d) EXCEPTION FOR   HEDGING  TRANSACTIONS AND INVESTMENT   HEDGING  UNITS .—This section shall not apply in the case of—
           ‘‘(1) any hedging transaction (as defined in section 1221(b)), and
           ‘‘(2) any investment hedging unit (as defined in section 492).
-     ‘‘(e) ROSS  R EFERENCE .—For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).’’.
+     ‘‘(e) ROSS  REFERENCE .—For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).’’.
           (2) CONFORMING AMENDMENTS     .—The last sentence of section 246(c)(4) is amended—
               (A) by inserting ‘‘(as in effect before its repeal)’’ after ‘‘section 1092(c)(4)’’, and
               (B) by inserting ‘‘(as so in effect)’’ after ‘‘section 1092(f)’’.
-     (c) DEBT  INSTRUMENTS   H ELD BY INSURANCE   COMPANIES .—
+     (c) DEBT  INSTRUMENTS   HELD BY INSURANCE   COMPANIES .—
           (1) IN GENERAL   .—Subsection (a) of section 1221 is amended by striking ‘‘or’’ at the end of paragraph (7), by striking the period at the end of paragraph (8) and inserting ‘‘; or’’, and by adding at the end the following:
           ‘‘(9) any bond, debenture, note, or certificate or other evidence of indebtedness held by an applicable insurance company (as defined in subsection
      (b)(5)).’’.
-          (2) A PPLICABLE INSURANCE COMPANY     .—Section 1221(b), as amended by this Act, is amended by adding at the end the following:
+          (2) APPLICABLE INSURANCE COMPANY     .—Section 1221(b), as amended by this Act, is amended by adding at the end the following:
           ‘‘(5) APPLICABLE INSURANCE COMPANY     .—For purposes of subsection (a)(9)—
               ‘‘(A) IN GENERAL  .—The term ‘applicable insurance company’ means, with respect to any taxable year, an insurance company (as defined in the last sentence of section 816(a))—
                    ‘‘(i) which is subject to tax under section 801(a)(1) or section 831(a),
@@ -294,24 +294,24 @@
                    ‘‘(iii) which is not treated as a stock insurance company solely by reason of section 833(a)(1).
                ‘‘(B) PERMANENT TREATMENT BY COMPANY AS ORDINARY ASSET      .—If an asset is treated as an asset described in subsection (a)
           (9) with respect to any applicable insurance company for any taxable year, such asset shall be treated as so described during any subsequent taxable year such asset is held by such company.’’.
-          (3) R EGULATIONS  .—Paragraph (4) of section 1221(b) is amended—
+          (3) REGULATIONS  .—Paragraph (4) of section 1221(b) is amended—
                (A) by striking ‘‘The Secretary’’ and inserting:
                ‘‘(A) ELATED PARTIES   .—The Secretary’’, and
                (B) by adding at the end the following:
-               ‘‘(B) A SSETS  OF   INSURANCE   COMPANIES.—The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subsection (a)(9), including such regulations as may be necessary to prevent the avoidance of Federal income tax through the sale or exchange of assets described in such subsection.’’.
+               ‘‘(B) ASSETS  OF   INSURANCE   COMPANIES.—The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subsection (a)(9), including such regulations as may be necessary to prevent the avoidance of Federal income tax through the sale or exchange of assets described in such subsection.’’.
           (4) EFFECTIVE DATE  .—
               (A) IN GENERAL  .—The amendments made by this subsection shall apply to any bond, debenture, note, or certificate or other evidence of indebtedness held or acquired after the 90-day period beginning with the date of the enactment of this Act.
-              (B) T RANSITION RULE  .—If a taxpayer has a capital loss carryover to any taxable year of the taxpayer beginning after the close of the 90-day period described in subparagraph (A), the taxpayer shall, in addition to other short-term capital gain of the taxpayer (if any), treat as short-term capital gain (rather than as ordinary income) an amount equal to the lesser of—
+              (B) TRANSITION RULE  .—If a taxpayer has a capital loss carryover to any taxable year of the taxpayer beginning after the close of the 90-day period described in subparagraph (A), the taxpayer shall, in addition to other short-term capital gain of the taxpayer (if any), treat as short-term capital gain (rather than as ordinary income) an amount equal to the lesser of—
                    (i) the net gain (if any) from sales or exchanges during such taxable year of assets to which section 1221(a)(9) of such Code (as added by paragraph (1)) applies, or
                   (ii) the capital loss carryovers to such taxable year from taxable years beginning before the close of such period.
-     (d) RICS A LLOWED  N ET OPERATING  L OSS DEDUCTION.—
+     (d) RICS ALLOWED  NET OPERATING  LOSS DEDUCTION.—
          (1) IN GENERAL   .—Paragraph (2) of section 852(b) is amended by striking subparagraph (B) and by redesignating subparagraphs (C) through (G) as subparagraphs (B) through (F), respectively.
          (2) RESTRICTION ON CARRYBACK OF LOSSES   .— Subparagraph (B) of section 172(b)(1) is amended—
               (A) by striking ‘‘REIT’’ each place it appears in the text and inserting ‘‘RIC or REIT’’,
               (B) by striking ‘‘part II of subchapter M (relating to real estate investment trusts)’’ in clause (iii) and inserting ‘‘part I or II of subchapter M’’,
               (C) by striking ‘‘‘REIT’’S’’ in the heading for such subparagraph and inserting ‘‘‘RIC’’s or REIT’s’’, and
               (D) by striking ‘‘REIT’’ in the heading for clause (iii) and inserting ‘‘RIC or REIT’’.
-         (3) O THER MODIFICATIONS .—Paragraph (6) of section 172(d) is amended to read follows:
+         (3) OTHER MODIFICATIONS .—Paragraph (6) of section 172(d) is amended to read follows:
           ‘‘(6) MODIFICATIONS RELATED TO RICS AND REITS .—In the case of any taxable year for which part I or II of subchapter M applies to the taxpayer—
               ‘‘(A) the net operating loss for such taxable year shall be computed by taking into account—
                    ‘‘(i) in the case of a regulated investment company, the adjustments described in section 852(b)(2) (other than the deduction for dividends paid described in subparagraph (C) thereof)), and
@@ -323,21 +323,21 @@
              (A) Section 852(a)(1)(A) is amended by striking ‘‘subsection (b)(2)(D)’’ and inserting ‘‘subsection (b)(2)(C)’’.
              (B) Section 4982(e)(1)(A) is amended by striking ‘‘and (D)’’ and inserting ‘‘and (C)’’.
          (5) EFFECTIVE DATE .—The amendments made by this subsection shall apply to net operating losses for taxable years ending after the 90th day after the date of the enactment of this Act.
-     (e) NONRECOGNITION OF    GAIN OR   LOSS  FROM TRANSACTIONS BY A  C ORPORATION  W ITH RESPECT TO TS STOCK .—
+     (e) NONRECOGNITION OF    GAIN OR   LOSS  FROM TRANSACTIONS BY A  CORPORATION  WITH RESPECT TO TS STOCK .—
          (1) N GENERAL  .—Section 1032 is amended to read as follows:
  ‘‘SEC. 1032. TRANSACTIONS BY A CORPORATION WITH RESPECT TO ITS STOCK.
-     ‘‘(a) NONRECOGNITION ON    EXCHANGE OF   S TOCK FOR PROPERTY .—No gain or loss shall be recognized to a corporation on the receipt of money or other property in exchange for stock of such corporation.
-     ‘‘(b) DERIVATIVE T RANSACTIONS BY A  CORPORATION W ITH RESPECT TO  TS STOCK .—
+     ‘‘(a) NONRECOGNITION ON    EXCHANGE OF   STOCK FOR PROPERTY .—No gain or loss shall be recognized to a corporation on the receipt of money or other property in exchange for stock of such corporation.
+     ‘‘(b) DERIVATIVE TRANSACTIONS BY A  CORPORATION WITH RESPECT TO  TS STOCK .—
           ‘‘(1) N GENERAL  .—Except as otherwise provided in this subsection, section 1032 derivative items of a corporation shall not be taken into account in determining such corporation’s liability for tax under this subtitle.
           ‘‘(2)INCOME RECOGNITION ON CERTAIN FORWARD CONTRACTS   .—
               ‘‘(A) N GENERAL .—If—
                   ‘‘(i) a corporation acquires its stock, and
                   ‘‘(ii) such acquisition is part of a plan (or series of related transactions) pursuant to which the corporation enters into a forward contract with respect to its stock, such corporation shall include amounts in income as if the excess of the amount to be received under the forward contract over the fair market value of the stock as of the date the corporation entered into the forward contract were original issue discount on a debt instrument acquired on such date. The preceding sentence shall apply only to the extent that the amount of stock involved in the forward contract does not exceed the amount acquired as described in clause (i).
-               ‘‘(B) P LAN PRESUMED TO EXIST      .—If a corporation enters into a forward contract with respect to its stock within the 60-day period beginning on the date which is 30 days before the date that the corporation acquires its stock, such acquisition shall be treated as pursuant to a plan described in subparagraph (A)(ii) unless it is established that entering into such contract and such acquisition are not pursuant to a plan or series of related transactions.
-      ‘‘(c) SECTION  1032 D  ERIVATIVE  ITEMS .—For purposes of this section, the term ‘section 1032 derivative item’ means, with respect to any corporation, any item of income, gain, loss, or deduction if—
+               ‘‘(B) PLAN PRESUMED TO EXIST      .—If a corporation enters into a forward contract with respect to its stock within the 60-day period beginning on the date which is 30 days before the date that the corporation acquires its stock, such acquisition shall be treated as pursuant to a plan described in subparagraph (A)(ii) unless it is established that entering into such contract and such acquisition are not pursuant to a plan or series of related transactions.
+      ‘‘(c) SECTION  1032 DERIVATIVE  ITEMS .—For purposes of this section, the term ‘section 1032 derivative item’ means, with respect to any corporation, any item of income, gain, loss, or deduction if—
           ‘‘(1) such item arises out of the rights or obligations under any derivative (as defined in section 493) to the extent such derivative relates to the corporation’s stock (or is attributable to any transfer or extinguishment of any such right or obligation), or
           ‘‘(2) such item arises under any other contract or position but only to the extent that such item reflects (or is determined by reference to) changes in the value of such stock or distributions thereon. Such term shall not include any deduction with respect to which section 83(h) applies and shall not include any deduction for any item which is in the nature of compensation for services rendered. For purposes of this subparagraph, de minimis relationships, as determined by the Secretary, shall be disregarded.
-     ‘‘(d) COORDINATION  W ITH D ERIVATIVE AND  S TRADDLE R ULES .—In the case of a derivative or other contract or position described in subsection (c) which is held by a corporation with respect to its stock—
+     ‘‘(d) COORDINATION  WITH DERIVATIVE AND  STRADDLE RULES .—In the case of a derivative or other contract or position described in subsection (c) which is held by a corporation with respect to its stock—
           ‘‘(1) this section (rather than part IV of subchapter E or section 1092) shall apply in determining the treatment of section 1032 derivative items under this subtitle, and
           ‘‘(2) such derivative or other contract or position shall not be taken into account in determining whether the corporation has an investment hedging unit, applicable property interest, or straddle with respect to its stock for purposes of such part or section.
      ‘‘(e) REGULATIONS  .—The Secretary shall prescribe such regulations or other guidance as may be appropriate to carry out the purposes of this section, including regulations or other guidance which treat the portion of an instrument which is described in subsection (c)(1) separately from the portion of such instrument which is not so described.
@@ -346,19 +346,19 @@
 >     ‘‘Sec. 1032.Transactions by a corporation with respect to its stock.’’.
          (3) EFFECTIVE DATE  .—The amendments made by this subsection shall apply to transactions entered into after the date of the enactment of this Act.
  SEC. 4. TECHNICAL AND CONFORMING AMENDMENTS.
-     (a) R EPEAL  OF  C ERTAIN  O THER  SUPERCEDED RULES   FOR   D ETERMINING   C APITAL   GAINS  AND LOSSES.—
+     (a) REPEAL  OF  CERTAIN  OTHER  SUPERCEDED RULES   FOR   DETERMINING   CAPITAL   GAINS  AND LOSSES.—
          (1) IN GENERAL .—Part IV of subchapter P of chapter 1 is amended by striking sections 1233, 1234, 1234A, 1234B, 1236, 1256, 1258, 1259, and 1260 (and by striking the items relating to such sections in the table of sections for such part).
-          (2) C ONFORMING AMENDMENTS RELATED TO REPEAL OF SECTION 1234    .—Section 6045(h)(2) is amended—
+          (2) CONFORMING AMENDMENTS RELATED TO REPEAL OF SECTION 1234    .—Section 6045(h)(2) is amended—
               (A) by striking ‘‘(as defined in section 1234(b)(2)(A)’’, and
               (B) by adding at the end the following: ‘‘For purposes of the preceding sentence, the term ‘closing transaction’ means any termination of the taxpayer’s obligation under an option in property other than through the exercise or lapse of the option.’’.
-          (3) C ONFORMING AMENDMENTS RELATED TO REPEAL OF SECTION 1236  .—
+          (3) CONFORMING AMENDMENTS RELATED TO REPEAL OF SECTION 1236  .—
               (A) Section 475(d)(3)(A) is amended by striking ‘‘or section 1236(b)’’.
               (B) Section 512(b)(5) is amended by striking ‘‘section 1236(c)’’ and inserting ‘‘section 1058(c)’’.
               (C) Section 1058 is amended—
                    (i) by striking ‘‘(as defined in section 1236(c))’’ in subsection (a), and
                    (ii) by redesignating subsection (c) as subsection (d) and by inserting after subsection (b) the following new subsection:
       ‘‘(c) SECURITIES .—For purposes of this section, the term ‘security’ means any share of stock in any corporation, certificate of stock or interest in any corporation, note, bond, debenture, or evidence of indebtedness, or any evidence of an interest in or right to subscribe to or purchase any of the foregoing.’’.
-          (4) C ONFORMING AMENDMENTS RELATED TO REPEAL OF SECTION 1256  .—
+          (4) CONFORMING AMENDMENTS RELATED TO REPEAL OF SECTION 1256  .—
                (A)(i) Section 461(i)(3)(B) is amended to read as follows:
                ‘‘(B) any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of subsection (k)(4)), and’’.
                    (ii) Section 461 is amended—
@@ -382,7 +382,7 @@
               (A) by striking ‘‘or 1256’’ and inserting ‘‘or 491’’, and
               (B) by striking ‘‘1092, and 1256’’ and inserting ‘‘491, and 1092’’.
          (5) Section 1091(e) is amended to read as follows:
-     ‘‘(e) COORDINATION   W ITH M ARK TO   MARKET OF DERIVATIVES  AND   U NDERLYING   INVESTMENTS  .—For purposes of this section, the term ‘stock or securities’ shall not include—
+     ‘‘(e) COORDINATION   WITH MARK TO   MARKET OF DERIVATIVES  AND   UNDERLYING   INVESTMENTS  .—For purposes of this section, the term ‘stock or securities’ shall not include—
          ‘‘(1) any derivative (as defined in section 493), or
          ‘‘(2) any underlying investment (as defined in section 492(e)(1)) which, at the time of the sale or other disposition, is part of an investment hedging unit (as defined in section 492).’’.
           (6)(A) Section 1221(a)(6) is amended to read as follows:

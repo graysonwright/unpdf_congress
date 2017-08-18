@@ -56,6 +56,7 @@ module Processors
       "LOOD" => "FLOOD",
       "NG" => "IN G",
       "NTRA" => "INTRA",
+      "O" => "NO",
       "OCAL" => "LOCAL",
       "ONG" => "LONG",
       "ONGSHORE" => "LONGSHORE",
@@ -104,8 +105,10 @@ module Processors
     private
 
     def valid?(word)
-      speller.correct?(word) ||
+      !CORRECTIONS.keys.include?(word) && (
+        speller.correct?(word) ||
         ALLOWED_NONENGLISH_WORDS.include?(word)
+      )
     end
 
     def parse_section(line)

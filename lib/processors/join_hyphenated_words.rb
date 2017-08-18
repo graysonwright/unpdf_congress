@@ -14,6 +14,7 @@ module Processors
       'Epidemiology-Laboratory Capacity Grants',
       'Health Care-Aquired',
       '\d+-day',
+      '\d+-month',
       '\d+-point',
       '\d+-year',
       '\w+-assisted',
@@ -26,11 +27,14 @@ module Processors
       '\w+-exempt',
       '\w+-for-\w+',
       '\w+-linked',
+      '\w+-managed',
+      '\w+-neutral',
       '\w+-of-\w+',
       '\w+-participating',
       '\w+-related',
       '\w+-run',
       '\w+-sharing',
+      '\w+-shortage',
       '\w+-specific',
       '\w+-sponsored',
       '\w+-star',
@@ -42,10 +46,13 @@ module Processors
       'child-sex offenders',
       'co-locat\w+', # stem of co-locate
       'co-pay', # can't use `co-`, it's too common
+      'co-chairperson', # can't use `co-`, it's too common
+      'decision-making',
       'high-\w+',
       'in-office', # can't use `in-`; it's too common in non-hyphenated words
       'long-\w+',
       'low-\w+',
+      'multi-\w+',
       'non-\w+',
       'nurse-midwife',
       'phase-in',
@@ -54,6 +61,7 @@ module Processors
       'same-sex',
       'self-\w+',
       'short-term',
+      'single-\w+',
       'third-party',
     ].freeze
 

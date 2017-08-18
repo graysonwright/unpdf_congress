@@ -18,4 +18,13 @@ describe Processors::CompleteFirstWords do
       (b) PURPOSES
     DOC
   end
+
+  it "looks up words from the known corrections list" do
+    expect(Processors::CompleteFirstWords.process(<<-DOC)).
+      (c) O N EGATIVE  INFERENCE
+    DOC
+    to eq(<<-DOC)
+      (c) NO N EGATIVE  INFERENCE
+    DOC
+  end
 end
