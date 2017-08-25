@@ -26,4 +26,13 @@ describe Processors::RegroupMisplacedCharacters do
       >    Mr. YDEN introduced the following bill;
     DOC
   end
+
+  it "handles multiple regroupings in a row" do
+    expect(Processors::RegroupMisplacedCharacters.process(<<-DOC)).
+      (c) EXTENSION OF PRESCRIPTION DRUG  DISCOUNTS TO ENROLLEES OF  M EDICAIDM ANAGED  CARE O RGANIZATIONS.—
+    DOC
+    to eq(<<-DOC)
+      (c) EXTENSION OF PRESCRIPTION DRUG DISCOUNTS TO ENROLLEES OF MEDICAID MANAGED CARE ORGANIZATIONS.—
+    DOC
+  end
 end
