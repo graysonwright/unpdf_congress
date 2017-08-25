@@ -146,7 +146,7 @@ module Processors
     end
 
     def debug(string = nil)
-      puts string
+      # puts string
     end
 
     def debug_line(line_number, heading, prefix, contents, suffix, color)

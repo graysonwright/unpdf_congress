@@ -68,6 +68,7 @@ module Processors
       "OTION" => "MOTION",
       "OWERS" => "POWERS",
       "RAL" => "ORAL",
+      "RANTS" => "GRANTS",
       "THER" => "OTHER",
       "UALITY" => "QUALITY",
       "ULE" => "RULE",

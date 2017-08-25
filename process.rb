@@ -2,8 +2,9 @@ require "pdf-reader"
 require "ruby-progressbar"
 
 require_relative "lib/processors/complete_first_words"
-require_relative "lib/processors/join_hyphenated_words.rb"
-require_relative "lib/processors/join_orphaned_characters.rb"
+require_relative "lib/processors/join_hyphenated_words"
+require_relative "lib/processors/join_orphaned_characters"
+require_relative "lib/processors/regroup_misplaced_characters"
 require_relative "lib/processors/remove_blank_lines"
 require_relative "lib/processors/remove_headers"
 require_relative "lib/processors/remove_line_numbers"
@@ -39,6 +40,7 @@ input_files.each do |input_file|
   output = Processors::SeparateSections.process(output)
   output = Processors::JoinHyphenatedWords.process(output)
   output = Processors::JoinOrphanedCharacters.process(output)
+  output = Processors::RegroupMisplacedCharacters.process(output)
   output = Processors::CompleteFirstWords.process(output)
   output = Processors::JoinHyphenatedWords.process(output)
 
