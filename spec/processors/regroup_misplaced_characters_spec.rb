@@ -32,7 +32,16 @@ describe Processors::RegroupMisplacedCharacters do
       (c) EXTENSION OF PRESCRIPTION DRUG  DISCOUNTS TO ENROLLEES OF  M EDICAIDM ANAGED  CARE O RGANIZATIONS.—
     DOC
     to eq(<<-DOC)
-      (c) EXTENSION OF PRESCRIPTION DRUG DISCOUNTS TO ENROLLEES OF MEDICAID MANAGED CARE ORGANIZATIONS.—
+      (c) EXTENSION OF PRESCRIPTION DRUG DISCOUNTS TO ENROLLEES OF M EDICAID MANAGED CARE O RGANIZATIONS.—
+    DOC
+  end
+
+  it "recognizes and preserves special words (e.g., 'et')" do
+    expect(Processors::RegroupMisplacedCharacters.process(<<-DOC)).
+      The Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb et seq.)
+    DOC
+    to eq(<<-DOC)
+      The Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb et seq.)
     DOC
   end
 end

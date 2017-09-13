@@ -4,7 +4,9 @@ require "ffi/aspell"
 module Processors
   class RegroupMisplacedCharacters < Base
     NONRECOGNIZED_WORDS = []
-    RECOGNIZED_WORDS = []
+    RECOGNIZED_WORDS = [
+      "et",
+    ]
 
     def processed_text
       lines = text.lines
@@ -32,7 +34,7 @@ module Processors
             new_first_word = word[0...-1]
             new_next_word = first_word_last_letter + next_word
 
-            if valid?(new_first_word) && valid?(new_next_word)
+            if valid?(new_next_word)
               debug "found words to regroup: `#{word} #{next_word}` => `#{new_first_word} #{new_next_word}`"
               processed_words << new_first_word
               words[word_index + 1] = new_next_word

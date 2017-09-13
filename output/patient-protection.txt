@@ -19,7 +19,7 @@
 >        Subtitle A—Immediate Improvements in Health Care Coverage for All
 >                                 Americans
 >    Sec. 1001. Amendments to the Public Health Service Act.
->              ‘‘PART A—INDIVIDUAL AND GROUP MARKET REFORMS
+>              ‘‘PART A— INDIVIDUAL AND GROUP MARKET REFORMS
 >                       ‘SUBPART I— IMPROVING COVERAGE
 >        ‘‘Sec. 2711. No lifetime or annual limits.
 >        ‘‘Sec. 2712. Prohibition on rescissions.
@@ -42,7 +42,7 @@
 >    Sec. 1104. Administrative simplification.
 >    Sec. 1105. Effective date.
 >          Subtitle C—Quality Health Insurance Coverage for All Americans
->                 PART I—HEALTH INSURANCE MARKET REFORMS
+>                 PART I— HEALTH INSURANCE MARKET REFORMS
 >    Sec. 1201. Amendment to the Public Health Service Act.
 >                      ‘SUBPART I— GENERAL REFORM
 >     ‘‘Sec. 2704. Prohibition of preexisting condition exclusions or other discrimination based on health status.
@@ -54,40 +54,40 @@
 >     ‘‘Sec. 2706. Non-discrimination in health care.
 >     ‘‘Sec. 2707. Comprehensive health insurance coverage.
 >     ‘‘Sec. 2708. Prohibition on excessive waiting periods.
->                       PART II—OTHER PROVISIONS
+>                       PART II— OTHER PROVISIONS
 > Sec. 1251. Preservation of right to maintain existing coverage.
 > Sec. 1252. Rating reforms must apply uniformly to all health insurance issuers
 >                and group health plans.
 > Sec. 1253. Effective dates.
 >           Subtitle D—Available Coverage Choices for All Americans
->          PART I—ESTABLISHMENT OF QUALIFIED HEALTH PLANS
+>          PART I— ESTABLISHMENT OF QUALIFIED HEALTH PLANS
 > Sec. 1301. Qualified health plan defined.
 > Sec. 1302. Essential health benefits requirements.
 > Sec. 1303. Special rules.
 > Sec. 1304. Related definitions.
->    PART II—CONSUMER CHOICES AND INSURANCE COMPETITION THROUGH
+>    PART II— CONSUMER CHOICES AND INSURANCE COMPETITION THROUGH
 >                       HEALTH BENEFIT EXCHANGES
 > Sec. 1311. Affordable choices of health benefit plans.
 > Sec. 1312. Consumer choice.
 > Sec. 1313. Financial integrity.
->          PART III—STATE FLEXIBILITYR ELATING TO EXCHANGES
+>          PART III— STATE FLEXIBILITYR ELATING TO EXCHANGES
 > Sec. 1321. State flexibility in operation and enforcement of Exchanges and related requirements.
 > Sec. 1322. Federal program to assist establishment and operation of nonprofit,
 >                member-run health insurance issuers.
 > Sec. 1323. Community health insurance option.
 > Sec. 1324. Level playing field.
->    PART IV—STATE FLEXIBILITY TO ESTABLISH ALTERNATIVE PROGRAMS
+>    PART IV— STATE FLEXIBILITY TO ESTABLISH ALTERNATIVE PROGRAMS
 > Sec. 1331. State flexibility to establish basic health programs for low-income individuals not eligible for Medicaid.
 > Sec. 1332. Waiver for State innovation.
 > Sec. 1333. Provisions relating to offering of plans in more than one State.
->               PART V—REINSURANCE AND R ISKA DJUSTMENT
+>               PART V— REINSURANCE AND RISK ADJUSTMENT
 > Sec. 1341. Transitional reinsurance program for individual and small group
 >                markets in each State.
 > Sec. 1342. Establishment of risk corridors for plans in individual and small
 >                group markets.
 > Sec. 1343. Risk adjustment.
 >           Subtitle E—Affordable Coverage Choices for All Americans
->       PART I—PREMIUM TAX CREDITS AND COST-SHARING REDUCTIONS
+>       PART I— PREMIUM TAX CREDITS AND COST-SHARING REDUCTIONS
 >      SUBPART A — PREMIUM TAX CREDITS AND COST-SHARING REDUCTIONS
 > Sec. 1401. Refundable tax credit providing premium assistance for coverage
 >                 under a qualified health plan.
@@ -104,10 +104,10 @@
 >                  PART II—SMALL BUSINESS TAX CREDIT
 > Sec. 1421. Credit for employee health insurance expenses of small businesses.
 >              Subtitle F—Shared Responsibility for Health Care
->                    PART I—INDIVIDUAL RESPONSIBILITY
+>                    PART I— INDIVIDUAL RESPONSIBILITY
 > Sec. 1501. Requirement to maintain minimum essential coverage.
 > Sec. 1502. Reporting of health insurance coverage.
->                   PART II—EMPLOYER RESPONSIBILITIES
+>                   PART II— EMPLOYER RESPONSIBILITIES
 > Sec. 1511. Automatic enrollment for employees of large employers.
 > Sec. 1512. Employer requirement to inform employees of coverage options.
 > Sec. 1513. Shared responsibility for employers.
@@ -203,13 +203,13 @@
 > Sec. 3006. Plans for a Value-Based purchasing program for skilled nursing facilities and home health agencies.
 > Sec. 3007. Value-based payment modifier under the physician fee schedule.
 > Sec. 3008. Payment adjustment for conditions acquired in hospitals.
->     PART II—NATIONAL STRATEGY TO IMPROVE HEALTH CARE QUALITY
+>     PART II— NATIONAL STRATEGY TO IMPROVE HEALTH CARE QUALITY
 > Sec. 3011. National strategy.
 > Sec. 3012. Interagency Working Group on Health Care Quality.
 > Sec. 3013. Quality measure development.
 > Sec. 3014. Quality measurement.
 > Sec. 3015. Data collection; public reporting.
->   PART III—ENCOURAGING DEVELOPMENT OF NEW PATIENT CARE MODELS
+>   PART III— ENCOURAGING DEVELOPMENT OF NEW PATIENT CARE MODELS
 > Sec. 3021. Establishment of Center for Medicare and Medicaid Innovation within
 >                CMS.
 > Sec. 3022. Medicare shared savings program.
@@ -219,7 +219,7 @@
 > Sec. 3026. Community-Based Care Transitions Program.
 > Sec. 3027. Extension of gainsharing demonstration.
 >          Subtitle B—Improving Medicare for Patients and Providers
->  PART I—ENSURING BENEFICIARY ACCESS TO PHYSICIAN CARE AND OTHER
+>  PART I— ENSURING BENEFICIARY ACCESS TO PHYSICIAN CARE AND OTHER
 >                                 SERVICES
 > Sec. 3101. Increase in the physician payment update.
 > Sec. 3102. Extension of the work geographic index floor and revisions to the practice expense geographic adjustment under the Medicare physician fee schedule.
@@ -238,7 +238,7 @@
 > Sec. 3112. Revision to the Medicare Improvement Fund.
 > Sec. 3113. Treatment of certain complex diagnostic laboratory tests.
 > Sec. 3114. Improved access for certified nurse-midwife services.
->                      PART II—RURAL PROTECTIONS
+>                      PART II— RURAL PROTECTIONS
 > Sec. 3121. Extension of outpatient hold harmless provision.
 > Sec. 3122. Extension of Medicare reasonable costs payments for certain clinical
 >                diagnostic laboratory tests furnished to hospital patients in certain rural areas.
@@ -250,7 +250,7 @@
 > Sec. 3127. MedPAC study on adequacy of Medicare payments for health care providers serving in rural areas.
 > Sec. 3128. Technical correction related to critical access hospital services.
 > Sec. 3129. Extension of and revisions to Medicare rural hospital flexibility program.
->                   PART III—IMPROVING PAYMENT ACCURACY
+>                   PART III— IMPROVING PAYMENT ACCURACY
 > Sec. 3131. Payment adjustments for home health care.
 > Sec. 3132. Hospice reform.
 > Sec. 3133. Improvement to medicare disproportionate share hospital (DSH) payments.
@@ -435,7 +435,7 @@
 > Sec. 6004. Prescription drug sample transparency.
 > Sec. 6005. Pharmacy benefit managers transparency requirements.
 >           Subtitle B—Nursing Home Transparency and Improvement
->             PART I—IMPROVING TRANSPARENCY OF INFORMATION
+>             PART I— IMPROVING TRANSPARENCY OF INFORMATION
 > Sec. 6101. Required disclosure of ownership and additional disclosable parties information.
 > Sec. 6102. Accountability requirements for skilled nursing facilities and nursing
 >                  facilities.
@@ -444,12 +444,12 @@
 > Sec. 6105. Standardized complaint form.
 > Sec. 6106. Ensuring staffing accountability.
 > Sec. 6107. GAO study and report on Five-Star Quality Rating System.
->                     PART II—TARGETING ENFORCEMENT
+>                     PART II— TARGETING ENFORCEMENT
 > Sec. 6111. Civil money penalties.
 > Sec. 6112. National independent monitor demonstration project.
 > Sec. 6113. Notification of facility closure.
 > Sec. 6114. National demonstration projects on culture change and use of information technology in nursing homes.
->                    PART III—IMPROVING STAFF TRAINING
+>                    PART III— IMPROVING STAFF TRAINING
 > Sec. 6121. Dementia and abuse prevention training.
 > Subtitle C—Nationwide Program for National and State Background Checks on
 >   Direct Patient Access Employees of Long-term Care Facilities and Providers
@@ -561,13 +561,13 @@
 > Sec. 10108. Free choice vouchers.
 > Sec. 10109. Development of standards for financial and administrative transactions.
 >                  Subtitle B—Provisions Relating to Title II
->                       PART I—MEDICAID AND CHIP
+>                       PART I— MEDICAID AND CHIP
 > Sec. 10201. Amendments to the Social Security Act and title II of this Act.
 > Sec. 10202. Incentives for States to offer home and community-based services as
 >                 a long-term care alternative to nursing homes.
 > Sec. 10203. Extension of funding for CHIP through fiscal year 2015 and other
 >                 CHIP-related provisions.
->    PART II—SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN
+>    PART II— SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN
 > Sec. 10211. Definitions.
 > Sec. 10212. Establishment of pregnancy assistance fund.
 > Sec. 10213. Permissible uses of Fund.
@@ -679,13 +679,13 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
          (4) by redesignating sections 2721 through 2723 as sections 2735 through 2737, respectively; and
          (5) by inserting after section 2702, the following: ‘‘Subpart II—Improving Coverage
  ‘‘SEC. 2711. NO LIFETIME OR ANNUAL LIMITS.
-      ‘‘(a)NIG ENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage may not establish—
+      ‘‘(a)NI GENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage may not establish—
           ‘‘(1) lifetime limits on the dollar value of benefits for any participant or beneficiary; or
           ‘‘(2) unreasonable annual limits (within the meaning of section 223 of the Internal Revenue Code of 1986) on the dollar value of benefits for any participant or beneficiary.
       ‘‘(b) ER BENEFICIARY LIMITS.—Subsection (a) shall not be construed to prevent a group health plan or health insurance coverage that is not required to provide essential health benefits under section 1302(b) of the Patient Protection and Affordable Care Act from placing annual or life-time per beneficiary limits on specific covered benefits to the extent that such limits are otherwise permitted under Federal or State law.
  ‘‘SEC. 2712. PROHIBITION ON RESCISSIONS. ‘‘A group health plan and a health insurance issuer offering group or individual health insurance coverage shall not rescind such plan or coverage with respect to an enrollee once the enrollee is covered under such plan or coverage involved, except that this section shall not apply to a covered individual who has performed an act or practice that constitutes fraud or makes an intentional misrepresentation of material fact as prohibited by the terms of the plan or coverage. Such plan or coverage may not be cancelled except with prior notice to the enrollee, and only as permitted under section 2702(c) or 2742(b).
  ‘‘SEC. 2713. COVERAGE OF PREVENTIVE HEALTH SERVICES.
-      ‘‘(a)NIG ENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage shall, at a minimum provide coverage for and shall not impose any cost sharing requirements for—
+      ‘‘(a)NI GENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage shall, at a minimum provide coverage for and shall not impose any cost sharing requirements for—
           ‘‘(1) evidence-based items or services that have in effect a rating of ‘A’ or ‘B’ in the current recommendations of the United States Preventive Services Task Force;
           ‘‘(2) immunizations that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention with respect to the individual involved; and
           ‘‘(3) with respect to infants, children, and adolescents, evidenceinformed preventive care and screenings provided for in the comprehensive guidelines supported by the Health Resources and Services Administration.
@@ -696,11 +696,11 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
           ‘‘(2) MINIMUM .—The interval described in paragraph (1) shall not be less than 1 year.
       ‘‘(c) ALUE-BASED INSURANCE DESIGN.—The Secretary may develop guidelines to permit a group health plan and a health insurance issuer offering group or individual health insurance coverage to utilize value-based insurance designs.
  ‘‘SEC. 2714. EXTENSION OF DEPENDENT COVERAGE.
-      ‘‘(a)NIG ENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage that provides dependent coverage of children shall continue to make such coverage available for an adult child (who is not married) until the child turns 26 years of age. Nothing in this section shall require a health plan or a health insurance issuer described in the preceding sentence to make coverage available for a child of a child receiving dependent coverage.
+      ‘‘(a)NI GENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage that provides dependent coverage of children shall continue to make such coverage available for an adult child (who is not married) until the child turns 26 years of age. Nothing in this section shall require a health plan or a health insurance issuer described in the preceding sentence to make coverage available for a child of a child receiving dependent coverage.
       ‘‘(b) REGULATIONS .—The Secretary shall promulgate regulations to define the dependents to which coverage shall be made available under subsection (a).
       ‘‘(c) RULE OF CONSTRUCTION .—Nothing in this section shall be construed to modify the definition of ‘dependent’ as used in the Internal Revenue Code of 1986 with respect to the tax treatment of the cost of coverage.
  ‘‘SEC. 2715. DEVELOPMENT AND UTILIZATION OF UNIFORM EXPLANATION OF COVERAGE DOCUMENTS AND STANDARDIZED DEFINITIONS.
-      ‘‘(a)NIG ENERAL .—Not later than 12 months after the date of enactment of the Patient Protection and Affordable Care Act, the Secretary shall develop standards for use by a group health plan and a health insurance issuer offering group or individual health insurance coverage, in compiling and providing to enrollees a summary of benefits and coverage explanation that accurately describes the benefits and coverage under the applicable plan or coverage. In developing such standards, the Secretary shall consult with the National Association of Insurance Commissioners (referred to in this section as the ‘NAIC’), a working group composed of representatives of health insurance-related consumer advocacy organizations, health insurance issuers, health care professionals, patient advocates including those representing individuals with limited English proficiency, and other qualified individuals.
+      ‘‘(a)NI GENERAL .—Not later than 12 months after the date of enactment of the Patient Protection and Affordable Care Act, the Secretary shall develop standards for use by a group health plan and a health insurance issuer offering group or individual health insurance coverage, in compiling and providing to enrollees a summary of benefits and coverage explanation that accurately describes the benefits and coverage under the applicable plan or coverage. In developing such standards, the Secretary shall consult with the National Association of Insurance Commissioners (referred to in this section as the ‘NAIC’), a working group composed of representatives of health insurance-related consumer advocacy organizations, health insurance issuers, health care professionals, patient advocates including those representing individuals with limited English proficiency, and other qualified individuals.
       ‘‘(b) REQUIREMENTS .—The standards for the summary of benefits and coverage developed under subsection
 (a) shall provide for the following:
           ‘‘(1) APPEARANCE .—The standards shall ensure that the summary of benefits and coverage is presented in a uniform format that does not exceed 4 pages in length and does not include print smaller than 12-point font.
@@ -783,7 +783,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
           ‘‘(4) provide an external review process for such plans and issuers that, at a minimum, includes the consumer protections set forth in the Uniform External Review Model Act promulgated by the National Association of Insurance Commissioners and is binding on such plans.’’.
  SEC. 1002. HEALTH INSURANCE CONSUMER INFORMATION. Part C of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–91 et seq.) is amended by adding at the end the following:
  ‘‘SEC. 2793. HEALTH INSURANCE CONSUMER INFORMATION.
-      ‘‘(a)NIG ENERAL .—The Secretary shall award grants to States to enable such States (or the Exchanges operating in such States) to establish, expand, or provide support for—
+      ‘‘(a)NI GENERAL .—The Secretary shall award grants to States to enable such States (or the Exchanges operating in such States) to establish, expand, or provide support for—
           ‘‘(1) offices of health insurance consumer assistance; or
           ‘‘(2) health insurance ombudsman programs.
       ‘‘(b) LIGIBILITY.—
@@ -801,7 +801,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
           ‘‘(2) AUTHORIZATION FOR SUBSEQUENT YEARS .—There is authorized to be appropriated to the Secretary for each fiscal year following the fiscal year described in paragraph (1), such sums as may be necessary to carry out this section.’’.
  SEC. 1003. ENSURING THAT CONSUMERS GET VALUE FOR THEIR DOLLARS. Part C of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–91 et seq.), as amended by section 1002, is further amended by adding at the end the following:
  ‘‘SEC. 2794. ENSURING THAT CONSUMERS GET VALUE FOR THEIR DOLLARS.
-     ‘‘(a) NITIALP REMIUM REVIEW PROCESS .—
+     ‘‘(a) INITIAL PREMIUM REVIEW PROCESS .—
           ‘‘(1) N GENERAL .—The Secretary, in conjunction with States, shall establish a process for the annual review, beginning with the 2010 plan year and subject to subsection (b)(2)(A), of unreasonable increases in premiums for health insurance coverage.
           ‘‘(2) JUSTIFICATION AND DISCLOSURE .—The process established under paragraph (1) shall require health insurance issuers to submit to the Secretary and the relevant State a justification for an unreasonable premium increase prior to the implementation of the increase. Such issuers shall prominently post such information on their Internet websites. The Secretary shall ensure the public disclosure of information on such increases and justifications for all health insurance issuers.
      ‘‘(b) CONTINUING PREMIUM REVIEW PROCESS .—
@@ -1080,9 +1080,9 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
      (3), establish special enrollment periods for qualifying events (under section 603 of the Employee Retirement Income Security Act of 1974).
           ‘‘(3) REGULATIONS .—The Secretary shall promulgate regulations with respect to enrollment periods under paragraphs (1) and (2).
  ‘‘SEC. 2703. GUARANTEED RENEWABILITY OF COVERAGE.
-      ‘‘(a)NIG ENERAL .—Except as provided in this section, if a health insurance issuer offers health insurance coverage in the individual or group market, the issuer must renew or continue in force such coverage at the option of the plan sponsor or the individual, as applicable.
+      ‘‘(a)NI GENERAL .—Except as provided in this section, if a health insurance issuer offers health insurance coverage in the individual or group market, the issuer must renew or continue in force such coverage at the option of the plan sponsor or the individual, as applicable.
  ‘‘SEC. 2705. PROHIBITING DISCRIMINATION AGAINST INDIVIDUAL PARTICIPANTS AND BENEFICIARIES BASED ON HEALTH STATUS.
-      ‘‘(a)NIG ENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage may not establish rules for eligibility (including continued eligibility) of any individual to enroll under the terms of the plan or coverage based on any of the following health status-related factors in relation to the individual or a dependent of the individual:
+      ‘‘(a)NI GENERAL .—A group health plan and a health insurance issuer offering group or individual health insurance coverage may not establish rules for eligibility (including continued eligibility) of any individual to enroll under the terms of the plan or coverage based on any of the following health status-related factors in relation to the individual or a dependent of the individual:
           ‘‘(1) Health status.
           ‘‘(2) Medical condition (including both physical and mental illnesses).
           ‘‘(3) Claims experience.
@@ -2520,7 +2520,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
                    ‘‘(i) file notice of lien with respect to any property of a taxpayer by reason of any failure to pay the penalty imposed by this section, or
                    ‘‘(ii) levy on any such property with respect to such failure.’’.
      (c) CLERICAL AMENDMENT .—The table of chapters for subtitle D of the Internal Revenue Code of 1986 is amended by inserting after the item relating to chapter 47 the following new item:
->         ‘HAPTER48—MAINTENANCE MINIMUMESSENTIACOVERAG.’’.
+>         ‘HAPTER48— MAINTENANCE MINIMUMESSENTIACOVERAG.’’.
      (d) EFFECTIVE DATE .—The amendments made by this section shall apply to taxable years ending after December 31, 2013.
  SEC. 1502. REPORTING OF HEALTH INSURANCE COVERAGE.
      (a) IN GENERAL .—Part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by inserting after subpart C the following new subpart: ‘‘Subpart D—Information Regarding Health Insurance Coverage
@@ -2574,7 +2574,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
      ‘‘(a) LARGE EMPLOYERS NOT OFFERING HEALTH COVERAGE .—If—
          ‘‘(1) any applicable large employer fails to offer to its full-time employees (and their dependents) the opportunity to enroll in minimum essential coverage under an eligible employer-sponsored plan (as defined in section 5000A(f)(2)) for any month, and
          ‘‘(2) at least one full-time employee of the applicable large employer has been certified to the employer under section 1411 of the Patient Protection and Affordable Care Act as having enrolled for such month in a qualified health plan with respect to which an applicable premium tax credit or costsharing reduction is allowed or paid with respect to the employee, then there is hereby imposed on the employer an assessable payment equal to the product of the applicable payment amount and the number of individuals employed by the employer as full-time employees during such month.
-     ‘‘(b)LARGE EMPLOYERS WITH W AITINGP ERIODS EXCEEDING 30 DAYS.—
+     ‘‘(b)LARGE EMPLOYERS WITH WAITING PERIODS EXCEEDING 30 DAYS.—
          ‘‘(1)N GENERAL .—In the case of any applicable large employer which requires an extended waiting period to enroll in any minimum essential coverage under an employer-sponsored plan (as defined in section 5000A(f)(2)), there is hereby imposed on the employer an assessable payment, in the amount specified in paragraph (2), for each full-time employee of the employer to whom the extended waiting period applies.
          ‘‘(2) MOUNT .—For purposes of paragraph (1), the amount specified in this paragraph for a full-time employee is—
              ‘‘(A) in the case of an extended waiting period which exceeds 30 days but does not exceed 60 days, $400, and
@@ -2717,7 +2717,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
      (d) NO EFFECT ON EXISTING REQUIREMENTS .—Nothing in this title (or an amendment made by this title, unless specified by direct statutory reference) shall be construed to modify any existing Federal requirement concerning the State agency responsible for determining eligibility for programs identified in section 1413.
  SEC. 1561. HEALTH INFORMATION TECHNOLOGY ENROLLMENT STANDARDS AND PROTOCOLS. Title XXX of the Public Health Service Act (42 U.S.C. 300jj et seq.) is amended by adding at the end the following: ‘‘Subtitle C—Other Provisions
  ‘‘SEC. 3021. HEALTH INFORMATION TECHNOLOGY ENROLLMENT STANDARDS AND PROTOCOLS.
-     ‘‘(a)NIG ENERAL .—
+     ‘‘(a)NI GENERAL .—
           ‘‘(1) STANDARDS AND PROTOCOLS .—Not later than 180 days after the date of enactment of this title, the Secretary, in consultation with the HIT Policy Committee and the HIT Standards Committee, shall develop interoperable and secure standards and protocols that facilitate enrollment of individuals in Federal and State health and human services programs, as determined by the Secretary.
           ‘‘(2) METHODS .—The Secretary shall facilitate enrollment in such programs through methods determined appropriate by the Secretary, which shall include providing individuals and third parties authorized by such individuals and their designees notification of eligibility and verification of eligibility required under such programs.
       ‘‘(b) CONTENT .—The standards and protocols for electronic enrollment in the Federal and State programs described in subsection (a) shall allow for the following:
@@ -3144,7 +3144,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
                ‘‘(B) ASSURANCE OF EXCHANGE COVERAGE FOR TARGETED LOW-INCOME CHILDREN UNABLE TO BE PROVIDED CHILD HEALTH ASSISTANCE AS A RESULT OF FUNDING SHORTFALLS .—In the event that allotments provided under section 2104 are insufficient to provide coverage to all children who are eligible to be targeted low-income children under the State child health plan under this title, a State shall establish procedures to ensure that such children are provided coverage through an Exchange established by the State under section 1311 of the Patient Protection and Affordable Care Act.’’.
           (2) CONFORMING AMENDMENT TO TITLE XXI MEDICAID MAINTENANCE OF EFFORT .—Section 2105(d)(1) of the Social Security Act (42 U.S.C. 1397ee(d)(1)) is amended by adding before the period ‘‘, except as required under section 1902(e)(14)’’.
      (c) NO ENROLLMENT BONUS PAYMENTS FOR CHILDREN ENROLLED AFTER FISCAL YEAR 2013.—Section 2105(a)(3)(F)(iii) of the Social Security Act (42 U.S.C. 1397ee(a)(3)(F)(iii)) is amended by inserting ‘‘or any children enrolled on or after October 1, 2013’’ before the period.
-     (d) INCOME ELIGIBILITY DETERMINED USING M ODIFIEDG ROSS NCOME .—
+     (d) INCOME ELIGIBILITY DETERMINED USING MODIFIED GROSS NCOME .—
          (1) STATE PLAN REQUIREMENT .—Section 2102(b)(1)(B) of the Social Security Act (42 U.S.C. 1397bb(b)(1)(B)) is amended—
              (A) in clause (iii), by striking ‘‘and’’ after the semicolon;
              (B) in clause (iv), by striking the period and inserting ‘‘; and’’; and
@@ -3456,7 +3456,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
              (B) by striking the period and inserting ‘‘; and’’; and
          (3) by adding at the end the following new clause:
                   ‘‘(iii) after December 31, 2009, is 13 percent.’’.
-     (c) EXTENSION OF PRESCRIPTION DRUG DISCOUNTS TO ENROLLEES OF M EDICAIDM ANAGED CARE ORGANIZATIONS.—
+     (c) EXTENSION OF PRESCRIPTION DRUG DISCOUNTS TO ENROLLEES OF MEDICAID MANAGED CARE ORGANIZATIONS.—
          (1) N GENERAL .—Section 1903(m)(2)(A) of such Act (42 U.S.C. 1396b(m)(2)(A)) is amended—
              (A) in clause (xi), by striking ‘‘and’’ at the end;
              (B) in clause (xii), by striking the period at the end and inserting ‘‘; and’’; and
@@ -5274,7 +5274,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
      (b) EXTENSION OF MORATORIUM .—Section 114(d)(1) of such Act (42 U.S.C. 1395ww note), in the matter preceding subparagraph (A), is amended by striking ‘‘3-year period’’ and inserting ‘‘4-year period’’.
  SEC. 3107. EXTENSION OF PHYSICIAN FEE SCHEDULE MENTAL HEALTH ADD-ON. Section 138(a)(1) of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110–275) is amended by striking ‘‘December 31, 2009’’ and inserting ‘‘December 31, 2010’’.
  SEC. 3108. PERMITTING PHYSICIAN ASSISTANTS TO ORDER POST-HOSPITAL EXTENDED CARE SERVICES.
-     (a) ORDERING POST-H OSPITAL EXTENDED CARE SERVICES.—
+     (a) ORDERING POST-HOSPITAL EXTENDED CARE SERVICES.—
           (1) N GENERAL .—Section 1814(a)(2) of the Social Security Act (42 U.S.C. 1395f(a)(2)), in the matter preceding subparagraph (A), is amended by striking ‘‘or clinical nurse specialist’’ and inserting ‘‘, a clinical nurse specialist, or a physician assistant (as those terms are defined in section 1861(aa)(5))’’ after ‘‘nurse practitioner’’.
           (2) CONFORMING AMENDMENT .—Section 1814(a) of the Social Security Act (42 U.S.C. 1395f(a)) is amended, in the second sentence, by striking ‘‘or clinical nurse specialist’’ and inserting ‘‘clinical nurse specialist, or physician assistant’’ after ‘‘nurse practitioner,’’.
      (b) EFFECTIVE DATE .—The amendments made by this section shall apply to items and services furnished on or after January 1, 2011.
@@ -5908,7 +5908,7 @@ SEC. 1001. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT. Part A of title XXVII of
                         ‘‘(I) REQUIREMENT TO APPLY IN 2011 THROUGH 2013 .—In order to ensure payment accuracy, the Secretary shall conduct an analysis of the differences described in clause (ii)(I). The Secretary shall ensure that the results of such analysis are incorporated into the risk scores for 2011, 2012, and 2013.
                       ‘‘(II) AUTHORITY TO APPLY IN 2014 AND SUBSEQUENT YEARS .—The Secretary may, as appropriate, incorporate the results of such analysis into the risk scores for 2014 and subsequent years.’’.
  SEC. 3204. SIMPLIFICATION OF ANNUAL BENEFICIARY ELECTION PERIODS.
-     (a) ANNUAL 45-DAY PERIOD FOR DISENROLLMENT FROM MA PLANS TO ELECT TO RECEIVE BENEFITS UNDER THE O RIGINALM EDICARE FEE-FOR-SERVICE PROGRAM.—
+     (a) ANNUAL 45-DAY PERIOD FOR DISENROLLMENT FROM MA PLANS TO ELECT TO RECEIVE BENEFITS UNDER THE ORIGINAL MEDICARE FEE-FOR-SERVICE PROGRAM.—
          (1) IN GENERAL .—Section 1851(e)(2)(C) of the Social Security Act (42 U.S.C. 1395w–1(e)(2)(C)) is amended to read as follows:
               ‘‘(C) ANNUAL 45-DAY PERIOD FOR DISENROLLMENT FROM MA PLANS TO ELECT TO RECEIVE BENEFITS UNDER THE ORIGINAL MEDICARE FEE FOR SERVICE PROGRAM .—Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1860D–1.’’.
           (2) EFFECTIVE DATE .—The amendment made by paragraph (1) shall apply with respect to 2011 and succeeding years.
@@ -6231,7 +6231,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
      (a) STUDY AND ANNUAL REPORT ON PART D F ORMULARIES’ NCLUSION OF DRUGS COMMONLY USED BY DUAL ELIGIBLES.—
          (1) STUDY .—The Inspector General of the Department of Health and Human Services shall conduct a study of the extent to which formularies used by prescription drug plans and MA–PD plans under part D include drugs commonly used by fullbenefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6))).
          (2) ANNUAL REPORTS .—Not later than July 1 of each year (beginning with 2011), the Inspector General shall submit to Congress a report on the study conducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.
-     (b) STUDY AND REPORT ON PRESCRIPTION DRUG P RICES UNDER MEDICARE PART D AND MEDICAID.—
+     (b) STUDY AND REPORT ON PRESCRIPTION DRUG PRICES UNDER MEDICARE PART D AND MEDICAID.—
          (1) TUDY.—
                (A) IN GENERAL .—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugs under the Medicare prescription drug program under part D of title XVIII of the Social Security Act and for covered outpatient drugs under title XIX. Such study shall include the following:
                    (i) A comparison, with respect to the 200 most frequently dispensed covered part D drugs under such program and covered outpatient drugs under such title (as determined by the Inspector General based on volume and expenditures), of—
@@ -6720,7 +6720,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           ‘‘(3) EMBERS OF THE INDEPENDENT MEDICARE ADVISORY BOARD .—
                ‘‘(A) N GENERAL .—Paragraph (1) shall apply to a member of the Independent Medicare Advisory Board under section 1899A.
                ‘‘(B) AGENCIES AND CONGRESS .—For purposes of paragraph (1), the agency in which the individual described in subparagraph (A) served shall be considered to be the Independent Medicare Advisory Board, the Department of Health and Human Services, and the relevant committees of jurisdiction of Congress, including the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.’’.
-     (b) GAO STUDY AND REPORT ON DETERMINATION AND IMPLEMENTATION OF PAYMENT AND COVERAGE P OLICIESU NDER THE MEDICARE PROGRAM .—
+     (b) GAO STUDY AND REPORT ON DETERMINATION AND IMPLEMENTATION OF PAYMENT AND COVERAGE POLICIES UNDER THE MEDICARE PROGRAM .—
          (1) INITIAL STUDY AND REPORT .—
               (A) STUDY .—The Comptroller General of the United States (in this section referred to as the ‘‘Comptroller General’’) shall conduct a study on changes to payment policies, methodologies, and rates and coverage policies and methodologies under the Medicare program under title XVIII of the Social Security Act as a result of the recommendations contained in the proposals made by the Independent Medicare Advisory Board under section 1899A of such Act (as added by subsection (a)), including an analysis of the effect of such recommendations on—
                   (i) Medicare beneficiary access to providers and items and services;
@@ -6789,7 +6789,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
       ‘‘(f) COORDINATION .—The Center shall coordinate its activities with activities conducted by the Center for Medicare and Medicaid Innovation established under section 1115A of the Social Security Act.
       ‘‘(g) FUNDING .—There is authorized to be appropriated to carry out this section $20,000,000 for fiscal years 2010 through 2014.
  ‘‘SEC. 934. QUALITY IMPROVEMENT TECHNICAL ASSISTANCE AND IMPLEMENTATION.
-      ‘‘(a)NIG ENERAL .—The Director, through the Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the ‘Center’), shall award—
+      ‘‘(a)NI GENERAL .—The Director, through the Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the ‘Center’), shall award—
           ‘‘(1) technical assistance grants or contracts to eligible entities to provide technical support to institutions that deliver health care and health care providers (including rural and urban providers of services and suppliers with limited infrastructure and financial resources to implement and support quality improvement activities, providers of services and suppliers with poor performance scores, and providers of services and suppliers for which there are disparities in care among subgroups of patients) so that such institutions and providers understand, adapt, and implement the models and practices identified in the research conducted by the Center, including the Quality Improvement Networks Research Program; and
           ‘‘(2) implementation grants or contracts to eligible entities to implement the models and practices described under paragraph (1).
      ‘‘(b) ELIGIBLE ENTITIES.—
@@ -6910,7 +6910,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
                (B) in subsection (a), by striking ‘‘Administrator of the Health Resources and Services Administration’’ and inserting ‘‘Assistant Secretary for Preparedness and Response’’;
           (2) by inserting after section 1203 the following:
  ‘‘SEC. 1204. COMPETITIVE GRANTS FOR REGIONALIZED SYSTEMS FOR EMERGENCY CARE RESPONSE.
-      ‘‘(a)NIG ENERAL .—The Secretary, acting through the Assistant Secretary for Preparedness and Response, shall award not fewer than 4 multiyear contracts or competitive grants to eligible entities to support pilot projects that design, implement, and evaluate innovative models of regionalized, comprehensive, and accountable emergency care and trauma systems.
+      ‘‘(a)NI GENERAL .—The Secretary, acting through the Assistant Secretary for Preparedness and Response, shall award not fewer than 4 multiyear contracts or competitive grants to eligible entities to support pilot projects that design, implement, and evaluate innovative models of regionalized, comprehensive, and accountable emergency care and trauma systems.
       ‘‘(b) ELIGIBLE ENTITY ; EGION .—In this section:
           ‘‘(1) ELIGIBLE ENTITY .—The term ‘eligible entity’ means—
                ‘‘(A) a State or a partnership of 1 or more States and 1 or more local governments; or
@@ -7447,7 +7447,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           ‘‘(2) utilize science-based strategies to convey oral health prevention messages that include, but are not limited to, community water fluoridation and dental sealants.
       ‘‘(c) PLANNING AND IMPLEMENTATION .—Not later than 2 years after the date of enactment of this section, the Secretary shall begin implementing the 5-year campaign. During the 2-year period referred to in the previous sentence, the Secretary shall conduct planning activities with respect to the campaign.
  ‘‘SEC. 399LL–1. RESEARCH-BASED DENTAL CARIES DISEASE MANAGEMENT.
-      ‘‘(a)NIG ENERAL .—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award demonstration grants to eligible entities to demonstrate the effectiveness of research-based dental caries disease management activities.
+      ‘‘(a)NI GENERAL .—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award demonstration grants to eligible entities to demonstrate the effectiveness of research-based dental caries disease management activities.
       ‘‘(b) LIGIBILITY.—To be eligible for a grant under this section, an entity shall—
           ‘‘(1) be a community-based provider of dental services (as defined by the Secretary), including a Federallyqualified health center, a clinic of a hospital owned or operated by a State (or by an instrumentality or a unit of government within a State), a State or local department of health, a dental program of the Indian Health Service, an Indian tribe or tribal organization, or an urban Indian organization (as such terms are defined in section 4 of the Indian Health Care Improvement Act), a health system provider, a private provider of dental services, medical, dental, public health, nursing, nutrition educational institutions, or national organizations involved in improving children’s oral health; and
           ‘‘(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
@@ -8366,7 +8366,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           ‘‘(2) the Secretary agrees to make payments on the principal and interest of undergraduate, graduate, or graduate medical education loans of professionals described in paragraph (1) of not more than $35,000 a year for each year of agreed upon service under such paragraph for a period of not more than 3 years during the qualified health professional’s—
                ‘‘(A) participation in an accredited pediatric medical subspecialty, pediatric surgical specialty, or child and adolescent mental health subspecialty residency or fellowship; or
                ‘‘(B) employment as a pediatric medical subspecialist, pediatric surgical specialist, or child and adolescent mental health professional serving an area or population described in such paragraph.
-     ‘‘(c)NIG ENERAL .—
+     ‘‘(c)NI GENERAL .—
           ‘‘(1) ELIGIBLE INDIVIDUALS .—
               ‘‘(A) PEDIATRIC MEDICAL SPECIALISTS AND PEDIATRIC SURGICAL SPECIALISTS .—For purposes of contracts with respect to pediatric medical specialists and pediatric surgical specialists, the term ‘qualified health professional’ means a licensed physician who—
                    ‘‘(i) is entering or receiving training in an accredited pediatric medical subspecialty or pediatric surgical specialty residency or fellowship; or
@@ -8530,7 +8530,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
       (b)(1)(B), there are authorized to be appropriated $750,000 for each of fiscal years 2010 through 2014.’’.
  SEC. 5302. TRAINING OPPORTUNITIES FOR DIRECT CARE WORKERS. Part C of title VII of the Public Health Service Act (42 U.S.C. 293k et seq.) is amended by inserting after section 747, as amended by section 5301, the following:
  ‘‘SEC. 747A. TRAINING OPPORTUNITIES FOR DIRECT CARE WORKERS.
-      ‘‘(a)NIG ENERAL .—The Secretary shall award grants to eligible entities to enable such entities to provide new training opportunities for direct care workers who are employed in long-term care settings such as nursing homes (as defined in section 1908(e)(1) of the Social Security Act (42 U.S.C. 1396g(e)(1)), assisted living facilities and skilled nursing facilities, intermediate care facilities for individuals with mental retardation, home and community based settings, and any other setting the Secretary determines to be appropriate.
+      ‘‘(a)NI GENERAL .—The Secretary shall award grants to eligible entities to enable such entities to provide new training opportunities for direct care workers who are employed in long-term care settings such as nursing homes (as defined in section 1908(e)(1) of the Social Security Act (42 U.S.C. 1396g(e)(1)), assisted living facilities and skilled nursing facilities, intermediate care facilities for individuals with mental retardation, home and community based settings, and any other setting the Secretary determines to be appropriate.
       ‘‘(b) LIGIBILITY.—To be eligible to receive a grant under this section, an entity shall—
           ‘‘(1) be an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)) that—
                ‘‘(A) is accredited by a nationally recognized accrediting agency or association listed under section 101(c) of the Higher Education Act of 1965 (20 U.S.C. 1001(c)); and
@@ -8878,7 +8878,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
       ‘‘(d) INTEGRATED LONGITUDINAL PLAN .—The Surgeon General shall develop an integrated longitudinal plan for health professions continuing education throughout the continuum of health-related education, training, and practice. Training under such plan shall emphasize patientcentered, interdisciplinary, and care coordination skills. Experience with deployment of emergency response teams shall be included during the clinical experiences.
       ‘‘(e) FACULTY DEVELOPMENT .—The Surgeon General shall develop faculty development programs and curricula in decentralized venues of health care, to balance urban, tertiary, and inpatient venues.
  ‘‘SEC. 272. ADMINISTRATION.
-      ‘‘(a)NIG ENERAL .—The business of the Track shall be conducted by the Surgeon General with funds appropriated for and provided by the Department of Health and Human Services. The National Health Care Workforce Commission shall assist the Surgeon General in an advisory capacity.
+      ‘‘(a)NI GENERAL .—The business of the Track shall be conducted by the Surgeon General with funds appropriated for and provided by the Department of Health and Human Services. The National Health Care Workforce Commission shall assist the Surgeon General in an advisory capacity.
       ‘‘(b)FACULTY .—
           ‘‘(1) N GENERAL .—The Surgeon General, after considering the recommendations of the National Health Care Workforce Commission, shall obtain the services of such professors, instructors, and administrative and other employees as may be necessary to operate the Track, but utilize when possible, existing affiliated health professions training institutions. Members of the faculty and staff shall be employed under salary schedules and granted retirement and other related benefits prescribed by the Secretary so as to place the employees of the Track faculty on a comparable basis with the employees of fully accredited schools of the health professions within the United States.
            ‘‘(2) TITLES .—The Surgeon General may confer academic titles, as appropriate, upon the members of the faculty.
@@ -8961,7 +8961,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
          ‘‘(1) $50,000,000 for each of the fiscal years 2010 through 2015; and
          ‘‘(2) and such sums as are necessary for each subsequent fiscal year.’’.
  SEC. 5402. HEALTH CARE PROFESSIONALS TRAINING FOR DIVERSITY.
-     (a) LOAN REPAYMENTS AND FELLOWSHIPS R EGARDINGF ACULTY POSITIONS.—Section 738(a)(1) of the Public Health Service Act (42 U.S.C. 293b(a)(1)) is amended by striking ‘‘$20,000 of the principal and interest of the educational loans of such individuals.’’ and inserting ‘‘$30,000 of the principal and interest of the educational loans of such individuals.’’.
+     (a) LOAN REPAYMENTS AND FELLOWSHIPS REGARDING FACULTY POSITIONS.—Section 738(a)(1) of the Public Health Service Act (42 U.S.C. 293b(a)(1)) is amended by striking ‘‘$20,000 of the principal and interest of the educational loans of such individuals.’’ and inserting ‘‘$30,000 of the principal and interest of the educational loans of such individuals.’’.
      (b) SCHOLARSHIPS FOR DISADVANTAGED STUDENTS.—Section 740(a) of such Act (42 U.S.C. 293d(a)) is amended by striking ‘‘$37,000,000’’ and all that follows through ‘‘2002’’ and inserting ‘‘$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014’’.
      (c) REAUTHORIZATION FOR LOAN REPAYMENTS AND FELLOWSHIPS REGARDING FACULTY POSITIONS.—Section 740(b) of such Act (42 U.S.C. 293d(b)) is amended by striking ‘‘appropriated’’ and all that follows through the period at the end and inserting ‘‘appropriated, $5,000,000 for each of the fiscal years 2010 through 2014.’’.
      (d) REAUTHORIZATION FOR EDUCATIONAL ASSISTANCE IN THE HEALTH PROFESSIONS REGARDING INDIVIDUALS FROM A DISADVANTAGED BACKGROUND .—Section 740(c) of such Act (42 U.S.C. 293d(c)) is amended by striking the first sentence and inserting the following: ‘‘For the purpose of grants and contracts under section 739(a)(1), there is authorized to be appropriated $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014.’’
@@ -10045,7 +10045,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
  SEC. 6111. CIVIL MONEY PENALTIES.
      (a) SKILLED NURSING FACILITIES.—
           (1) IN GENERAL .—Section 1819(h)(2)(B)(ii) of the Social Security Act (42 U.S.C. 1395i– 3(h)(2)(B)(ii)) is amended—
-              (A) by striking ‘‘P ENALTIES .—The Secretary’’ and insertinPENALTIES .—
+              (A) by striking ‘‘ PENALTIES .—The Secretary’’ and insertinPENALTIES .—
                        ‘‘(I) IN GENERAL .—Subject to subclause (II), the Secretary’’; and
               (B) by adding at the end the following new subclauses:
                         ‘‘(II) DEDUCTION OF CIVIL MONEY PENALTIES IN CERTAIN CIRCUMSTANCES .—Subject to subclause
@@ -10065,7 +10065,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
      ‘‘(ii)(IV),’’ after ‘‘(i),’’.
      (b) NURSING FACILITIES.—
           (1) IN GENERAL .—Section 1919(h)(3)(C)(ii) of the Social Security Act (42 U.S.C. 1396r(h)(3)(C)) is amended—
-               (A) by striking ‘‘P ENALTIES .—The Secretary’’ and insertingPENALTIES .—
+               (A) by striking ‘‘ PENALTIES .—The Secretary’’ and insertingPENALTIES .—
                         ‘‘(I) IN GENERAL .—Subject to subclause (II), the Secretary’’; and
                (B) by adding at the end the following new subclauses:
                         ‘‘(II) DEDUCTION OF CIVIL MONEY PENALTIES IN CERTAIN CIRCUMSTANCES .—Subject to subclause
@@ -10243,7 +10243,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
               (B) RESERVATION OF FUNDS FOR CONDUCT OF EVALUATION .—The Secretary may reserve not more than $3,000,000 of the amount transferred under subparagraph (A) to provide for the conduct of the evaluation under subsection
           (a)(7)(A). Subtitle D—Patient-Centered Outcomes Research
  SEC. 6301. PATIENT-CENTERED OUTCOMES RESEARCH.
-     (a) IN GENERAL .—Title XI of the Social Security Act (42 U.S.C. 1301 et seq.) is amended by adding at the end the following new part: ‘‘ART D—COMPARATIVE CLINICAL EFFECTIVENESS RESEARCH ‘COMPARATIVE CLINICAL EFFECTIVENESS RESEARCH
+     (a) IN GENERAL .—Title XI of the Social Security Act (42 U.S.C. 1301 et seq.) is amended by adding at the end the following new part: ‘‘ART D— COMPARATIVE CLINICAL EFFECTIVENESS RESEARCH ‘COMPARATIVE CLINICAL EFFECTIVENESS RESEARCH
      ‘‘SEC. 1181. (a)EFINITIONS.—In this section:
           ‘‘(1) BOARD .—The term ‘Board’ means the Board of Governors established under subsection (f).
           ‘‘(2) COMPARATIVE CLINICAL EFFECTIVENESS RESEARCH ;RESEARCH .—
@@ -10674,7 +10674,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
          (2) in paragraph (24), by striking the period at the end and inserting ‘‘; or’’; and
          (3) by adding at the end the following new paragraph:.
           ‘‘(25) with respect to any amounts expended for medical assistance for individuals for whom the State does not report enrollee encounter data (as defined by the Secretary) to the Medicaid Statistical Information System (MSIS) in a timely manner (as determined by the Secretary).’’.
-     (d) PERMISSIVE EXCLUSIONS AND C IVILM ONETARY PENALTIES .—
+     (d) PERMISSIVE EXCLUSIONS AND CIVIL MONETARY PENALTIES .—
           (1) PERMISSIVE EXCLUSIONS .—Section 1128(b) of the Social Security Act (42 U.S.C. 1320a–7(b)) is amended by adding at the end the following new paragraph:
           ‘‘(16) MAKING FALSE STATEMENTS OR MISREPRESENTATION OF MATERIAL FACTS .—Any individual or entity that knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, agreement, bid, or contract to participate or enroll as a provider of services or supplier under a Federal health care program (as defined in section 1128B(f)), including Medicare Advantage organizations under part C of title XVIII, prescription drug plan sponsors under part D of title XVIII, medicaid managed care organizations under title XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans.’’.
           (2) CIVIL MONETARY PENALTIES .—
@@ -10785,7 +10785,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
  SEC. 6403. ELIMINATION OF DUPLICATION BETWEEN THE HEALTHCARE INTEGRITY AND PROTECTION DATA BANK AND THE NATIONAL PRACTITIONER DATA BANK.
      (a) INFORMATION REPORTED BY FEDERAL AGENCIES AND HEALTH PLANS.—Section 1128E of the Social Security Act (42 U.S.C. 1320a–7e) is amended—
          (1) by striking subsection (a) and inserting the following:
-     ‘‘(a)NIG ENERAL .—The Secretary shall maintain a national health care fraud and abuse data collection program under this section for the reporting of certain final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection
+     ‘‘(a)NI GENERAL .—The Secretary shall maintain a national health care fraud and abuse data collection program under this section for the reporting of certain final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection
 (b), with access as set forth in subsection (d), and shall furnish the information collected under this section to the National Practitioner Data Bank established pursuant to the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.).’’;
           (2) by striking subsection (d) and inserting the following:
       ‘‘(d) ACCESS TO REPORTED INFORMATION .—
@@ -11278,7 +11278,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           ‘‘(3) for each of fiscal years 2013 and 2014, $8,000,000.
      ‘‘PART II—PROGRAMS TO PROMOTE ELDER JUSTICE
  ‘‘SEC. 2041. ENHANCEMENT OF LONG-TERM CARE.
-     ‘‘(a) GRANTS AND INCENTIVES FOR L ONGT ERM CARE STAFFING .—
+     ‘‘(a) GRANTS AND INCENTIVES FOR LONG TERM CARE STAFFING .—
           ‘‘(1) N GENERAL .—The Secretary shall carry out activities, including activities described in paragraphs (2) and (3), to provide incentives for individuals to train for, seek, and maintain employment providing direct care in long-term care.
           ‘‘(2) SPECIFIC PROGRAMS TO ENHANCE TRAINING ,RECRUITMENT ,AND RETENTION OF STAFF .—
               ‘‘(A) COORDINATION WITH SECRETARY OF LABOR TO RECRUIT AND TRAIN LONG-TERM CARE STAFF .—The Secretary shall coordinate activities under this subsection with the Secretary of Labor in order to provide incentives for individuals to train for and seek employment providing direct care in long-term care.
@@ -11338,7 +11338,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
                ‘‘(E) provides technical assistance to States and other entities that provide or fund the provision of adult protective services, including through grants made under subsections (b) and
           (c).
           ‘‘(2) AUTHORIZATION OF APPROPRIATIONS .— There are authorized to be appropriated to carry out this subsection, $3,000,000 for fiscal year 2011 and $4,000,000 for each of fiscal years 2012 through 2014.
-     ‘‘(b) GRANTS TOE NHANCE THE PROVISION OF ADULT PROTECTIVE SERVICES.—
+     ‘‘(b) GRANTS TO ENHANCE THE PROVISION OF ADULT PROTECTIVE SERVICES.—
           ‘‘(1) ESTABLISHMENT .—There is established an adult protective services grant program under which the Secretary shall annually award grants to States in the amounts calculated under paragraph (2) for the purposes of enhancing adult protective services provided by States and local units of government.
           ‘‘(2)MOUNT OF PAYMENT .—
               ‘‘(A) N GENERAL .—Subject to the availability of appropriations and subparagraphs (B) and (C), the amount paid to a State for a fiscal year under the program under this subsection shall equal the amount appropriated for that year to carry out this subsection multiplied by the percentage of the total number of elders who reside in the United States who reside in that State.
@@ -13412,7 +13412,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
       (d) Section 1108(g)(4)(B) of the Social Security Act (42 U.S.C. 1308(g)(4)(B)), as added by section 2005(b), is amended by striking ‘‘income eligibility level in effect for that population under title XIX or under a waiver’’ and inserting ‘‘the highest income eligibility level in effect for parents under the commonwealth’s or territory’s State plan under title XIX or under a waiver of the plan’’.
       (e)(1) Section 1923(f) of the Social Security Act (42 U.S.C. 1396r–4(f)), as amended by section 2551, is amended—
            (A) in paragraph (6)—
-                (i) by striking the paragraph heading and inserting the following: ‘‘A LLOTMENT ADJUSTMENTS ’’; and
+                (i) by striking the paragraph heading and inserting the following: ‘‘ ALLOTMENT ADJUSTMENTS ’’; and
                 (ii) in subparagraph (B), by adding at the end the following:
                      ‘‘(iii) ALLOTMENT FOR 2D , 3RD , AND 4TH QUARTER OF FISCAL YEAR 2012 ,FISCAL YEAR 2013, AND SUCCEEDING FISCAL YEARS .—Notwithstanding the table set forth in paragraph (2) or paragraph (7):
                          ‘‘(I) D, 3RD, AND 4TH QUARTER OF FISCAL YEAR 2012 .—The DSH allotment for Hawaii for the 2d, 3rd, and 4th quarters of fiscal year 2012 shall be $7,500,000.
@@ -13958,7 +13958,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
                     (iii) by adding at the end the following new clause:
                     ‘‘(vii) take into account the data and findings contained in the annual reports under subsection (n) in order to develop proposals that can most effectively promote the delivery of efficient, high quality care to Medicare beneficiaries.’’;
                (D) in paragraph (3)—
-                    (i) in the heading, by striking RANSMISSION OF BOARD PROPOSAL TO PRESIDENT ’’ and inserting ‘‘S UBMISSION OF BOARD PROPOSAL TO CONGRESS AND THE PRESIDENT ’’;
+                    (i) in the heading, by striking RANSMISSION OF BOARD PROPOSAL TO PRESIDENT ’’ and inserting ‘‘ SUBMISSION OF BOARD PROPOSAL TO CONGRESS AND THE PRESIDENT ’’;
                     (ii) in subparagraph (A)(i), by striking ‘‘transmit a proposal under this section to the President’’ and insert ‘‘submit a proposal under this section to Congress and the President’’; and
                     (iii) in subparagraph (A)(ii)—
                          (I) in subclause (I), by inserting ‘‘or’’ at the end;
@@ -14317,7 +14317,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
      (b) EFFECTIVE DATE.—The amendment made by subsection (a) shall take effect on January 1, 2012.
  SEC. 10333. COMMUNITY-BASED COLLABORATIVE CARE NETWORKS. Part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) is amended by adding at the end the following new subpart: ‘‘Subpart XI—Community-Based Collaborative Care Network Program
  ‘‘SEC. 340H. COMMUNITY-BASED COLLABORATIVE CARE NETWORK PROGRAM.
-     ‘‘(a)NIG ENERAL .—The Secretary may award grants to eligible entities to support community-based collaborative care networks that meet the requirements of subsection (b).
+     ‘‘(a)NI GENERAL .—The Secretary may award grants to eligible entities to support community-based collaborative care networks that meet the requirements of subsection (b).
      ‘‘(b) OMMUNITY-BASED COLLABORATIVE CARE NETWORKS .—
           ‘‘(1)DESCRIPTION .—A community-based collaborative care network (referred to in this section as a ‘network’) shall be a consortium of health care providers with a joint governance structure (including providers within a single entity) that provides comprehensive coordinated and integrated health care services (as defined by the Secretary) for low-income populations.
           ‘‘(2) REQUIRED INCLUSION .—A network shall include the following providers (unless such provider does not exist within the community, declines or refuses to participate, or places unreasonable conditions on their participation):
@@ -14344,7 +14344,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           ‘‘(2) RANT FUNDS TO HRSA GRANTEES .—The Secretary may limit the percent of grant funding that may be spent on direct care services provided by grantees of programs administered by the Health Resources and Services Administration or impose other requirements on such grantees deemed necessary.
      ‘‘(e) AUTHORIZATION OF APPROPRIATIONS .—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2011 through 2015.’’.
  SEC. 10334. MINORITY HEALTH.
-     (a) OFFICE OF M INORITYH EALTH .—
+     (a) OFFICE OF MINORITY HEALTH .—
           (1) IN GENERAL .—Section 1707 of the Public Health Service Act (42 U.S.C. 300u–6) is amended—
               (A) in subsection (a), by striking ‘‘within the Office of Public Health and Science’’ and all that follows through the end and inserting ‘‘. The Office of Minority Health as existing on the date of enactment of the Patient Protection and Affordable Care Act shall be transferred to the Office of the Secretary in such manner that there is established in the Office of the Secretary, the Office of Minority Health, which shall be headed by the Deputy Assistant Secretary for Minority Health who shall report directly to the Secretary, and shall retain and strengthen authorities (as in existence on such date of enactment) for the purpose of improving minority health and the quality of health care minorities receive, and eliminating racial and ethnic disparities. In carrying out this subsection, the Secretary, acting through the Deputy Assistant Secretary, shall award grants, contracts, enter into memoranda of understanding, cooperative, interagency, intraagency and other agreements with public and nonprofit private entities, agencies, as well as Departmental and Cabinet agencies and organizations, and with organizations that are indigenous human resource providers in communities of color to assure improved health status of racial and ethnic minorities, and shall develop measures to evaluate the effectiveness of activities aimed at reducing health disparities and supporting the local community. Such measures shall evaluate community outreach activities, language services, workforce cultural competence, and other areas as determined by the Secretary.’’; and
                (B) by striking subsection (h) and inserting the following:
@@ -14364,7 +14364,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           ‘‘(2) AVAILABILITY OF FUNDS FOR STAFFING .— The purposes for which amounts made available under paragraph may be expended by a minority health office include the costs of employing staff for such office.’’.
           (2) NO NEW REGULATORY AUTHORITY .—Nothing in this subsection and the amendments made by this subsection may be construed as establishing regulatory authority or modifying any existing regulatory authority.
           (3) LIMITATION ON TERMINATION .—Notwithstanding any other provision of law, a Federal office of minority health or Federal appointive position with primary responsibility over minority health issues that is in existence in an office of agency of the Department of Health and Human Services on the date of enactment of this section shall not be terminated, reorganized, or have any of its power or duties transferred unless such termination, reorganization, or transfer is approved by an Act of Congress.
-     (c) REDESIGNATION OF NATIONAL CENTER ON M INORITYH EALTH AND HEALTH DISPARITIES.—
+     (c) REDESIGNATION OF NATIONAL CENTER ON MINORITY HEALTH AND HEALTH DISPARITIES.—
          (1) R EDESIGNATION .—Title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended—
               (A) by redesignating subpart 6 of part E as subpart 20;
               (B) by transferring subpart 20, as so redesignated, to part C of such title IV;
@@ -14657,7 +14657,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
      (b) PROGRAMS RELATING TO CONGENITAL HEART DISEASE.—
          (1) NATIONAL CONGENITAL HEART DISEASE SURVEILLANCE SYSTEM .—Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.), as amended by section 5405, is further amended by adding at the end the following:
  ‘‘SEC. 399V–2. NATIONAL CONGENITAL HEART DISEASE SURVEILLANCE SYSTEM.
-     ‘‘(a)NIG ENERAL .—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may—
+     ‘‘(a)NI GENERAL .—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may—
          ‘‘(1) enhance and expand infrastructure to track the epidemiology of congenital heart disease and to organize such information into a nationallyrepresentative, population-based surveillance system that compiles data concerning actual occurrences of congenital heart disease, to be known as the ‘National Congenital Heart Disease Surveillance System’; or
          ‘‘(2) award a grant to one eligible entity to undertake the activities described in paragraph (1).
       ‘‘(b) PURPOSE .—The purpose of the Congenital Heart Disease Surveillance System shall be to facilitate further research into the types of health services patients use and to identify possible areas for educational outreach and prevention in accordance with standard practices of the Centers for Disease Control and Prevention.
@@ -14804,7 +14804,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
       (4) Section 935(b) of the Public Health Service Act, as added by section 3503, is amended by striking ‘‘399W’’ and inserting ‘‘399V–1’’.
       (g) Part P of title III of the Public Health Service Act 42 U.S.C. 280g et seq.), as amended by section 10411, is amended by adding at the end the following:
  ‘‘SEC. 399V–3. NATIONAL DIABETES PREVENTION PROGRAM.
-      ‘‘(a)NIG ENERAL .—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish a national diabetes prevention program (referred to in this section as the ‘program’) targeted at adults at high risk for diabetes in order to eliminate the preventable burden of diabetes.
+      ‘‘(a)NI GENERAL .—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish a national diabetes prevention program (referred to in this section as the ‘program’) targeted at adults at high risk for diabetes in order to eliminate the preventable burden of diabetes.
       ‘‘(b) PROGRAM ACTIVITIES.—The program described in subsection (a) shall include—
           ‘‘(1) a grant program for community-based diabetes prevention program model sites;
           ‘‘(2) a program within the Centers for Disease Control and Prevention to determine eligibility of entities to deliver community-based diabetes prevention services;
@@ -14848,7 +14848,7 @@ SEC. 3313. OFFICE OF THE INSPECTOR GENERAL STUDIES AND REPORTS.
           (1) after the part heading, by inserting the following: ‘‘Subpart I—Medical Training Generally’’; and
           (2) by inserting at the end the following: ‘‘Subpart II—Training in Underserved Communities
  ‘‘SEC. 749B. RURAL PHYSICIAN TRAINING GRANTS.
-      ‘‘(a)NIG ENERAL .—The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall establish a grant program for the purposes of assisting eligible entities in recruiting students most likely to practice medicine in underserved rural communities, providing ruralfocused training and experience, and increasing the number of recent allopathic and osteopathic medical school graduates who practice in underserved rural communities.
+      ‘‘(a)NI GENERAL .—The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall establish a grant program for the purposes of assisting eligible entities in recruiting students most likely to practice medicine in underserved rural communities, providing ruralfocused training and experience, and increasing the number of recent allopathic and osteopathic medical school graduates who practice in underserved rural communities.
       ‘‘(b) ELIGIBLE ENTITIES.—In order to be eligible to receive a grant under this section, an entity shall—
            ‘‘(1) be a school of allopathic or osteopathic medicine accredited by a nationally recognized accrediting agency or association approved by the Secretary for this purpose, or any combination or consortium of such schools; and
            ‘‘(2) submit an application to the Secretary that includes a certification that such entity will use amounts provided to the institution as described in subsection (d)(1).

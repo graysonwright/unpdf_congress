@@ -39,8 +39,8 @@ input_files.each do |input_file|
   output = Processors::RemoveLineNumbers.process(output)
   output = Processors::SeparateSections.process(output)
   output = Processors::JoinHyphenatedWords.process(output)
-  output = Processors::JoinOrphanedCharacters.process(output)
   output = Processors::RegroupMisplacedCharacters.process(output)
+  output = Processors::JoinOrphanedCharacters.process(output)
   output = Processors::CompleteFirstWords.process(output)
   output = Processors::JoinHyphenatedWords.process(output)
 
