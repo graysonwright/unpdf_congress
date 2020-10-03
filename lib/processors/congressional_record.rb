@@ -10,14 +10,32 @@ end
 
 module Processors
   class CongressionalRecord
+    class Page
+      def initialize(source)
+        @source = source
+      end
+
+      attr_accessor :source
+
+      def lines
+        source.lines
+      end
+    end
+  end
+end
+
+module Processors
+  class CongressionalRecord
     def initialize(source)
       @source = source
     end
 
     attr_accessor :source
 
-    def parse_pages
-      source.split(/^ *VerDate.+Jkt.+PO.+Frm.+Fmt.+Sfmt.+$/)
+    def pages
+      source.
+        split(/^ *VerDate.+Jkt.+PO.+Frm.+Fmt.+Sfmt.+$/).
+        map {|x| Page.new(x) }
     end
 
     def self.clean_blank_lines(page)

@@ -6,9 +6,7 @@ source = Processors::CongressionalRecord.new(
   ARGF.read.encode("utf-8", invalid: :replace, replace: "–")
 )
 
-pages = source.parse_pages
-
-pages = pages.map.with_index do |page, page_index|
+pages = source.pages.map.with_index do |page, page_index|
         lines = page.lines
 
         # HERE...
@@ -31,8 +29,8 @@ pages = pages.map.with_index do |page, page_index|
         spacing_a = (changes.index(changes.max) || 0)
         spacing_b = (changes.index(changes.max) || 0)
 
-	spaces = { 0 => 0 }
-	grid.each_with_index { |number, index|
+	      spaces = {}
+	      grid.each_with_index { |number, index|
             if number <= 5
                 if (beginning = spaces.invert[index - 1])
                     spaces[beginning] = index
