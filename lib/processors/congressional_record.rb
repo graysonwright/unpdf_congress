@@ -10,7 +10,28 @@ end
 
 module Processors
   class CongressionalRecord
+    class Grid
+      def initialize(source)
+        @source = source
+      end
+
+      attr_accessor :source
+
+      def lines
+        source.lines
+      end
+    end
+
     class Region
+      def initialize(source)
+        @source = source
+      end
+
+      attr_accessor :source
+
+      def lines
+        source.lines
+      end
     end
 
     class Page
@@ -22,6 +43,25 @@ module Processors
 
       def lines
         source.lines
+      end
+
+      def regions
+        grids = pull_tables
+
+        s = source
+        regions = []
+
+        i = 0
+        while i < grids.length
+          s = s.split(grids[i])
+          regions << Region.new(s.shift)
+          regions << Grid.new(grids[i])
+          s = s[0]
+          i += 1
+        end
+        regions << Region.new(s)
+
+        regions
       end
 
       def pull_tables

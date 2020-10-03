@@ -7,6 +7,11 @@ source = Processors::CongressionalRecord.new(
 )
 
 pages = source.pages.map.with_index do |page, page_index|
+        regions = page.regions
+        if(page_index == 184)
+          puts page.regions.map(&:source).join("~=" * 80 + "\n")
+        end
+
         lines = page.lines
 
         max_size = lines.map {|l| l.length}.max
@@ -61,4 +66,4 @@ pages = source.pages.map.with_index do |page, page_index|
         # [column_a, column_b].flatten.join("\n")
 end
 
-puts pages.join("- " * 80)
+# puts pages.join("- " * 80)
