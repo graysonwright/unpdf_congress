@@ -44,7 +44,9 @@ pages = source.pages.map.with_index do |page, page_index|
         spaces.each {|beginning, ending| drop << beginning if ending - beginning < 2 }
         drop.each {|x| spaces.delete(x) }
 
-        puts "#{page_index}:\t#{spaces.inspect}"
+        if (180..190).include? page_index
+          puts "#{page_index}:\t#{spaces.inspect}"
+        end
         
         column_a = []
         column_b = []

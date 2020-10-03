@@ -20,6 +20,16 @@ module Processors
       def lines
         source.lines
       end
+
+      def pull_tables
+        source.
+          scan(/(?<=as follows:\n)[\w\-`:\s]+(?:.+\.{6,}.+\s+)+/).
+          map.with_index {|table, index| [index, table.rstrip] }.
+	  to_h
+      end
+    end
+
+    class Region < Page
     end
   end
 end
@@ -38,13 +48,8 @@ module Processors
         map {|x| Page.new(x) }
     end
 
-    def self.clean_blank_lines(page)
-      (page.split("\n") - [""]).join("\n")
-    end
-
-    def self.pull_tables(page)
-      page.scan(/(?<=as follows:\n)[\w\-`:\s]+(?:.+\.{6,}.+\s+)+/).
-        map.with_index {|table, index| [index, table.rstrip] }.to_h
+    def minus_blank_lines
+      (source.split("\n") - [""]).join("\n")
     end
   end
 end
