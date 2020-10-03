@@ -9,11 +9,6 @@ source = Processors::CongressionalRecord.new(
 pages = source.pages.map.with_index do |page, page_index|
         lines = page.lines
 
-        # HERE...
-        # trim off page headers and footers.
-        lines.reverse!.shift
-        lines.reverse!.shift
-
         max_size = lines.map {|l| l.length}.max
         grid = Array.new(max_size || 0, 0)
 
@@ -65,3 +60,5 @@ pages = source.pages.map.with_index do |page, page_index|
         [lines].join("\n") # , grid_nums
         # [column_a, column_b].flatten.join("\n")
 end
+
+puts pages.join("- " * 80)

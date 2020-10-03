@@ -10,6 +10,9 @@ end
 
 module Processors
   class CongressionalRecord
+    class Region
+    end
+
     class Page
       def initialize(source)
         @source = source
@@ -28,13 +31,8 @@ module Processors
 	  to_h
       end
     end
-
-    class Region < Page
-    end
   end
-end
 
-module Processors
   class CongressionalRecord
     def initialize(source)
       @source = source
