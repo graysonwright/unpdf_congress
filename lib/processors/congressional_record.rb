@@ -26,9 +26,9 @@ module Processors
 
       def pull_tables
         source.
-          scan(/(?<=as follows:\n)[\w\-`:\s]+(?:.+\.{6,}.+\s+)+/).
-          map.with_index {|table, index| [index, table.rstrip] }.
-	  to_h
+          scan(/(?<=as follows:\n)[\w\-`:\s]+(?:.+\.{6,}.+\s+)+/)
+          # map.with_index {|table, index| [index, table.rstrip] }.
+	  # to_h
       end
     end
   end
