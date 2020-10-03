@@ -10,7 +10,13 @@ end
 
 module Processors
   class CongressionalRecord
-    def self.parse_pages(source)
+    def initialize(source)
+      @source = source
+    end
+
+    attr_accessor :source
+
+    def parse_pages
       source.split(/^ *VerDate.+Jkt.+PO.+Frm.+Fmt.+Sfmt.+$/)
     end
 
