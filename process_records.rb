@@ -7,63 +7,39 @@ source = Processors::CongressionalRecord.new(
 )
 
 pages = source.pages.map.with_index do |page, page_index|
-        regions = page.regions
-        if(page_index == 184)
-          puts page.regions.map(&:source).join("~=" * 80 + "\n")
-        end
+  regions = page.regions
 
-        lines = page.lines
+  # debug grid spacing; see uniquely-columned pages.
+=begin
+  if(page_index >= 325)
+    puts page.regions.map.with_index {|r, index|
+      "#{page_index}.#{index}\t#{r.respond_to?(:column_spacing) ? r.column_spacing.inspect : 'grid'}"
+    }
+  end
+=end
 
-        max_size = lines.map {|l| l.length}.max
-        grid = Array.new(max_size || 0, 0)
+  # special pages
+  # 184 has grids
+  # 325, 326, 327 has roll calls
+  # 528, 569 has subcolumn grids
+=begin
+  if([325, 326, 327].include? page_index)
+    File.write("#{page_index}.txt", page.source)
+    puts page_index
 
-        lines.each do |line|
-            line.chars.each_with_index do |c, index|
-                grid[index] += 1 unless c == " "
-            end
-        end
+    page.regions.each do |region|
+      index_line = ' ' * region.source.lines.map(&:length).max
+      if region.respond_to? :column_spacing
+        region.column_spacing.each {|beginning, ending| index_line[beginning..ending] = '~' * (ending - beginning) }
+      end
+      puts index_line
+      puts "|         " * 20
+      puts region.source
+    end
+  end
+=end
 
-        grid_copy = grid[1..-1] + [0] rescue []
-        changes = minus(grid_copy, grid)
-
-        spacing_a = (changes.index(changes.max) || 0)
-        spacing_b = (changes.index(changes.max) || 0)
-
-	      spaces = {}
-	      grid.each_with_index { |number, index|
-            if number <= 5
-                if (beginning = spaces.invert[index - 1])
-                    spaces[beginning] = index
-                else
-                    spaces[index] = index
-                end
-            end
-        }
-
-        drop = []
-        spaces.each {|beginning, ending| drop << beginning if ending - beginning < 2 }
-        drop.each {|x| spaces.delete(x) }
-
-        if (180..190).include? page_index
-          puts "#{page_index}:\t#{spaces.inspect}"
-        end
-        
-        column_a = []
-        column_b = []
-        column_c = []
-
-        lines.each do |line|
-            column_a << (line.chars[0..spacing_a        ] || []).join
-            column_b << (line.chars[spacing_a..spacing_b] || []).join
-            column_c << (line.chars[spacing_b..-1       ] || []).join
-        end
-
-        grid_nums = grid.map{|x|
-'0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'[x] || '~'
-}.join + "\n"
-
-        [lines].join("\n") # , grid_nums
-        # [column_a, column_b].flatten.join("\n")
+  regions.map(&:as_single_column)
 end
 
-# puts pages.join("- " * 80)
+puts pages.join("- " * 80)
