@@ -5,9 +5,7 @@ source = Processors::CongressionalRecord.new(
 )
 
 source.pages[2..-1].each do |page|
-  page.source.css("div > nobr").each do |line|
-    puts line.text
-  end
+  puts page.lines
 end
 
 # special pages
