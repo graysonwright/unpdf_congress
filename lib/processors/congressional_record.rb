@@ -19,7 +19,7 @@ module Processors
     attr_accessor :sources
 
     def pages
-      ordered_sources.map {|s| Page.new(s) }
+      @pages ||= ordered_sources.map {|s| Page.new(s) }
     end
 
     def ordered_sources
