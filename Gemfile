@@ -5,6 +5,7 @@ ruby "2.6.3"
 gem "activesupport"
 gem "colorize"
 gem "ffi-aspell"
+gem "nokogiri"
 gem "pdf-reader"
 gem "ruby-progressbar"
 

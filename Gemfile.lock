@@ -18,7 +18,10 @@ GEM
     hashery (2.1.2)
     i18n (0.8.6)
     method_source (0.8.2)
+    mini_portile2 (2.4.0)
     minitest (5.10.3)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
     pdf-reader (2.0.0)
       Ascii85 (~> 1.0.0)
       afm (~> 0.2.1)
@@ -57,6 +60,7 @@ DEPENDENCIES
   activesupport
   colorize
   ffi-aspell
+  nokogiri
   pdf-reader
   pry
   rspec
