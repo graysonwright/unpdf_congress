@@ -4,7 +4,9 @@ source = Processors::CongressionalRecord.new(
   Dir.glob("compiled/*.html")
 )
 
-source.pages[2..-1].each do |page|
+beginning = 310
+source.pages[beginning..-1].each.with_index do |page, index|
+  puts "- - - - - pdf page #{index + beginning} - - - - -"
   puts page.lines
 end
 
